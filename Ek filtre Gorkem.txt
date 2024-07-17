@@ -1,0 +1,8 @@
+! Title: uBlock₀ filters – Ek Filtre
+! Last modified: %timestamp%
+! Expires: 48 hours
+
+! 17 Tem 2024 https://www.ziraatbank.com.tr
+www.ziraatbank.com.tr##.noindex.cookie-box
+
+cepteteb.com.tr###smartbanner
