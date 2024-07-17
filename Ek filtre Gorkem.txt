@@ -6,3 +6,5 @@
 www.ziraatbank.com.tr##.noindex.cookie-box
 
 cepteteb.com.tr###smartbanner
+
+mynet.com.tr##.swiper-slide
