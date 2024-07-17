@@ -9,3 +9,4 @@ www.ziraatbank.com.tr##.noindex.cookie-box
 cepteteb.com.tr###smartbanner
 
 www.mynet.com##figure
+mynet.com.tr##.wrapper
