@@ -3171,10 +3171,10 @@ pulitv2.live##.show.sagAlt.watermark
 /^betixir\d{1}\.live/##div.reklam-3
 /^betixir\d{1}\.live/##.show.solAlt.watermark
 
-! 9 Haz 2024 https://www.taraftarium24-4.site
-www.taraftarium24-4.site##div.desktop.playertop.volestream-gorsel
-www.taraftarium24-4.site##div.desktop.playerbottom.volestream-gorsel
-www.taraftarium24-4.site##.footer-sticky
+! 9 Haz 2024 https://www.taraftarium24-*.site
+/^www.taraftarium24-\d{1}\.site/##div.desktop.playertop.volestream-gorsel
+/^www.taraftarium24-\d{1}\.site/##div.desktop.playerbottom.volestream-gorsel
+/^www.taraftarium24-\d{1}\.site/##.footer-sticky
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
@@ -3553,6 +3553,4 @@ hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"
 hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 hdmac-adoredoll-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
 
-! 17 Tem 2024 https://www.a101.com.tr
-||app.personaclick.com/assets/webpush/sw.js$script,domain=www.a101.com.tr
 
