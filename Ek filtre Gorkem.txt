@@ -2979,10 +2979,6 @@ receivefreesms.net##center
 ! 25 May 2024 https://livetv.sx
 livetv.sx##body > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td > table > tbody > tr:nth-of-type(4) > td
 
-! 26 May 2024 https://www.koctas.com.tr
-||app.personaclick.com/assets/webpush/sw.js$script,domain=www.koctas.com.tr
-||www.koctas.com.tr/push_sw.js$script,domain=www.koctas.com.tr
-
 ! 26 May 2024 https://www.sabah.com.tr
 ||www.sabah.com.tr/webpush-sw.js$script,domain=www.sabah.com.tr
 ||i.tmgrup.com.tr/tmdwebpush/tmdwebpush.js$script,domain=www.sabah.com.tr
