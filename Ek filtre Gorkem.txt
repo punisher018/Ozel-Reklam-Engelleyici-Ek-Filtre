@@ -2883,9 +2883,6 @@ www.abcmascota.com###playerAdv2
 www.abcmascota.com##[href="https://rebrand.ly/ultraJTV"]
 www.abcmascota.com##[href="https://rebrand.ly/JTVSetra"]
 
-! 2024-05-02 https://infinityscans.net
-infinityscans.net,infinityscans.xyz#%#//scriptlet('remove-node-text', 'script', '/catch[\s\S]*?202020/')
-
 ! 2024-05-02 https://sounddrain.net
 sounddrain.net#%#//scriptlet('prevent-setTimeout', '.clientHeight<=0')
 
