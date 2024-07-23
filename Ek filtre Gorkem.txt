@@ -2980,8 +2980,6 @@ receivefreesms.net##center
 livetv.sx##body > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td > table > tbody > tr:nth-of-type(4) > td
 
 ! 26 May 2024 https://www.sabah.com.tr
-||www.sabah.com.tr/webpush-sw.js$script,domain=www.sabah.com.tr
-||i.tmgrup.com.tr/tmdwebpush/tmdwebpush.js$script,domain=www.sabah.com.tr
 www.sabah.com.tr##.nativeAdContent
 www.sabah.com.tr##.sub-board-frame
 sabah.com.tr#@#.advert
@@ -2990,16 +2988,7 @@ www.sabah.com.tr##div.visibleZone.view10.col-sm-6.col-md-12
 www.sabah.com.tr##.boxShadowSet.h250.w300.advert
 
 ! 26 May 2024 https://www.aksiyon.com.tr
-||www.aksiyon.com.tr/push.js$script,domain=www.aksiyon.com.tr
-||analytics.qushad.com/js/script.js$script,domain=www.aksiyon.com.tr
 aksiyon.com.tr#@#.author-social
-
-! 26 May 2024 https://bigpara.hurriyet.com.tr
-||assets.emarsys.net/web-emarsys-sdk/3.1.2/web-emarsys-service-worker.js$script,domain=bigpara.hurriyet.com.tr
-
-! 26 May 2024 https://www.aspor.com.tr
-||www.aspor.com.tr/webpush-sw.js$script,domain=www.aspor.com.tr
-||i.tmgrup.com.tr/tmdwebpush/tmdwebpush.js$script,domain=www.aspor.com.tr
 
 ! 1 Haz 2024 https://www.lokshorts.com
 lokshorts.com##.cookies-content
