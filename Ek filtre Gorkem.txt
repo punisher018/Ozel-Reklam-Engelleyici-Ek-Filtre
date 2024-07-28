@@ -2015,6 +2015,9 @@ ariva.buzz##+js(set, config.adv, {})
 ! 2024-01-25 https://tarabettv*.shop
 /^tarabettv\d{2}\.shop/##[href="https://bit.ly/tarabettv"]
 /^tarabettv\d{2}\.shop/##+js(rmnt, script, doOpen)
+/^tarabettv\d{2}\.shop/###modalPop
+/^tarabettv\d{2}\.shop/##.show.fade.modal-backdrop
+/^tarabettv\d{2}\.shop/##.modal-open:style(overflow: auto !important)
 
 ! 2024-01-25 https://testediyoruz12.pages.dev
 testediyoruz12.pages.dev##marquee
@@ -2313,9 +2316,10 @@ www.andromedaplus.com###playerAdv2
 /^canlibeinizle\d{3}\.com/##[href="https://bit.ly/CasipolBeinn"]
 ||canlibeinizle*.com/Uploads/6a43e521d49b43c581ecb419b3062686_canli-bein-izle-sides-2-130523.png$image
 /^canlibeinizle\d{3}\.com/##+js(set, config.adv, {})
-/^canlibeinizle\d{3}\.com/###modalPop
 /^canlibeinizle\d{3}\.com/##.clappr-watermark
+/^canlibeinizle\d{3}\.com/###modalPop
 /^canlibeinizle\d{3}\.com/##.show.fade.modal-backdrop
+/^canlibeinizle\d{3}\.com/##.modal-open:style(overflow: auto !important)
 
 ! 2024-02-24 https://bedavabein.blogspot.com
 bedavabein.blogspot.com###dqqqqq
@@ -3543,4 +3547,30 @@ hdmac-adoredoll-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
 /^justsporthd\d{2}\.xyz/##.duyuru
 ||justsporthd*.xyz/wp-content/uploads/2024/06/1000x100.gif$image
 
+! 27 Tem 2024 https://bilecik2022tv.tr.gg
+bilecik2022tv.tr.gg###selfpromotionOverlay
+
+! 28 Tem 2024 https://olympic-paris-2024.duktek.online
+||cdn.jsdelivr.net/gh/muhammadnashirhaer/duktek/js/2a448501cec70722c7ed0e10f848b43a.js
+
+! 26 Tem 2024 https://worldsports.me
+||worldsports.me/partytown/partytown.js$script
+worldsports.me##.top-0.text-white.bg-opacity-50.bg-dark.w-100.position-absolute.h-100
+worldsports.me##.m-1.fw-bold.btn-danger.btn
+
+! 25 Tem 2024 https://perakende.org
+perakende.org##.elementor-widget-image.elementor-widget.sc_fly_static.elementor-element-d8078f4.elementor-element.sc_layouts_item
+
+! 25 Tem 2024 https://sigortagundem.com
+sigortagundem.com##.site-wrapper > .widget
+sigortagundem.com##div.widget:nth-of-type(2)
+sigortagundem.com##div.widget:nth-of-type(5)
+sigortagundem.com##.floatRight.sidebar > div.widget:nth-of-type(3)
+sigortagundem.com##.floatRight.sidebar > div.widget:nth-of-type(1)
+sigortagundem.com##div.widget:nth-of-type(4)
+||sigortagundem.com/wp-content/uploads/2024/07/IMG_5010.jpeg$image
+sigortagundem.com##div.widget:nth-of-type(7) :contains(Anadolu Hayat Emeklilik)
+
+! 25 Tem 2024 https://ajansspor.com
+@@||count-server.sharethis.com^$script,domain=ajansspor.com
 
