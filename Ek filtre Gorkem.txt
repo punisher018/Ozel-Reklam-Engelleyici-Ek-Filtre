@@ -673,6 +673,10 @@ wikixh.world##.cKNip-nMsp-a.cKNip-nMsp-b
 wikixh.world##.a3df828f
 wikixh.world##.video-thumb.cKNip-nMcam-thumb__look-like-item.cKNip-nMcam-thumb--lv-red.cKNip-nMcam-thumb
 
+! 26 Tem 2024 https://cumintime.com
+cumintime.com##.link-offer
+cumintime.com##.asside-link
+
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
 
@@ -3400,7 +3404,7 @@ sozgazetesi.org.tr##div.stream-item-above-header
 ! 22 Haz 2024 https://hdmovieplay.xyz
 hdmovieplay.xyz##.jw-reset.jw-logo-top-right.jw-logo
 
-summertoon.me,animesonlineshd.com,minipet.online,ahghabc.com,ahghabb.com#%#//scriptlet('prevent-eval-if', '/fairAdblock|chp_?adblock|adsbygoogle\.js/')
+summertoon.me,animesonlineshd.com,minipet.online,ahghabc.com,ahghabb.com,ruly.online#%#//scriptlet('prevent-eval-if', '/fairAdblock|chp_?adblock|adsbygoogle\.js/')
 
 ! 25 Haz 2024 https://sportlemons.tv
 sportlemons.tv###sidebar
@@ -3534,5 +3538,9 @@ hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
 hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
 hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 hdmac-adoredoll-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
+
+! 28 Tem 2024 https://justsporthd*.xyz
+/^justsporthd\d{2}\.xyz/##.duyuru
+||justsporthd*.xyz/wp-content/uploads/2024/06/1000x100.gif$image
 
 
