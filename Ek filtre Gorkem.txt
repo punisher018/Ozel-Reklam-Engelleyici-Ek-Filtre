@@ -3473,9 +3473,6 @@ filmkovasi.tv#$##header { margin-top: 0 !important; }
 hdfilmizle.pro#$##header { margin-top: 0 !important; }
 wfilmizle.cc#$##header { margin-top: 0 !important; }
 
-! 5 Tem 2024 https://webteizle2.com
-webteizle2.com###header
-
 ! 5 Tem 2024 https://hdfilmizle.cx
 hdfilmizle.cx##.play_ust_txt
 
