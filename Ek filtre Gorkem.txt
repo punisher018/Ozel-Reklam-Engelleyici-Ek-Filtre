@@ -677,6 +677,19 @@ wikixh.world##.video-thumb.cKNip-nMcam-thumb__look-like-item.cKNip-nMcam-thumb--
 cumintime.com##.link-offer
 cumintime.com##.asside-link
 
+! 30 Tem 2024 https://asianbabez.com
+asianbabez.com##.spot
+asianbabez.com##.asside-link
+asianbabez.com##.link-offer
+
+! 1 Ağu 2024 https://javur.com
+javur.com##div.ad-h250.w3-mobile
+
+! 2 Ağu 2024 https://milfxl.com
+milfxl.com##.spot
+milfxl.com##.link-offer
+milfxl.com##.asside-link
+
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
 
@@ -690,6 +703,10 @@ netu.ac##[href^="mailto:support@netu.tv"]
 ||stbnetu.xyz/ad/top/popunder.js$script,1p
 ||stbnetu.xyz/js/script_33.10.js$script,1p
 stbnetu.xyz##[href^="mailto:support@netu.tv"]
+
+! 28 Tem 2024 https://stbpnetu.xyz
+stbpnetu.xyz##[href^="mailto:support@netu.tv"]
+||stbpnetu.xyz/js/segment.7.js$script
 
 ! 2023-10-01 https://jokerguide.com
 jokerguide.com##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
@@ -1066,6 +1083,7 @@ www.dinamotv103.com##.player_logo
 /^(www\.)?jestyayin\d{3}\.com/##+js(set, config.adv, {})
 /^(www\.)?jestyayin\d{3}\.com/##.container > div:nth-of-type(2)
 ||jestyayin*.com/1000x50.gif$image
+/^(www\.)?jestyayin\d{3}\.com/##.footer-links
 
 ! 2023-10-01 https://camcacam244.pages.dev
 ||cdsnnt.pages.dev/t244.png$image
@@ -1435,6 +1453,8 @@ fram8.pages.dev##marquee
 ! 2023-11-05 https://inattvcom*.xyz
 ||inattvcom*.xyz/matador728x90.gif$image
 ||inattvcom*.xyz/matador1728x90.gif$image
+/^inattvcom\d{3}\.xyz/##[href="https://cutt.ly/0wjW7f4E"]
+/^inattvcom\d{3}\.xyz/##[href="http://t2m.io/inattv"]
 /^inattvcom\d{3}\.xyz/##[src="/matador728x90.gif"]
 /^inattvcom\d{3}\.xyz/##marquee
 /^s1.inattvcom\d{3}\.xyz/##center
@@ -1684,9 +1704,14 @@ flash-24.live##div:nth-of-type(7)
 ||pmnew.b-cdn.net/cdn/ns/blg/blgbg.jpg$image
 ||pmnew.b-cdn.net/cdn/ns/hyl/hylbg.jpg$image
 ||pmnew.b-cdn.net/cdn/ns/blgnew/bg.jpg$image
+||get2e.b-cdn.net/cdn/blg/beluga-bg.jpg$image
 /^netspor\d{3}\.link/##div.banner_area
 /^netspor\d{3}\.link/###RightSide
 /^netspor\d{3}\.link/###leftSide
+/^netspor\d{3}\.link/##.blg-bx
+/^netspor\d{3}\.link/##.blg2
+/^netspor\d{3}\.link/##.ust-banner
+/^netspor\d{3}\.link/##.alt-banner
 
 /^netspor\d{2}\.link/##div.banner_area
 /^netspor\d{2}\.link/###RightSide
@@ -2428,6 +2453,7 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 proligler.blogspot.com###HTML619
 proligler.blogspot.com###HTML781
 proligler.blogspot.com###dqqqqq
+proligler.blogspot.com###sidebar-sticky
 
 ! 2024-03-05 https://avrupabettv*.com
 /^avrupabettv\d{2}\.com/##.show.sagAlt.watermark
@@ -3197,6 +3223,7 @@ mgviagrtoomuch.co##[href="https://cutt.ly/ew5ycfg1"]
 mgviagrtoomuch.co##body > div:nth-of-type(3)
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.co/betmatik.gif$image
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.co/betturkey.gif$image
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.co/iptvold.jpg$image
 
 nazifspor26.one#@##header-ad
 /^www.nazifspor\d{2}\.nl/#@##header-ad
@@ -3216,6 +3243,7 @@ nazifspor26.one#@##header-ad
 
 ! 9 Haz 2024 https://www.justintv.best
 www.justintv.best###HTML9
+www.justintv.best##.clappr-watermark
 
 ! 9 Haz 2024 https://grtv14.live
 ||grtv14.live/1000x50.gif$image
@@ -3540,6 +3568,43 @@ hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"
 hdmac-adoredoll-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 hdmac-adoredoll-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
 
+! 1 Ağu 2024 https://hdmac-aimsadvantage-com.cdn.ampproject.org
+hdmac-aimsadvantage-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
+hdmac-aimsadvantage-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
+hdmac-aimsadvantage-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
+hdmac-aimsadvantage-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
+hdmac-aimsadvantage-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
+
+! 1 Ağu 2024 https://www.aimsadvantage.com
+www.aimsadvantage.com##.headerreklam.amp-bannerlar
+www.aimsadvantage.com##[href="https://rebrand.ly/ultraJTV"]
+www.aimsadvantage.com##[href="https://rebrand.ly/JTVSetra"]
+www.aimsadvantage.com##[href="https://rebrand.ly/smartbahisJTV"]
+||www.aimsadvantage.com/izin/ultrabetpage.png$image
+www.aimsadvantage.com###amans
+www.aimsadvantage.com##.dikey
+www.aimsadvantage.com###playerAdv2
+
+! 3 Ağu 2024 https://www.bdstudentstalk.com
+www.bdstudentstalk.com###amans
+www.bdstudentstalk.com##.justintvizle.footersabit
+www.bdstudentstalk.com###masthead
+www.bdstudentstalk.com##.header-banner2
+www.bdstudentstalk.com##.rekk
+www.bdstudentstalk.com##[href="https://rebrand.ly/ultraJTV"]
+www.bdstudentstalk.com##[href="https://rebrand.ly/JTVSetra"]
+www.bdstudentstalk.com###playerAdv2
+
+! 3 Ağu 2024 https://www.ahimsainc.com
+www.ahimsainc.com###yoket
+www.ahimsainc.com##.ortabuyuk
+www.ahimsainc.com##div.rekk
+www.ahimsainc.com##.h-reklam
+www.ahimsainc.com##[href="https://rebrand.ly/ultraJTV"]
+www.ahimsainc.com##[href="https://rebrand.ly/JTVSetra"]
+www.ahimsainc.com###playerAdv2
+www.ahimsainc.com##.navbar-default.tay-bar.tay-nav
+
 ! 28 Tem 2024 https://justsporthd*.xyz
 /^justsporthd\d{2}\.xyz/##.duyuru
 ||justsporthd*.xyz/wp-content/uploads/2024/06/1000x100.gif$image
@@ -3554,6 +3619,10 @@ bilecik2022tv.tr.gg###selfpromotionOverlay
 ||worldsports.me/partytown/partytown.js$script
 worldsports.me##.top-0.text-white.bg-opacity-50.bg-dark.w-100.position-absolute.h-100
 worldsports.me##.m-1.fw-bold.btn-danger.btn
+||hksnu.com^
+||kaxjtkvgo.com^
+||lqtiwevsan.com^
+||nutiipwkk.com^
 
 ! 25 Tem 2024 https://perakende.org
 perakende.org##.elementor-widget-image.elementor-widget.sc_fly_static.elementor-element-d8078f4.elementor-element.sc_layouts_item
@@ -3570,4 +3639,11 @@ sigortagundem.com##div.widget:nth-of-type(7) :contains(Anadolu Hayat Emeklilik)
 
 ! 25 Tem 2024 https://ajansspor.com
 @@||count-server.sharethis.com^$script,domain=ajansspor.com
+
+! 26 Tem 2024 https://webteizle3.com
+webteizle3.com###header
+
+! 29 Tem 2024 https://pichive.online
+pichive.online###videoText
+
 
