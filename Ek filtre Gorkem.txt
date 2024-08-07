@@ -690,6 +690,9 @@ milfxl.com##.spot
 milfxl.com##.link-offer
 milfxl.com##.asside-link
 
+! 4 Ağu 2024 https://tr.porno-2020.com
+||mikellli.com/owner$script,domain=tr.porno-2020.com
+
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
 
@@ -991,6 +994,8 @@ tipstertv1.comtadi.pw##.clappr-watermark
 *betnis.online/nis1.mp4$media,1p
 ||*betnis.online/1000x50.gif$image
 /^\d{2}betnis\.online/##.top-right.logo
+/^\d{2}betnis\.online/##.mt-3
+/^\d{2}betnis\.online/##.hidden-sm.pageskin
 
 ! 2023-09-08 https://www.canlimacizlemax*.com
 /^www.canlimacizlemax\d{2}\.com/##.jw-reset.jw-logo-top-right.jw-logo
@@ -1497,6 +1502,8 @@ www.taraftariumizlehd.site##.clappr-watermark
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
 /^restizle\d{3}\.com/##.clappr-watermark
+/^restizle\d{3}\.com/##.only-desktop.footer-links
+||restizle*.com/wp-content/uploads/2024/06/970x100_restbet.gif$image
 
 ! 2023-11-09 https://www.yakabettv*.com
 ||yakabettv*.com/view/theme/safir/img/yakabito.jpg$image
@@ -3187,6 +3194,7 @@ pulitv2.live##.show.sagAlt.watermark
 /^www.taraftarium24-\d{1}\.site/##div.desktop.playertop.volestream-gorsel
 /^www.taraftarium24-\d{1}\.site/##div.desktop.playerbottom.volestream-gorsel
 /^www.taraftarium24-\d{1}\.site/##.footer-sticky
+/^www.taraftarium24-\d{1}\.site/##.footer-links
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
@@ -3202,6 +3210,7 @@ geo.dailymotion.com##.partner_watermark
 sultansportv102.com##.pageskin
 ||sultansportv102.com/wp-content/uploads/2024/05/*.jpg$image
 sultansportv102.com##.show.solAlt.watermark
+sultansportv102.com##.only-desktop.footer-links
 
 ! 9 Haz 2024 https://betpuantv*.com
 /^betpuantv\d{3}\.com/##.show.sagAlt.watermark
@@ -3305,9 +3314,10 @@ twittervideodownloader.cam##.widget-area-2.widget-area
 twittervideodownloader.cam###bigBanner
 twittervideodownloader.cam##svg
 
-! 15 Haz 2024 https://fan5.ssstik.cam
+! 15 Haz 2024 https://fan*.ssstik.cam
 ssstik.cam##.widget-area-1.widget-area
 ssstik.cam##.widget-area-2.widget-area
+ssstik.cam###id-custom_banner
 
 ! 15 Haz 2024 https://tapisa.online
 tapisa.online##aside#text-7.widget_text.widget:nth-of-type(5) > .widget-inner > .textwidget > div
@@ -3346,6 +3356,7 @@ autonewsmedia.site##div.mb-4.bg-white.rounded.shadow-sm:nth-of-type(5)
 ||tucsulfjseyan.com^
 ||bgelwdaa.com^
 ||psoofaltoo.com^
+||darcyjellynobles.com^
 
 ! 17 Haz 2024 https://725superbettv.com
 725superbettv.com##.nomobile.hidden-md.pageskin
@@ -3590,6 +3601,7 @@ www.bdstudentstalk.com##.rekk
 www.bdstudentstalk.com##[href="https://rebrand.ly/ultraJTV"]
 www.bdstudentstalk.com##[href="https://rebrand.ly/JTVSetra"]
 www.bdstudentstalk.com###playerAdv2
+bdstudentstalk.com#$#div#content.site-content { top: 0 !important; }
 
 ! 3 Ağu 2024 https://www.ahimsainc.com
 www.ahimsainc.com###yoket
@@ -3641,5 +3653,21 @@ webteizle3.com###header
 
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
+
+! 4 Ağu 2024 https://rekatv123.live
+rekatv123.live##.popup-overlay
+rekatv123.live##.mt-3
+||rekatv123.live/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
+||rekatv123.live/rekagifff1b.gif$image
+||rekatv123.live/rekatv-gif-1.gif$image
+
+! 5 Ağu 2024 https://www.peopleandcosmetics.com
+||peopleandcosmetics.com/evrak/setrabetpage.png$image
+www.peopleandcosmetics.com##[href="https://rebrand.ly/ultraJTV"]
+www.peopleandcosmetics.com##[href="https://rebrand.ly/JTVSetra"]
+
+
+
+
 
 
