@@ -13,7 +13,7 @@
 ! 2023-07-20 https://dizipal609.com/ - Gömülü reklam yazılarını (Burada video içindeydi) engelleme komutu
 ! ##pjsdiv[style*="position: absolute; top: -21px; left: -176px;"][style*="font-size: 15px;"]
 
-!  Sportsonline sitesinde şu sitelerinki haricinde hiç bir 3. parti scripti çalıştırma komutu
+! Sportsonline sitesinde şu sitelerinki haricinde hiç bir 3. parti scripti çalıştırma komutu
 !*$script,3p,denyallow=cloudflare.net|jsdelivr.net|fastly.net|swarm.video,from=sportsonline.*
 
 ! 2021-04-03 https://uploadgig.com
