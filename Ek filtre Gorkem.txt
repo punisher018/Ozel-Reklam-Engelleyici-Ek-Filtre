@@ -1019,6 +1019,7 @@ tipstertv1.comtadi.pw##.clappr-watermark
 
 ! 2023-09-10 https://amarabettv*.com
 /^amarabettv\d{1}\.com/##.show.sagAlt.watermark
+/^amarabettv\d{1}\.com/##.odds-container
 
 ! 2023-09-11 https://izlemac*.site
 /^izlemac\d{2}\.site/##.x-embed-link
@@ -1041,6 +1042,7 @@ www.dlfox.com##.single_post_banner
 /^(www\.)?istanbulcasinotv\d{2}\.com/##.pageskin
 /^(www\.)?istanbulcasinotv\d{2}\.com/##.playerbottom.ads
 /^(www\.)?istanbulcasinotv\d{2}\.com/##.show.sagUst.watermark
+/^(www\.)?istanbulcasinotv\d{2}\.com/##.footer-links
 
 ! 2023-09-20 https://antena-sport.online
 ||v2.nizarstream.com/NewEraStreams.png$image
@@ -1057,6 +1059,9 @@ cloud.comtadi.pw##.clappr-watermark
 
 ! 2023-09-21 https://levabettv*.com
 /^levabettv\d{2}\.com/##.show.sagAlt.watermark
+/^levabettv\d{2}\.com/##.footer-links
+/^levabettv\d{2}\.com/##div.odds-container.Hokeyi.Buz
+/^levabettv\d{2}\.com/##.player_logo
 
 ! 2023-09-17 https://www.zurihbettv108.live
 www.zurihbettv108.live##div.odds-container.Hokeyi.Buz > [href="http://zurihb.net/ipTv"]
@@ -1073,6 +1078,7 @@ www.zurihbettv108.live##.player_logo
 /^supertotobettv\d{3}\.com/##.livecontainer.bg-dark-1.container > div.vertical-gap.row > .col-lg-12 > [href="https://cutt.ly/H3iOEyA"]
 /^supertotobettv\d{3}\.com/##.clappr-watermark
 /^supertotobettv\d{3}\.com/##.player_logo
+/^supertotobettv\d{3}\.com/##div.odds-container.Hokeyi.Buz
 ||supertotobettv*.com/uploads/e2b23611-bd71-4602-8500-4f63883a219d.gif$image
 ||supertotobettv*.com/uploads/f6e633ef-7505-49af-a5a7-ec590ceff494.gif$image
 
@@ -1165,6 +1171,7 @@ shazysport.pro##.alignnone
 
 ! 2023-10-04 https://tulipbettv*.com
 /^tulipbettv\d{2}\.com/##.show.sagUst.watermark
+/^tulipbettv\d{2}\.com/##.odds-container
 
 ! 2023-10-04 https://volestream*.com
 /^volestream\d{2}\.com/##.show.solUst.watermark
@@ -1498,6 +1505,7 @@ www.taraftariumizlehd.site##.clappr-watermark
 
 ! 2023-11-06 https://palacebettv*.com
 /^palacebettv\d{2}\.com/##.ads-img
+/^palacebettv\d{2}\.com/##.footer-links
 
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
@@ -1638,6 +1646,7 @@ ggsport.tv##.z-50.bottom-15.right-1.absolute.flex-row-center.contain-upgrade.h-5
 /^www.atomsportv\d{3}\.site/##.desktop.playertop.volestream-gorsel
 /^www.atomsportv\d{3}\.site/##.show.sagAlt.watermark
 /^www.atomsportv\d{3}\.site/##.footer-sticky
+/^www.atomsportv\d{3}\.site/##.odds-container
 
 ! 2023-12-02 https://cvdd.one
 cvdd.one##.vast-blocker
@@ -2050,6 +2059,7 @@ ariva.buzz##+js(set, config.adv, {})
 /^tarabettv\d{2}\.shop/###modalPop
 /^tarabettv\d{2}\.shop/##.show.fade.modal-backdrop
 /^tarabettv\d{2}\.shop/##.modal-open:style(overflow: auto !important)
+/^tarabettv\d{2}\.shop/##div.vertical-gap.row:nth-of-type(2)
 
 ! 2024-01-25 https://testediyoruz12.pages.dev
 testediyoruz12.pages.dev##marquee
@@ -2334,6 +2344,7 @@ fram88x.pages.dev##marquee
 
 ! 2024-02-23 https://volestream1.live
 volestream1.live##.show.solUst.watermark
+volestream1.live##.odds-container
 
 ! 2024-02-23 https://www.andromedaplus.com
 www.andromedaplus.com###amans
@@ -2881,6 +2892,8 @@ asyabox.com##+js(nowoif)
 ! 2024-04-28 https://vegabettv*.shop
 /^vegabettv\d{1}\.shop/##[href^="https://affvega.com/links/"]
 /^vegabettv\d{1}\.shop/##+js(nowoif)
+/^vegabettv\d{1}\.shop/##[href^="https://vegabetortaklik.com/links/"]
+/^vegabettv\d{1}\.shop/##div.vertical-gap.row:nth-of-type(2)
 
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##[href="https://cutt.ly/kw2gftap"]
@@ -2954,6 +2967,7 @@ betbigotv1.club##.show.sagUst.watermark
 
 ! 2024-05-02 https://maksibetmactv1.com
 maksibetmactv1.com##.show.sagAlt.watermark
+maksibetmactv1.com##.odds-container
 
 ! 2024-05-02 https://www.hdtvlertv.com
 www.hdtvlertv.com##div.container > center
@@ -3077,6 +3091,7 @@ www.jsized.com###playerAdv2
 ||yakatv*.com/view/theme/safir/img/yakabito.jpg$image
 ||yakatv*.com/view/theme/safir/img/1679913050_1000x50.gif$image
 /^yakatv\d{2}\.com/##.top-right.logo
+/^yakatv\d{2}\.com/##.mt-3
 
 ! 31 May 2024 https://goley90tvgiris.site
 goley90tvgiris.site##.pageskin
@@ -3172,6 +3187,7 @@ hdmac-allsrtfree-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 
 ! 9 Haz 2024 https://pulitv2.live
 pulitv2.live##.show.sagAlt.watermark
+pulitv2.live##.odds-container
 
 ! 9 Haz 2024 https://betist*tv.live
 /^betist\d{2}tv\.live/###modalPop
@@ -3374,6 +3390,7 @@ showbettv15.com##.show.sagAlt.watermark
 ! 17 Haz 2024 https://grandhdyayin*.com
 /^grandhdyayin\d{3}\.com/##.pageskin
 /^grandhdyayin\d{3}\.com/##.playerbottom.ads
+/^grandhdyayin\d{3}\.com/##.footer-links
 
 ! 17 Haz 2024 https://sesbettv1.com
 ||ollotv.tbcof.com/uploads/client/settings/P-66-f359bcab6fe6bbae3d9e1485d1458141.png$image
@@ -3544,6 +3561,7 @@ dizirex.com##+js(nowoif)
 ! 7 Tem 2024 https://www.betmatiktv84.com
 www.betmatiktv84.com##div.odds-container.Hokeyi.Buz
 www.betmatiktv84.com##.player_logo
+www.betmatiktv84.com##.footer-links
 
 ! 7 Tem 2024 https://m.canlitvizle.vip
 ||controlpush.com/js/cpv1-canlitvizlek-com.js$script,domain=m.canlitvizle.vip
@@ -3665,7 +3683,8 @@ rekatv123.live##.mt-3
 www.peopleandcosmetics.com##[href="https://rebrand.ly/ultraJTV"]
 www.peopleandcosmetics.com##[href="https://rebrand.ly/JTVSetra"]
 
-
+! 7 Ağu 2024 https://mactadi.blogspot.com
+mactadi.blogspot.com##marquee
 
 
 
