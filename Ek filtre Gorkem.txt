@@ -2523,10 +2523,6 @@ www.alsoqalkbir.com##.navbar-default.tay-bar.tay-nav
 uwsprtsfrmr2.site##.container > div:nth-of-type(1)
 uwsprtsfrmr2.site##.clappr-watermark
 
-jytechs.in,dev.miuiflash.com,djxmaza.in,thecubexguide.com#@#[id*="div-gpt-ad-"], [id*="google_ads_"]
-jytechs.in,dev.miuiflash.com,djxmaza.in,thecubexguide.com##[id*="div-gpt-ad-"], [id*="google_ads_"]:style(clip-path: circle(0) !important;)
-jytechs.in,dev.miuiflash.com,djxmaza.in,thecubexguide.com##[id^="gpt_unit_\/"]
-
 terabox.com#@#.share-video
 
 ! 2024-03-23 https://www.kongregate.com
