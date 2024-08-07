@@ -3627,10 +3627,6 @@ bilecik2022tv.tr.gg###selfpromotionOverlay
 ||worldsports.me/partytown/partytown.js$script
 worldsports.me##.top-0.text-white.bg-opacity-50.bg-dark.w-100.position-absolute.h-100
 worldsports.me##.m-1.fw-bold.btn-danger.btn
-||hksnu.com^
-||kaxjtkvgo.com^
-||lqtiwevsan.com^
-||nutiipwkk.com^
 
 ! 25 Tem 2024 https://perakende.org
 perakende.org##.elementor-widget-image.elementor-widget.sc_fly_static.elementor-element-d8078f4.elementor-element.sc_layouts_item
