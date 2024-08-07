@@ -2227,6 +2227,7 @@ corsproxy.org##+js(set, config.adv, {})
 
 ! 2024-02-15 https://mactanmaca*.shop
 /^mactanmaca\d{4}\.shop/##.x-embed-link
+/^mactanmaca\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
@@ -2321,6 +2322,7 @@ fram88x.pages.dev##marquee
 
 ! 2024-02-22 https://macizlevip*.shop
 /^macizlevip\d{4}\.shop/##.x-embed-link
+/^macizlevip\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 
 ! 2024-02-23 https://vegabettv*.online
 /^vegabettv\d{2}\.online/##[href="https://t2m.io/wZy7frd"]
@@ -2390,6 +2392,7 @@ drakulastream.xyz##.tallstreambanner
 
 ! 2024-02-28 https://belestepe*.shop
 /^belestepe\d{4}\.shop/##.x-embed-link
+/^belestepe\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 
 ! 2024-02-28 https://www.gofastek.com
 www.gofastek.com###yoket
