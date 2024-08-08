@@ -1960,8 +1960,6 @@ inattvgiris1.pro##body > div:nth-of-type(3)
 ! 2024-01-08 https://www.lookmovie2.to
 www.lookmovie2.to##[src="/images/ads/2.png"]
 
-mislink3.com##+js(nano-sib)
-
 ! 2024-01-09 https://www.webspor*.buzz
 /^www.webspor\d{1}\.buzz/###HTML13
 /^www.webspor\d{1}\.buzz/###HTML14
