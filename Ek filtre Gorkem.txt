@@ -288,6 +288,8 @@ dosya.tc##+js(nano-sib)
 
 ! 2023-05-28 https://pumahdyayin*.com
 /^pumahdyayin\d{2}\.com/##.pageskin
+/^pumahdyayin\d{2}\.com/##.footer-links
+/^pumahdyayin\d{2}\.com/##ul
 ||seopaktablo.xyz/modtablo/upload/blog/1000x1000/popuphead.webp$image
 ||seopaktablo.xyz/modtablo/admin/footer$subdocument
 
@@ -1476,6 +1478,7 @@ fram8.pages.dev##marquee
 /^s\d{1}\.inattvcom\d{3}\.xyz/##+js(nowoif)
 /^inattvcom\d{3}\.xyz/##.custom-banner
 /^inattvcom\d{3}\.xyz/##.plyr__video-wrapper::before
+||i.hizliresim.com/1nmc8qf.gif$image
 
 ! 2023-11-05 https://inattvhd*.xyz
 /^inattvhd\d{3}\.xyz/##.custom-banner
@@ -1614,6 +1617,7 @@ www.adolstore.com##.headermenualti
 /^rinatv\d{2}\.online/##.pageskin
 /^rinatv\d{2}\.online/##.reklam-3
 /^rinatv\d{2}\.online/##.show.solAlt.watermark
+/^rinatv\d{2}\.online/##.odds-container
 
 ! 2023-11-29 https://24hsport.tv
 24hsport.tv##.playerPopup
@@ -1798,11 +1802,11 @@ pllsfored.com##body > div:nth-of-type(2)
 /^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
 
 ! 2023-12-14 https://matadorbettv*.com
-||matadorbettv*.com/Uploads/0951455b454b40f4998d2bbb4078837e_12132.jpg$image
 /^matadorbettv\d{2}\.com/##[href="https://cutt.ly/V7egAT5"]
 /^matadorbettv\d{2}\.com/##.pageskin
 /^matadorbettv\d{2}\.com/##.show.solAlt.watermark
-/^matadorbettv\d{2}\.com/##header
+||matadorbettv*.com/Uploads/0951455b454b40f4998d2bbb4078837e_12132.jpg$image
+||matadorbettv*.com/Uploads/d3affc9f98ff4f81be3b6aa078d4e674_pageskin_matador.jpg$image
 
 ! 2023-12-14 https://www.dmax.com.tr
 ||dygassets.dygdigital.com/Rep/dygtag-dmax.js$script,domain=www.dmax.com.tr
@@ -1861,6 +1865,8 @@ inattv.vip##.mCS_no_scrollbar.mCS-autoHide._mCS_2.mCustomScrollbar.scrolling.rig
 ! 2023-12-28 https://elithdyayin*.com
 /^(www\.)?elithdyayin\d{2}\.com/##.pageskin
 /^(www\.)?elithdyayin\d{2}\.com/##.playerbottom.ads
+/^(www\.)?elithdyayin\d{2}\.com/##ul
+/^(www\.)?elithdyayin\d{2}\.com/##.footer-links
 
 ! 2023-12-29 https://hitsports.pro
 hitsports.pro##.alignnone
@@ -2420,6 +2426,10 @@ www.gofastek.com##[href="https://rebrand.ly/JTVSetra"]
 ! 2024-02-28 https://canliskor1.xyz
 canliskor1.xyz##.smallscreen.stream-ads
 canliskor1.xyz##.show.sagAlt.watermark
+canliskor1.xyz##.fullscreen.stream-ads
+canliskor1.xyz##.footer-links
+canliskor1.xyz##.odds-container
+canliskor1.xyz##ul
 
 ! 2024-02-28 https://www.stucee.com
 www.stucee.com###amans
@@ -3254,6 +3264,8 @@ geo.dailymotion.com##.partner_watermark
 
 ! 9 Haz 2024 https://betpuantv*.com
 /^betpuantv\d{3}\.com/##.show.sagAlt.watermark
+/^betpuantv\d{3}\.com/##[href="http://betpuan.vip"]
+/^betpuantv\d{3}\.com/##.player_logo
 
 ! 9 Haz 2024 https://betsilintv8.live
 betsilintv8.live##.pageskin
@@ -3707,6 +3719,10 @@ webteizle3.com###header
 
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
+
+! 1 Ağu 2024 https://macboxtv.xyz
+||dizipal1.com/wp-content/uploads/2024/07/riyal.gif$image
+||dizipal1.com/wp-content/uploads/2024/07/motion.gif$image
 
 ! 4 Ağu 2024 https://rekatv*.live
 /^rekatv\d{3}\.live/##.popup-overlay
