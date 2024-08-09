@@ -1,7 +1,7 @@
 ! Title: uBlock₀ filters – Ek Filtre
 !https://raw.githubusercontent.com/punisher018/Ozel-Reklam-Engelleyici-Ek-Filtre/main/Ek%20filtre%20Gorkem.txt
 ! Last modified: %timestamp%
-! Expires: 48 hours
+! Expires: 240 hours
 
 ! KONSOL AÇILIŞI ENGELLEMELERİNİ KALDIRMAK İÇİN
 !canlimacizlemax17.com##+js(nostif, 0x)
