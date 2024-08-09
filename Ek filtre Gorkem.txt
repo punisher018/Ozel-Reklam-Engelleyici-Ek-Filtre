@@ -3216,7 +3216,7 @@ pulitv2.live##.odds-container
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^betist\d{2}tv\.live/
 
 ! 9 Haz 2024 https://rekatv*.com
-/^rekatv\d{2}\.com/##.popup-overlay
+/^rekatv\d{3}\.com/##.popup-overlay
 ||rekatv*.com/view/theme/safir/img/pageskin-rev-17.04.jpg$image
 ||rekatv*.com/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
 ||rekatv*.com/rekatv-gif-1.gif$image
