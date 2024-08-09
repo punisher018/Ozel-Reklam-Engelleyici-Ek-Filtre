@@ -3589,7 +3589,9 @@ fiksturtv1.online##.odds-container
 dizirex.com##+js(nowoif)
 
 ! 6 Tem 2024 https://socceronline.me
-||socceronline.me/stream.bun.min.js$script
+||socceronline.me/partytown/partytown-sw.js$script
+socceronline.me##.m-1.fw-bold.btn-danger.btn
+socceronline.me##+js(rmnt, script, FingerprintJS)
 
 ! 6 Tem 2024 https://*lavivabettv.online
 /^\d{2}lavivabettv\.online/##.pageskin
@@ -3763,6 +3765,7 @@ www.idmcrackdl.com##center
 ! 9 Ağu 2024 https://mrwallpaper.com
 mrwallpaper.com#@#.ad-enabled
 mrwallpaper.com#@#.ad-holder
+
 
 
 
