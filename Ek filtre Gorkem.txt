@@ -193,6 +193,7 @@ https://theonecdn.com/script/suv4.js
 ||cdn.streamize.live/1661335441-page_skin.jpg$image
 /^kingbettingtv\d{2}\.com/##.pageskin
 /^kingbettingtv\d{2}\.com/##.playerbottom.ads
+/^kingbettingtv\d{2}\.com/##.footer-links
 ||cdn.streamize.live/1639833379-player_watermark.png$image
 
 ! 2023-04-23 https://betexpertv*.live
@@ -1569,6 +1570,7 @@ gamedrive.org###BR-Footer-dAs
 /^(www\.)?\d{2}setrabettv\.com/##body:style(background-color: #000000 !important;)
 
 ! 2023-11-25 https://meritslottv*.com
+/^meritslottv\d{2}\.com/##.odds-container
 ||cdnobi.info/cdnobi.info/cdn/*tv/test/uploads/advertisements/$image
 jpg.cdnimagify.store##.clappr-watermark
 
@@ -2970,6 +2972,8 @@ betbigotv1.club##.footer-links
 
 ! 2024-05-02 https://polobettv*.site
 /^polobettv\d{3}\.site/##.show.sagAlt.watermark
+/^polobettv\d{3}\.site/##.odds-container
+/^polobettv\d{3}\.site/##ul
 
 ! 2024-05-02 https://betboxtv*.com
 /^betboxtv\d{2}\.com/##.show.sagUst.watermark
@@ -3136,6 +3140,8 @@ justint.xyz##+js(set, config.adv, {})
 /^ultrabettv\d{3}\.com/##.playerbottom.ads
 /^ultrabettv\d{3}\.com/##.show.sagUst.watermark
 /^ultrabettv\d{3}\.com/##.pageskin
+/^ultrabettv\d{3}\.com/##.footer-links
+/^ultrabettv\d{3}\.com/##ul
 
 ! 2 Haz 2024 https://roketdizi.co
 roketdizi.co#@#div[id^="gpt_ad_"]
@@ -3163,7 +3169,9 @@ tifihug.com##noindex
 ||tifihug.com/sw.js$script,domain=tifihug.com
 
 ! 8 Haz 2024 https://ssporttv*.com
-||ssporttv*.com/logo.png$image
+/^ssporttv\d{2}\.com/##.footer-links
+/^ssporttv\d{2}\.com/##ul
+/^ssporttv\d{2}\.com/##.container > div:nth-of-type(2)
 
 ! 8 Haz 2024 https://betsnewtv*.live
 /^betsnewtv\d{3}\.live/##.pageskin
@@ -3232,6 +3240,7 @@ geo.dailymotion.com##.partner_watermark
 ! 9 Haz 2024 https://zibilyontv*.com
 ||zibilyontv*.com/1000x50-1.gif$image
 /^zibilyontv\d{2}\.com/##.top-right.logo
+/^zibilyontv\d{2}\.com/##.mt-3
 
 ! 9 Haz 2024 https://gizatv*.live
 /^gizatv\d{2}\.live/##.show.sagAlt.watermark
@@ -3240,6 +3249,7 @@ geo.dailymotion.com##.partner_watermark
 /^sultansportv\d{3}\.com/##.pageskin
 /^sultansportv\d{3}\.com/##.show.solAlt.watermark
 /^sultansportv\d{3}\.com/##.only-desktop.footer-links
+/^sultansportv\d{3}\.com/##ul
 ||sultansportv*.com/wp-content/uploads/2024/05/*.jpg$image
 
 ! 9 Haz 2024 https://betpuantv*.com
@@ -3273,6 +3283,8 @@ nazifspor26.one#@##header-ad
 
 ! 9 Haz 2024 https://ladestv*.com
 /^ladestv\d{2}\.com/##.pageskin
+/^ladestv\d{2}\.com/##.footer-links
+/^ladestv\d{2}\.com/##ul
 
 ! 9 Haz 2024 https://www.netsportv*.site
 /^www.netsportv\d{2}\.site/##div.desktop.playertop.volestream-gorsel
@@ -3567,10 +3579,14 @@ dizirex.com##+js(nowoif)
 ! 6 Tem 2024 https://socceronline.me
 ||socceronline.me/stream.bun.min.js$script
 
-! 6 Tem 2024 https://37lavivabettv.online
+! 6 Tem 2024 https://*lavivabettv.online
 /^\d{2}lavivabettv\.online/##.pageskin
 /^\d{2}lavivabettv\.online/##div.reklam-3
 /^\d{2}lavivabettv\.online/##.show.solAlt.watermark
+/^\d{2}lavivabettv\.online/##.odds-container
+/^\d{2}lavivabettv\.online/##.footer-links
+/^\d{2}lavivabettv\.online/##.copyright-text
+/^\d{2}lavivabettv\.online/##ul
 ||admerkez.com/files/uploads/laviva.mp4$media
 ||*lavivabettv.online/view/theme/ultimate/assets/js/booad.js$script
 
@@ -3692,20 +3708,45 @@ webteizle3.com###header
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
 
-! 4 Ağu 2024 https://rekatv123.live
-rekatv123.live##.popup-overlay
-rekatv123.live##.mt-3
-||rekatv123.live/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
-||rekatv123.live/rekagifff1b.gif$image
-||rekatv123.live/rekatv-gif-1.gif$image
+! 4 Ağu 2024 https://rekatv*.live
+^rekatv\d{3}\.live/##.popup-overlay
+/^rekatv\d{3}\.live/##.mt-3
+||rekatv*.live/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
+||rekatv*.live/rekagifff1b.gif$image
+||rekatv*.live/rekatv-gif-1.gif$image
 
 ! 5 Ağu 2024 https://www.peopleandcosmetics.com
 ||peopleandcosmetics.com/evrak/setrabetpage.png$image
 www.peopleandcosmetics.com##[href="https://rebrand.ly/ultraJTV"]
 www.peopleandcosmetics.com##[href="https://rebrand.ly/JTVSetra"]
 
+! 6 Ağu 2024 https://homesports.net
+homesports.net##.is-active.modal
+
 ! 7 Ağu 2024 https://mactadi.blogspot.com
 mactadi.blogspot.com##marquee
+
+! 7 Ağu 2024 https://en12.sportplus.live
+en12.sportplus.live##.page__aside-banner
+en12.sportplus.live##router-outlet
+en12.sportplus.live##.banner__close
+en12.sportplus.live##[href^="go/"]
+
+! 7 Ağu 2024 https://techedubyte.com
+techedubyte.com###gmr-popupwrap
+techedubyte.com##+js(nano-sib, r, *)
+techedubyte.com#@#+js(addEventListener-defuser, load, [native code])
+@@||static.doubleclick.net/instream/ad_status.js$xhr,domain=techedubyte.com
+
+! 9 Ağu 2024 https://kolaybettv*.com
+/^kolaybettv\d{3}\.com/##.odds-container
+
+! 9 Ağu 2024 https://www.idmcrackdl.com
+www.idmcrackdl.com##center
+
+! 9 Ağu 2024 https://mrwallpaper.com
+mrwallpaper.com#@#.ad-enabled
+mrwallpaper.com#@#.ad-holder
 
 
 
