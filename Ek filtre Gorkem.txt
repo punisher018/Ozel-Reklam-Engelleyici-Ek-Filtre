@@ -231,6 +231,7 @@ onedio.com##.p-2\.5.relative.min-h-\[360px\]
 /^(www\.)?vegoltv\d{3}\.com/##.pageskin
 /^(www\.)?vegoltv\d{3}\.com/##.reklam-3
 /^(www\.)?vegoltv\d{3}\.com/###vm_push
+/^(www\.)?vegoltv\d{3}\.com/##ul
 /^(www\.)?vegoltv\d{3}\.com/##.container > div:nth-of-type(2)
 /^(www\.)?vegoltv\d{3}\.com/##+js(set, config.adv, {})
 
@@ -245,6 +246,8 @@ onedio.com##.p-2\.5.relative.min-h-\[360px\]
 /^\d{3}dumantv\.com/##div > [href="https://*dumantv.com/"]
 /^\d{3}dumantv\.com/##.show.solAlt.watermark
 /^\d{3}dumantv\.com/##body > div > [href]
+/^\d{3}dumantv\.com/##div.reklam-3
+/^\d{3}dumantv\.com/##.odds-container
 
 ! 2023-04-25 https://sporligtv*.live
 /^sporligtv\d{3}\.live/###menuConts
@@ -696,6 +699,10 @@ milfxl.com##.asside-link
 ! 4 Ağu 2024 https://tr.porno-2020.com
 ||mikellli.com/owner$script,domain=tr.porno-2020.com
 
+! 10 Ağu 2024 https://javhd.ninja
+javhd.ninja##.we-nopop
+javhd.ninja###f186fb23a33995d91ce3c2212189178c8
+
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
 
@@ -1098,6 +1105,7 @@ www.dinamotv103.com##.player_logo
 /^(www\.)?jestyayin\d{3}\.com/##.container > div:nth-of-type(2)
 ||jestyayin*.com/1000x50.gif$image
 /^(www\.)?jestyayin\d{3}\.com/##.footer-links
+/^(www\.)?jestyayin\d{3}\.com/##ul
 
 ! 2023-10-01 https://camcacam244.pages.dev
 ||cdsnnt.pages.dev/t244.png$image
@@ -1192,6 +1200,7 @@ shazysport.pro##.alignnone
 /^tipobettv\d{3}\.com/##.clappr-watermark
 ||tipobettv*.com/Uploads/15667f60bb374e59923533bc3c87093a_pageskin.jpg$image
 /^tipobettv\d{3}\.com/##[href="https://cutt.ly/69vmAsz"]
+/^tipobettv\d{3}\.com/##.odds-container
 
 ! 2023-10-04 https://retrobet*.tv
 /^retrobet\d{3}\.tv/##.hidden-xs
@@ -1510,6 +1519,7 @@ www.taraftariumizlehd.site##.clappr-watermark
 ! 2023-11-06 https://palacebettv*.com
 /^palacebettv\d{2}\.com/##.ads-img
 /^palacebettv\d{2}\.com/##.footer-links
+/^palacebettv\d{2}\.com/##ul
 
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
@@ -1644,6 +1654,7 @@ b5yucast.com##img
 ! 2023-12-02 https://hiltonbettv*.com
 /^hiltonbettv\d{2}\.com/##.show.sagUst.watermark
 /^hiltonbettv\d{2}\.com/##.odds-container
+/^hiltonbettv\d{2}\.com/##ul
 
 ! 2023-12-02 https://ggsport.tv
 ggsport.tv##.z-50.bottom-15.right-1.absolute.flex-row-center.contain-upgrade.h-5.px-1.lg\:visible.invisible.w-max
@@ -1671,6 +1682,7 @@ mgviagrtoomuch.com##+js(set, config.adv, {})
 ! 2023-12-02 https://*sekastream.com
 /^\d{3}sekastream\.com/##.pageskin
 /^\d{3}sekastream\.com/##.show.solAlt.watermark
+/^\d{3}sekastream\.com/##.odds-container
 ||*sekastream.com/milanpromo.mp4$media,1p
 ||*sekastream.com/ovc/counter.js$script
 
@@ -2478,6 +2490,8 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 
 ! 2024-03-03 https://sbetin*.live
 /^sbetin\d{1}\.live/##.show.sagAlt.watermark
+/^sbetin\d{1}\.live/##ul
+/^sbetin\d{1}\.live/##.odds-container
 
 ! 2024-03-03 https://matbettv.com
 ||gamejung.com/cc/canli-mac-izle.png$image
@@ -2909,14 +2923,14 @@ asyabox.com##+js(nowoif)
 ||fashionbet-tv*.com/Uploads/18045289820f4486be0725c5e5b13199_fspageskin.png$image
 
 ! 2024-04-28 https://vegabettv*.shop
-/^vegabettv\d{1}\.shop/##[href^="https://affvega.com/links/"]
-/^vegabettv\d{1}\.shop/##+js(nowoif)
-/^vegabettv\d{1}\.shop/##[href^="https://vegabetortaklik.com/links/"]
-/^vegabettv\d{1}\.shop/##div.vertical-gap.row:nth-of-type(2)
+/^vegabettv\d{2}\.shop/##[href^="https://affvega.com/links/"]
+/^vegabettv\d{2}\.shop/##+js(nowoif)
+/^vegabettv\d{2}\.shop/##[href^="https://vegabetortaklik.com/links/"]
 
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##[href="https://cutt.ly/kw2gftap"]
 ||*bayspintv.live/Uploads/1fb69a18640449afa7e5e662585e5971_PAGESKIN2.jpg$image
+||*bayspintv.live/Uploads/c035e0f35ce84b889370b65e3454a1b3_BAYSPIN.png$image
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
 
 ! 2024-04-30 https://romabettv*.com
@@ -3189,6 +3203,7 @@ tifihug.com##noindex
 /^betsnewtv\d{3}\.live/##a[href="https://betsnew.link"]
 /^betsnewtv\d{3}\.live/##.vdldl
 ||video.twimg.com/amplify_video/1789429717759660034/$xhr,domain=/^betsnewtv\d{3}\.live/
+/^betsnewtv\d{3}\.live/##.only-desktop.footer-links
 
 ! 8 Haz 2024 https://www.allsrtfree.com
 www.allsrtfree.com###amans
@@ -3254,6 +3269,8 @@ geo.dailymotion.com##.partner_watermark
 
 ! 9 Haz 2024 https://gizatv*.live
 /^gizatv\d{2}\.live/##.show.sagAlt.watermark
+/^gizatv\d{2}\.live/##.odds-container
+/^gizatv\d{2}\.live/##ul
 
 ! 9 Haz 2024 https://sultansportv*.com
 /^sultansportv\d{3}\.com/##.pageskin
@@ -3765,6 +3782,18 @@ www.idmcrackdl.com##center
 ! 9 Ağu 2024 https://mrwallpaper.com
 mrwallpaper.com#@#.ad-enabled
 mrwallpaper.com#@#.ad-holder
+
+! 9 Ağu 2024 https://gameavenue.co
+gameavenue.co##.code-block-2.code-block
+gameavenue.co###custom_html-18
+gameavenue.co###custom_html-16
+gameavenue.co###custom_html-24
+gameavenue.co###custom_html-19
+gameavenue.co###custom_html-12
+
+! 10 Ağu 2024 https://betparktv*.com
+/^betparktv\d{3}\.com/##.odds-container
+/^betparktv\d{3}\.com/##ul
 
 
 
