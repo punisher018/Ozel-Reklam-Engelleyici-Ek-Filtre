@@ -152,6 +152,8 @@ https://video.twimg.com/ext_tw_video/1588618659517300736/pu/*
 ||interspor*.us/assets/depo/18cf513725e579cf0c45a24cff257768.gif$image
 /^interspor\d{2}\.us/##.show.sagAlt.watermark
 /^interspor\d{2}\.us/##.video-before
+/^interspor\d{2}\.us/##ul
+/^interspor\d{2}\.us/##.odds-container
 
 ! 2023-04-23 https://www.selcuksportshd*.xyz
 ||www.selcuksportshd*.xyz/img/m-ad-*-min.gif$image
@@ -650,18 +652,24 @@ shameless.com##.for-desktop.aside
 ! 2024-04-21 https://vlxx.moe
 ||cdn.adxcontent.com/vlxx/$script,domain=vlxx.moe
 
-! 5 Haz 2024 https://xhhawaii.xyz
-xhhawaii.xyz##.KYOIa-wRno-ts-init.KYOIa-wR.KYOIa-wRplayer
-xhhawaii.xyz##.page-1.video-thumb.KYOIa-wRcam-thumb__look-like-item.KYOIa-wRcam-thumb--lv-red.KYOIa-wRcam-thumb
-xhhawaii.xyz##.JQeL-QStsp-a.JQeL-QStsp-b
-xhhawaii.xyz##.page-1.video-thumb.JQeL-QStcam-thumb__look-like-item.JQeL-QStcam-thumb--lv-red.JQeL-QStcam-thumb
-xhhawaii.xyz##.JQeL-QStno-ts-init.JQeL-QSt.JQeL-QStplayer
-xhhawaii.xyz##.auto-generated-banner-container
-xhhawaii.xyz##.cookiesAnnounce-30a9a
-xhhawaii.xyz##.f9586025
-xhhawaii.xyz##.e9d1f-containerBottomSpot
-xhhawaii.xyz##.page-1.video-thumb.LIyQ-Mquicam-thumb__look-like-item.LIyQ-Mquicam-thumb--lv-red.LIyQ-Mquicam-thumb
-xhhawaii.xyz##.LIyQ-Mquisp-a.LIyQ-Mquisp-b
+! 4 Ağu 2024 https://xhtech.life
+xhtech.life##._6a3b8-containerBottomSpot
+xhtech.life##.KCwdw-RUHLsp-a.KCwdw-RUHLsp-b
+xhtech.life##.page-1.video-thumb.KCwdw-RUHLcam-thumb__look-like-item.KCwdw-RUHLcam-thumb--lv-red.KCwdw-RUHLcam-thumb
+xhtech.life##.KCwdw-RUHLno-ts-init.KCwdw-RUHL.KCwdw-RUHLplayer
+xhtech.life##.KCwdw-RUHL.KCwdw-RUHLbottom-widget-section
+xhtech.life##.f47ef519
+||collector.xhtech.life^$ping,domain=xhtech.life
+||xhtech.life/tr/ad/$xhr,domain=xhtech.life
+xhtech.life##.cookiesAnnounce-30a9a
+xhtech.life##.iJJdq-gppremium-n-overlay
+xhtech.life##.video-thumb.iJJdq-gpcam-thumb__look-like-item.iJJdq-gpcam-thumb--lv-red.iJJdq-gpcam-thumb
+xhtech.life##.iJJdq-gp.iJJdq-gpbottom-widget-section
+xhtech.life##.iJJdq-gpsp-a.iJJdq-gpsp-b
+xhtech.life##.yld-pcxplayer-hover-menu
+xhtech.life##.iJJdq-gpno-ts-init.iJJdq-gp.iJJdq-gpplayer
+xhtech.life##.xp-banner-pause--blocked.xp-banner-pause
+xhtech.life##._1340b-centered > ._1340b-close
 
 ! 25 Haz 2024 https://indo-xxx.com
 indo-xxx.com##.full-brkas-container
@@ -704,6 +712,9 @@ milfxl.com##.asside-link
 ! 10 Ağu 2024 https://javhd.ninja
 javhd.ninja##.we-nopop
 javhd.ninja###f186fb23a33995d91ce3c2212189178c8
+
+! 10 Ağu 2024 https://leakedmodels.com
+leakedmodels.com##.azz_div.wp_xsize_class
 
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
@@ -1024,6 +1035,7 @@ tipstertv1.comtadi.pw##.clappr-watermark
 /^www.canlimacizlemax\d{3}\.live/##.jw-reset.jw-logo-top-right.jw-logo
 /^www.canlimacizlemax\d{3}\.live/##.mt10
 /^www.canlimacizlemax\d{3}\.live/##.header_r
+/^www.canlimacizlemax\d{3}\.live/##.iframe_728
 
 ! 2023-09-09 https://www.youtube.com
 ||www.youtube.com/api/stats/watchtime$xhr,domain=www.youtube.com
@@ -1136,6 +1148,8 @@ www.dinamotv103.com##.player_logo
 ! 2023-10-01 https://forvettv*.site
 /^forvettv\d{2}\.site/##.pageskin
 /^forvettv\d{2}\.site/##.show.sagAlt.watermark
+/^forvettv\d{2}\.site/##.only-desktop.footer-links
+/^forvettv\d{2}\.site/##ul
 ||forvettv*.site/wp-content/uploads/2023/09/1*$image
 
 ! 2023-10-01 https://realbitsport.com
@@ -1673,9 +1687,13 @@ b5yucast.com##img
 /^golvar\d{4}\.sbs/##.pageskin
 /^golvar\d{4}\.sbs/##.vdldl
 /^golvar\d{4}\.sbs/##.show.sagUst.watermark
+/^golvar\d{4}\.sbs/##ul
+/^golvar\d{4}\.sbs/##.only-desktop.footer-links
 /^golvar\d{3}\.sbs/##.vdldl
 /^golvar\d{3}\.sbs/##.show.sagUst.watermark
 /^golvar\d{3}\.sbs/##.pageskin
+/^golvar\d{3}\.sbs/##ul
+/^golvar\d{3}\.sbs/##.only-desktop.footer-links
 ||video.twimg.com/ext_tw_video/1779899489639120896/pu/$xhr,domain=/^golvar\d{3}\.sbs/|/^golvar\d{4}\.sbs/
 
 ! 2023-12-02 https://hiltonbettv*.com
@@ -1861,6 +1879,7 @@ dmax.com.tr###liveAdContainer
 
 ! 2024-03-13 https://kalitebettv*.xyz
 /^kalitebettv\d{1}\.xyz/##[href="https://rebrand.ly/Etkinlik"]
+/^kalitebettv\d{1}\.xyz/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2023-12-15 https://uploady.io
 uploady.io###protag-sidebar
@@ -2418,6 +2437,7 @@ www.andromedaplus.com###playerAdv2
 /^canlibeinizle\d{3}\.com/###modalPop
 /^canlibeinizle\d{3}\.com/##.show.fade.modal-backdrop
 /^canlibeinizle\d{3}\.com/##.modal-open:style(overflow: auto !important)
+/^canlibeinizle\d{3}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2024-02-24 https://bedavabein.blogspot.com
 bedavabein.blogspot.com###dqqqqq
@@ -2987,6 +3007,8 @@ asyabox.com##+js(nowoif)
 /^\d{2}kalebettv\.xyz/##.show.sagAlt.watermark
 /^\d{2}kalebettv\.xyz/##+js(ra, oncontextmenu, body)
 /^\d{2}kalebettv\.xyz/##+js(set-attr, .video-skip[data-time], data-time, 0 )
+/^\d{2}kalebettv\.xyz/##.odds-container
+/^\d{2}kalebettv\.xyz/##ul
 
 ! 2024-05-01 https://izle-abaxsonorisation-com.cdn.ampproject.org
 izle-abaxsonorisation-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
@@ -3310,6 +3332,7 @@ pulitv2.live##ul
 /^www.taraftarium24-\d{1}\.site/##.footer-sticky
 /^www.taraftarium24-\d{1}\.site/##.footer-links
 /^www.taraftarium24-\d{1}\.site/##.odds-container
+/^www.taraftarium24-\d{1}\.site/##ul
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
@@ -3692,6 +3715,7 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 ! 14 Tem 2024 https://jussttintv.baby
 ||jussttintv.baby/kralbet.gif$image
 jussttintv.baby##.show
+||jussttintv.baby/iptvold.jpg$image
 
 ! 14 Tem 2024 https://www.adzindex.com
 www.adzindex.com##.justintvizle.body-clickable
@@ -3794,6 +3818,10 @@ webteizle3.com###header
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
 
+! 31 Tem 2024 https://www.taraftariumkeyfi12.site
+www.taraftariumkeyfi12.site##.clappr-watermark
+www.taraftariumkeyfi12.site##.siteAnnouncer.alert-dismissible.alert-success.alert
+
 ! 1 Ağu 2024 https://macboxtv.xyz
 ||dizipal1.com/wp-content/uploads/2024/07/riyal.gif$image
 ||dizipal1.com/wp-content/uploads/2024/07/motion.gif$image
@@ -3856,4 +3884,35 @@ gameavenue.co###custom_html-12
 
 ! 10 Ağu 2024 https://mtadisv.pages.dev
 mtadisv.pages.dev##.clappr-watermark
+
+! 11 Ağu 2024 https://www.bahalchat.com
+www.bahalchat.com##.headerreklam.amp-bannerlar
+www.bahalchat.com###amans
+||www.bahalchat.com/izin/*$image
+www.bahalchat.com###playerAdv2
+
+! 11 Ağu 2024 https://hdmac-bahalchat-com.cdn.ampproject.org
+hdmac-bahalchat-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
+hdmac-bahalchat-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
+hdmac-bahalchat-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
+hdmac-bahalchat-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
+hdmac-bahalchat-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
+
+! 11 Ağu 2024 https://www.baghermes.com
+www.baghermes.com###amans
+||www.baghermes.com/belge/*$image
+www.baghermes.com##.justintvizle.body-clickable
+www.baghermes.com##.rekk
+
+! 11 Ağu 2024 https://www.taraftarium.best
+www.taraftarium.best###HTML781
+www.taraftarium.best###HTML619
+
+
+
+
+
+
+
+
 
