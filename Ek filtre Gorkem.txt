@@ -1183,6 +1183,7 @@ shazysport.pro##.alignnone
 ! 2023-10-04 https://tulipbettv*.com
 /^tulipbettv\d{2}\.com/##.show.sagUst.watermark
 /^tulipbettv\d{2}\.com/##.odds-container
+/^tulipbettv\d{2}\.com/##ul
 
 ! 2023-10-04 https://volestream*.com
 /^volestream\d{2}\.com/##.show.solUst.watermark
@@ -1525,6 +1526,7 @@ www.taraftariumizlehd.site##.clappr-watermark
 /^restizle\d{3}\.com/##.img-responsive
 /^restizle\d{3}\.com/##.clappr-watermark
 /^restizle\d{3}\.com/##.only-desktop.footer-links
+/^restizle\d{3}\.com/##ul
 ||restizle*.com/wp-content/uploads/2024/06/970x100_restbet.gif$image
 
 ! 2023-11-09 https://www.yakabettv*.com
@@ -2511,6 +2513,7 @@ proligler.blogspot.com###sidebar-sticky
 /^rekortv\d{2}\.com/##.show.sagAlt.watermark
 /^rekortv\d{2}\.com/##.pageskin
 /^rekortv\d{2}\.com/##.only-desktop.footer-links
+/^rekortv\d{2}\.com/##ul
 
 ! 2024-03-07 https://plsframe.xyz
 ||plsframe.xyz/iptvold.jpeg$image
@@ -2686,6 +2689,7 @@ justinframex.xyz##+js(set, config.adv, {})
 ! 2024-04-14 https://*golnet.us
 /^\d{1}golnet\.us/##.show.sagAlt.watermark
 /^\d{1}golnet\.us/##.odds-container
+/^\d{1}golnet\.us/##ul
 
 ! 2024-04-14 https://sadge.lordzzexs.workers.dev
 sadge.lordzzexs.workers.dev##.clappr-watermark
@@ -2901,6 +2905,8 @@ asyabox.com##+js(nowoif)
 
 ! 2024-04-28 https://jokerbettv*.com
 /^jokerbettv\d{3}\.com/##.show.sagAlt.watermark
+/^jokerbettv\d{3}\.com/##.odds-container
+/^jokerbettv\d{3}\.com/##ul
 
 ! 2024-04-28 https://4performlivecdn.space
 4performlivecdn.space##a
@@ -2917,6 +2923,8 @@ asyabox.com##+js(nowoif)
 
 ! 2024-04-28 https://oslobettv*.com
 /^oslobettv\d{3}\.com/##.show.sagAlt.watermark
+/^oslobettv\d{3}\.com/##ul
+/^oslobettv\d{3}\.com/##.odds-container
 
 ! 2024-04-28 https://fashionbet-tv*.com
 /^fashionbet-tv\d{2}\.com/##[href="http://fashionbets2.com/affi/659128"]
@@ -2984,6 +2992,7 @@ www.belgeselizlesene.com##.show-load-ad.text-load-ads-control.text-load-ads
 betbigotv1.club##.pageskin
 betbigotv1.club##.show.sagUst.watermark
 betbigotv1.club##.footer-links
+betbigotv1.club##ul
 
 ! 2024-05-02 https://sporplushd*.live
 /^sporplushd\d{2}\.live/##.pageskin
@@ -3001,10 +3010,13 @@ betbigotv1.club##.footer-links
 
 ! 2024-05-02 https://betboxtv*.com
 /^betboxtv\d{2}\.com/##.show.sagUst.watermark
+/^betboxtv\d{2}\.com/##ul
+/^betboxtv\d{2}\.com/##.odds-container
 
 ! 2024-05-02 https://maksibetmactv1.com
 maksibetmactv1.com##.show.sagAlt.watermark
 maksibetmactv1.com##.odds-container
+maksibetmactv1.com##ul
 
 ! 2024-05-02 https://www.hdtvlertv.com
 www.hdtvlertv.com##div.container > center
@@ -3155,10 +3167,12 @@ justint.xyz##+js(set, config.adv, {})
 /^\d{2}betinetv\.live/##.show.fade.modal-backdrop
 /^\d{2}betinetv\.live/##.modal-open:style(overflow: auto !important)
 /^\d{2}betinetv\.live/##[href="https://bt.t2m.io/R2CqVyq"]
+/^\d{2}betinetv\.live/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||*betinetv.live/Uploads/cef7979c41d348a4abf3c1028ae38a68_TES.png$image
 
 ! 2 Haz 2024 https://grandsbettv.com
 ||grandsbettv.com/sahnearka.jpeg$image
+grandsbettv.com##ul
 
 ! 2 Haz 2024 https://ultrabettv*.com
 /^ultrabettv\d{3}\.com/##.playerbottom.ads
@@ -3230,6 +3244,7 @@ hdmac-allsrtfree-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 ! 9 Haz 2024 https://pulitv2.live
 pulitv2.live##.show.sagAlt.watermark
 pulitv2.live##.odds-container
+pulitv2.live##ul
 
 ! 9 Haz 2024 https://betist*tv.live
 /^betist\d{2}tv\.live/###modalPop
@@ -3309,6 +3324,7 @@ nazifspor26.one#@##header-ad
 /^cratosmacizle\d{2}\.com/##.pageskin
 /^cratosmacizle\d{2}\.com/##.show.sagUst.watermark
 /^cratosmacizle\d{2}\.com/##.footer-links
+/^cratosmacizle\d{2}\.com/##ul
 
 ! 9 Haz 2024 https://ladestv*.com
 /^ladestv\d{2}\.com/##.pageskin
@@ -3535,6 +3551,7 @@ goley90machdtv.site##.reklam-3
 goley90machdtv.site##.show.solAlt.watermark
 goley90machdtv.site##.odds-container
 goley90machdtv.site##.footer-links
+goley90machdtv.site##ul
 
 ! 27 Haz 2024 https://nativesurge.info
 nativesurge.info###dismiss-btn
@@ -3626,10 +3643,11 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 5betmantv.online##.show.solAlt.watermark
 5betmantv.online##.odds-container
 
-! 7 Tem 2024 https://www.betmatiktv84.com
-www.betmatiktv84.com##div.odds-container.Hokeyi.Buz
-www.betmatiktv84.com##.player_logo
-www.betmatiktv84.com##.footer-links
+! 7 Tem 2024 https://www.betmatiktv*.com
+/^www.betmatiktv\d{2}\.com/##div.odds-container.Hokeyi.Buz
+/^www.betmatiktv\d{2}\.com/##.player_logo
+/^www.betmatiktv\d{2}\.com/##.footer-links
+/^www.betmatiktv\d{2}\.com/##[href="http://cutt.ly/hwYVA5CE"]
 
 ! 7 Tem 2024 https://m.canlitvizle.vip
 ||controlpush.com/js/cpv1-canlitvizlek-com.js$script,domain=m.canlitvizle.vip
@@ -3795,7 +3813,9 @@ gameavenue.co###custom_html-12
 /^betparktv\d{3}\.com/##.odds-container
 /^betparktv\d{3}\.com/##ul
 
-
+! 10 Ağu 2024 https://www.betofficetv*.com
+/^www.betofficetv\d{3}\.com/##.odds-container
+/^www.betofficetv\d{3}\.com/##ul
 
 
 
