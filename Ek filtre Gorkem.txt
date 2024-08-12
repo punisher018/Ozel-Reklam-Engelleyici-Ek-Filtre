@@ -3361,13 +3361,13 @@ geo.dailymotion.com##.partner_watermark
 /^betpuantv\d{3}\.com/##[href="http://betpuan.vip"]
 /^betpuantv\d{3}\.com/##.player_logo
 
-! 9 Haz 2024 https://betsilintv8.live
-betsilintv8.live##.pageskin
-||betsilintv8.live/wp-content/uploads/2024/03/TV-Gif.gif$image
-betsilintv8.live##.show.solAlt.watermark
-betsilintv8.live##ul
-betsilintv8.live##[src^="data:image/gif;base64,"]
-betsilintv8.live##.only-desktop.footer-links
+! 9 Haz 2024 https://betsilintv*.live
+||betsilintv*.live/wp-content/uploads/2024/03/TV-Gif.gif$image
+/^betsilintv\d{1}\.live/##.pageskin
+/^betsilintv\d{1}\.live/##.show.solAlt.watermark
+/^betsilintv\d{1}\.live/##ul
+/^betsilintv\d{1}\.live/##[src^="data:image/gif;base64,"]
+/^betsilintv\d{1}\.live/##.only-desktop.footer-links
 
 ! 9 Haz 2024 https://mgviagrtoomuch.co
 mgviagrtoomuch.co##font
@@ -3701,10 +3701,10 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 ||admerkez.com/files/uploads/laviva.mp4$media
 ||*lavivabettv.online/view/theme/ultimate/assets/js/booad.js$script
 
-! 7 Tem 2024 https://5betmantv.online
-5betmantv.online##.pageskin
-5betmantv.online##.show.solAlt.watermark
-5betmantv.online##.odds-container
+! 7 Tem 2024 https://*betmantv.online
+/^\d{1}betmantv\.online/##.pageskin
+/^\d{1}betmantv\.online/##.show.solAlt.watermark
+/^\d{1}betmantv\.online/##.odds-container
 
 ! 7 Tem 2024 https://www.betmatiktv*.com
 /^www.betmatiktv\d{2}\.com/##div.odds-container.Hokeyi.Buz
@@ -3915,7 +3915,8 @@ www.taraftarium.best###HTML619
 ! 11 Ağu 2024 https://receive-sms-online.info
 ||receive-sms-online.info/smsplaza/img/banner.png$image
 
-
+! 11 Ağu 2024 https://mislink3.com
+mislink3.com##+js(rpnt, script, = 10)
 
 
 
