@@ -3329,12 +3329,12 @@ pulitv2.live##ul
 /^betixir\d{1}\.live/##.odds-container
 
 ! 9 Haz 2024 https://www.taraftarium24-*.site
-/^www.taraftarium24-\d{1}\.site/##div.desktop.playertop.volestream-gorsel
-/^www.taraftarium24-\d{1}\.site/##div.desktop.playerbottom.volestream-gorsel
-/^www.taraftarium24-\d{1}\.site/##.footer-sticky
-/^www.taraftarium24-\d{1}\.site/##.footer-links
-/^www.taraftarium24-\d{1}\.site/##.odds-container
-/^www.taraftarium24-\d{1}\.site/##ul
+/^www.taraftarium24-\d{2}\.site/##div.desktop.playertop.volestream-gorsel
+/^www.taraftarium24-\d{2}\.site/##div.desktop.playerbottom.volestream-gorsel
+/^www.taraftarium24-\d{2}\.site/##.footer-sticky
+/^www.taraftarium24-\d{2}\.site/##.footer-links
+/^www.taraftarium24-\d{2}\.site/##.odds-container
+/^www.taraftarium24-\d{2}\.site/##ul
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
