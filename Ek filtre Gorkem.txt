@@ -222,7 +222,7 @@ onedio.com#@#.share-test-result
 @@||services.onedio.com/prod/counters/batch$xhr,1p
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=onedio.com
 onedio.com##.p-2\.5.relative.min-h-\[360px\]
-
+onedio.com###taboola-video-reel-right-rail
 
 ! 2023-04-23 https://vegoltv*.com
 ||vegoltv*.com/wp-content/uploads/2022/09/vgl.jpg$image
@@ -2153,6 +2153,8 @@ pesktop.com##.uk-float-left.a728_90
 ! 2024-01-29 https://inatflix*.xyz
 /^inatflix\d{1}\.xyz/##center
 /^inatflix\d{1}\.xyz/##div:nth-of-type(3)
+/^inatflix\d{1}\.xyz/##div:nth-of-type(5)
+/^inatflix\d{1}\.xyz/##.ads_single_font
 
 ! 2024-01-29 https://foglioaaqe.xyz
 foglioaaqe.xyz##.jw-reset.jw-logo-top-right.jw-logo
@@ -3815,9 +3817,6 @@ sigortagundem.com##div.widget:nth-of-type(7) :contains(Anadolu Hayat Emeklilik)
 ! 25 Tem 2024 https://ajansspor.com
 @@||count-server.sharethis.com^$script,domain=ajansspor.com
 
-! 26 Tem 2024 https://webteizle3.com
-webteizle3.com###header
-
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
 
@@ -3918,7 +3917,14 @@ www.taraftarium.best###HTML619
 ! 11 Ağu 2024 https://mislink3.com
 mislink3.com##+js(rpnt, script, = 10)
 
+! 12 Ağu 2024 https://www.taraftariumcanlihd6.site
+www.taraftariumcanlihd6.site##.clappr-watermark
 
+! 12 Ağu 2024 https://justintv.cc
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium24.dev/iptvold.jpg$image
+
+! 14 Ağu 2024 https://diziplus.me
+diziplus.*##div.player-top-ad:nth-of-type(4)
 
 
 
