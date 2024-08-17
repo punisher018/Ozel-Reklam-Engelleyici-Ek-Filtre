@@ -3680,10 +3680,10 @@ hdfilmizle.cx##.play_ust_txt
 ||alafilmizle.top/wp-content/litespeed/js/5225bc8da02562c734dd1401e7459525.js$script
 hotstream.club##.jw-title.jw-reset-text > a[href] > img[src= "https://alafilmizle.top/rek/yerfilmizlelogo.jpg"]
 
-! 6 Tem 2024 https://fiksturtv1.online
-fiksturtv1.online##.\.nomobile.reklam-3
-fiksturtv1.online##.show.solAlt.watermark
-fiksturtv1.online##.odds-container
+! 6 Tem 2024 https://fiksturtv*.online
+/^fiksturtv\d{1}\.online/##.\.nomobile.reklam-3
+/^fiksturtv\d{1}\.online/##.show.solAlt.watermark
+/^fiksturtv\d{1}\.online/##.odds-container
 
 ! 6 Tem 2024 https://dizirex.com
 dizirex.com##+js(nowoif)
