@@ -2559,12 +2559,6 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 ! 2024-03-03 https://matbettv.com
 ||gamejung.com/cc/canli-mac-izle.png$image
 
-! 2024-03-04 https://proligler.blogspot.com
-proligler.blogspot.com###HTML619
-proligler.blogspot.com###HTML781
-proligler.blogspot.com###dqqqqq
-proligler.blogspot.com###sidebar-sticky
-
 ! 2024-03-05 https://avrupabettv*.com
 /^avrupabettv\d{2}\.com/##.show.sagAlt.watermark
 /^avrupabettv\d{2}\.com/##.pageskin
@@ -3592,9 +3586,10 @@ hdmac.aqthai.com##.sp-rt > .amp-wp-content
 ! 19 Haz 2024 http://justintvizle-tv.303.si
 justintvizle-tv.303.si##dialog
 
-! 19 Haz 2024 https://proligler2.blogspot.com
-proligler2.blogspot.com###HTML619
-proligler2.blogspot.com###HTML781
+! 19 Haz 2024 https://proligler3.blogspot.com
+proligler3.blogspot.com###HTML781
+proligler3.blogspot.com###HTML619
+proligler3.blogspot.com##[href^="https://redirect.liverefer.com/ad"]
 
 ! 19 Haz 2024 https://taraftarium.org
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium.org/iptv.jpg$image
@@ -3683,7 +3678,7 @@ hdfilmizle.cx##.play_ust_txt
 
 ! 5 Tem 2024 https://alafilmizle.top
 ||alafilmizle.top/wp-content/litespeed/js/5225bc8da02562c734dd1401e7459525.js$script
-||alafilmizle.top/rek/yerfilmizlelogo.jpg
+hotstream.club##.jw-title.jw-reset-text > a[href] > img[src= "https://alafilmizle.top/rek/yerfilmizlelogo.jpg"]
 
 ! 6 Tem 2024 https://fiksturtv1.online
 fiksturtv1.online##.\.nomobile.reklam-3
@@ -3954,7 +3949,12 @@ filmzal.me###myVideo0
 ! 14 Ağu 2024 https://www.sinemakolik.org
 ||www.sinemakolik.org/monsbet.gif$image
 
+! 15 Ağu 2024 https://www.18filmler1.org
+www.18filmler1.org##center
 
+! 14 Ağu 2024 https://dizimat.pro
+||yerim.buzz/js/dnsads.js$script
+dizimat.pro##.ays-pb-close-popup-with-esc.av_pop_modals_2.ays-pb-modals
 
 
 
