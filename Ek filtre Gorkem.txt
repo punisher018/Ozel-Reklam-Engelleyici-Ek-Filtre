@@ -1524,6 +1524,7 @@ fram8.pages.dev##marquee
 /^inattvcom\d{3}\.xyz/##.plyr__video-wrapper::before
 ||i.hizliresim.com/1nmc8qf.gif$image
 ||i.hizliresim.com/3frs6t4.gif$image
+||i.hizliresim.com/lbidxp7.gif$image
 
 ! 2023-11-05 https://inattvhd*.xyz
 /^inattvhd\d{3}\.xyz/##.custom-banner
@@ -3676,8 +3677,8 @@ hdfilmizle.cx##.play_ust_txt
 ! 5 Tem 2024 https://www.hdfilmizleamk.net
 ||ipvertnet.com^$script,domain=www.hdfilmizleamk.net
 
-! 5 Tem 2024 https://alafilmizle.com
-||alafilmizle.com/wp-content/litespeed/js/5225bc8da02562c734dd1401e7459525.js
+! 5 Tem 2024 https://alafilmizle.top
+||alafilmizle.top/wp-content/litespeed/js/5225bc8da02562c734dd1401e7459525.js$script
 
 ! 6 Tem 2024 https://fiksturtv1.online
 fiksturtv1.online##.\.nomobile.reklam-3
