@@ -735,6 +735,10 @@ stbnetu.xyz##[href^="mailto:support@netu.tv"]
 stbpnetu.xyz##[href^="mailto:support@netu.tv"]
 ||stbpnetu.xyz/js/segment.7.js$script
 
+! 15 Ağu 2024 https://hqq.tv
+hqq.tv##[href^="mailto:support@netu.tv"]
+||hqq.tv/images/adblock.jpg$image
+
 ! 2023-10-01 https://jokerguide.com
 jokerguide.com##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
 jokerguide.com##a.topMatchHover.cursor-pointer.items-center.justify-center.flex-col.rounded-lg.lg\:flex.hidden.overflow-hidden.relative:nth-of-type(5) > .z-\[1\].h-full.w-full.bg-blackOpacity.dark\:bg-darkBlueOpacity.opacityBlock.md\:backdrop-blur-0.backdrop-blur-\[3px\].flex-col.items-center.justify-center.flex > .px-3.justify-center.w-full.flex
@@ -3327,9 +3331,9 @@ pulitv2.live##ul
 ||rekatv*.com/rekagifff1b.gif$image
 
 ! 9 Haz 2024 https://betixir*.live
-/^betixir\d{1}\.live/##div.reklam-3
-/^betixir\d{1}\.live/##.show.solAlt.watermark
-/^betixir\d{1}\.live/##.odds-container
+/^betixir\d{2}\.live/##div.reklam-3
+/^betixir\d{2}\.live/##.show.solAlt.watermark
+/^betixir\d{2}\.live/##.odds-container
 
 ! 9 Haz 2024 https://www.taraftarium24-*.site
 /^www.taraftarium24-\d{2}\.site/##div.desktop.playertop.volestream-gorsel
@@ -3679,6 +3683,7 @@ hdfilmizle.cx##.play_ust_txt
 
 ! 5 Tem 2024 https://alafilmizle.top
 ||alafilmizle.top/wp-content/litespeed/js/5225bc8da02562c734dd1401e7459525.js$script
+||alafilmizle.top/rek/yerfilmizlelogo.jpg
 
 ! 6 Tem 2024 https://fiksturtv1.online
 fiksturtv1.online##.\.nomobile.reklam-3
@@ -3926,6 +3931,30 @@ www.taraftariumcanlihd6.site##.clappr-watermark
 
 ! 14 Ağu 2024 https://diziplus.me
 diziplus.*##div.player-top-ad:nth-of-type(4)
+
+! 16 Ağu 2024 https://dizi2.life
+||dcdlplayerd91af.xyz/e$image
+
+! 14 Ağu 2024 https://unutulmazfilmler4.com
+unutulmazfilmler4.com#$#body { padding: 0 !important; }
+
+! 14 Ağu 2024 https://filmizlepop.com
+filmizlepop.com##.footer-sticky
+filmizlepop.com##.video-content
+filmizlepop.com#$##cn-content.autosize-container { position: static !important; }
+filmizlepop.com##+js(nano-sib, myTimer(), ,0.02)
+
+! 14 Ağu 2024 https://filmzal.me
+filmzal.me##.alert-info.alerts
+filmzal.me###myVideo0
+
+! 7 Ağu 2024 https://www.hdfilmcix.org
+||www.hdfilmcix.org/monsbet.gif$image
+
+! 14 Ağu 2024 https://www.sinemakolik.org
+||www.sinemakolik.org/monsbet.gif$image
+
+
 
 
 
