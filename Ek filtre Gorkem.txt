@@ -3927,9 +3927,6 @@ www.taraftariumcanlihd6.site##.clappr-watermark
 ! 14 Ağu 2024 https://diziplus.me
 diziplus.*##div.player-top-ad:nth-of-type(4)
 
-! 16 Ağu 2024 https://dizi2.life
-||dcdlplayerd91af.xyz/e$image
-
 ! 14 Ağu 2024 https://unutulmazfilmler4.com
 unutulmazfilmler4.com#$#body { padding: 0 !important; }
 
