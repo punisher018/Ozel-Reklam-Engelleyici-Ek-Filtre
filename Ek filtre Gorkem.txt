@@ -886,6 +886,7 @@ www.mynet.com##.notification-icon-box
 finans.mynet.com##.notification-icon-box
 www.mynet.com##.timeline-sticky-div
 finans.mynet.com##.timeline-sticky-div
+www.mynet.com##.tbl_reel.item.col-3.col
 
 ! 2023-07-14 https://www.dtunnel.net
 www.dtunnel.net###text-2
@@ -2311,6 +2312,9 @@ channel2kanal14.blogspot.com##marquee
 channel9kanal9.blogspot.com##marquee
 channel2kanal18.blogspot.com##marquee
 /^channel1kanal\d{2}\.blogspot.com/##+js(nowoif)
+channelbein19.blogspot.com##.bannnner
+channelbein19.blogspot.com##marquee
+channel5kanal9.blogspot.com##marquee
 
 ! 2024-02-13 https://corsproxy.org
 corsproxy.org##+js(set, config.adv, {})
@@ -2394,6 +2398,7 @@ channelbein2.blogspot.com##marquee
 channelbein11.blogspot.com##marquee
 channelbein17.blogspot.com##marquee
 channelbein17.blogspot.com##.bannnner
+channelbein19.blogspot.com##.right_bannnner
 
 ! 2024-02-19 https://hardsporhd6.blogspot.com
 hardsporhd6.blogspot.com##.footer-wrapper
@@ -3004,6 +3009,7 @@ asyabox.com##+js(nowoif)
 /^romabettv\d{2}\.com/##[href="https://gosite.org/Roma"]
 /^romabettv\d{2}\.com/##[href="https://cutt.ly/RomaGirs"]
 ||romabettv*.com/Uploads/d990dd3750d046418d75695ca89c372e_romatvbg.png$image
+||romabettv*.com/Uploads/362d957aa0074b4689b2215973c3c2b4_RomaTVBackground.png$image
 
 ! 2024-04-28 https://*kalebettv.xyz
 /^\d{2}kalebettv\.xyz/##.video-before
@@ -3432,6 +3438,7 @@ taraftarium.co##.contentReklam
 taraftarium.co##.adsPanelDesktop
 taraftarium.co##.adsPanelMobile
 ||pllsfored.co/betturkey.gif$image
+taraftarium.co##.container > div > div
 
 ! 14 Haz 2024 https://www.asturmontes.com
 www.asturmontes.com###yoket
@@ -3722,6 +3729,9 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 ||jussttintv.baby/kralbet.gif$image
 jussttintv.baby##.show
 ||jussttintv.baby/iptvold.jpg$image
+jussttintv.baby##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+jussttintv.baby##[href="https://heylink.me/yenihaberler/"]
+justintt1.baby##+js(set, config.adv, {})
 
 ! 14 Tem 2024 https://www.adzindex.com
 www.adzindex.com##.justintvizle.body-clickable
@@ -3949,9 +3959,47 @@ filmzal.me###myVideo0
 ! 15 Ağu 2024 https://www.18filmler1.org
 www.18filmler1.org##center
 
+! 20 Ağu 2024 https://www.erotikjam.com
+||www.erotikjam.com/pops5.js$script
+
 ! 14 Ağu 2024 https://dizimat.pro
 ||yerim.buzz/js/dnsads.js$script
 dizimat.pro##.ays-pb-close-popup-with-esc.av_pop_modals_2.ays-pb-modals
+
+! 20 Ağu 2024 https://channelex2kanal11.blogspot.com
+channelex2kanal11.blogspot.com###duyuru1
+channelex2kanal11.blogspot.com##.sidebar
+channelex2kanal11.blogspot.com##.contentReklam
+channelex2kanal11.blogspot.com##+js(set-constant, puShown, true)
+
+! 17 Ağu 2024 https://fullmatch.info
+fullmatch.info##.stream-item-top
+fullmatch.info##.stream-item-below-post.stream-item
+fullmatch.info##.code-block-1.code-block
+fullmatch.info###background-stream-cover
+fullmatch.info##.mysticky-welcomebar-fixed-wrap
+
+! 17 Ağu 2024 https://www.canlimachd.sbs
+www.canlimachd.sbs##.clappr-watermark
+
+! 17 Ağu 2024 https://www.macseyret.sbs
+www.macseyret.sbs##.clappr-watermark
+
+! 18 Ağu 2024 https://www.yayintaraftarium.sbs
+www.yayintaraftarium.sbs##.clappr-watermark
+
+! 18 Ağu 2024 https://casiveratv7.com
+casiveratv7.com##.show.sagAlt.watermark
+casiveratv7.com##.odds-container
+casiveratv7.com##ul
+
+
+
+
+
+
+
+
 
 
 
