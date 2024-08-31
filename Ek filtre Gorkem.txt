@@ -2748,9 +2748,9 @@ justinframex.xyz##+js(set, config.adv, {})
 ||babalariiegelsinnn.nereyegeldisin.workers.dev/https://justinframex.xyz/t244.png$image
 
 ! 2024-04-14 https://*golnet.us
-/^\d{1}golnet\.us/##.show.sagAlt.watermark
-/^\d{1}golnet\.us/##.odds-container
-/^\d{1}golnet\.us/##ul
+/^\d{2}golnet\.us/##.show.sagAlt.watermark
+/^\d{2}golnet\.us/##.odds-container
+/^\d{2}golnet\.us/##ul
 
 ! 2024-04-14 https://sadge.lordzzexs.workers.dev
 sadge.lordzzexs.workers.dev##.clappr-watermark
