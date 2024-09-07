@@ -3309,10 +3309,10 @@ hdmac-allsrtfree-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 /^milanobettv\d{2}\.shop/##[href="http://rebrand.ly/MilanobetResmi"]
 /^milanobettv\d{2}\.shop/##+js(nowoif)
 
-! 9 Haz 2024 https://pulitv2.live
-pulitv2.live##.show.sagAlt.watermark
-pulitv2.live##.odds-container
-pulitv2.live##ul
+! 9 Haz 2024 https://pulitv*.live
+/^pulitv\d{1}\.live/##.show.sagAlt.watermark
+/^pulitv\d{1}\.live/##.odds-container
+/^pulitv\d{1}\.live/##ul
 
 ! 9 Haz 2024 https://betist*tv.live
 /^betist\d{2}tv\.live/###modalPop
