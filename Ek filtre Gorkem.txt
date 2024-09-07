@@ -283,6 +283,7 @@ diakov.net##.my.col-lg-8.col-md-12 > center
 ||diakov.net/uploads/menu/banner.gif$image
 ||melban7.top/I$subdocument
 diakov.net##td > .loaded.lazyATS
+diakov.net###adfox
 
 ! 2023-05-16 https://disk.yandex.com.tr
 ||disk.yandex.com.tr/public/direct?blockId=R-I-104220-158&alignCenter=1&ownerId=316011$subdocument
@@ -671,6 +672,18 @@ xhtech.life##.yld-pcxplayer-hover-menu
 xhtech.life##.iJJdq-gpno-ts-init.iJJdq-gp.iJJdq-gpplayer
 xhtech.life##.xp-banner-pause--blocked.xp-banner-pause
 xhtech.life##._1340b-centered > ._1340b-close
+
+! 7 Eyl 2024 https://xhwing.site
+xhwing.site##.e54a2-containerBottomSpot
+xhwing.site##.video-thumb.Chry-nwhQacam-thumb__look-like-item.Chry-nwhQacam-thumb--lv-red.Chry-nwhQacam-thumb
+xhwing.site##.Chry-nwhQapremium-n-overlay
+xhwing.site##.cookiesAnnounce-30a9a
+xhwing.site##.ee0c622b
+xhwing.site##.Chry-nwhQano-ts-init.Chry-nwhQa.Chry-nwhQaplayer
+xhwing.site##.Chry-nwhQa.Chry-nwhQabottom-widget-section
+xhwing.site##.Chry-nwhQasp-a.Chry-nwhQasp-b
+xhwing.site##.xp-banner-pause--blocked.xp-banner-pause
+xhwing.site##.e54a2-centered > .e54a2-close
 
 ! 25 Haz 2024 https://indo-xxx.com
 indo-xxx.com##.full-brkas-container
@@ -1527,9 +1540,12 @@ fram8.pages.dev##marquee
 /^s\d{1}\.inattvcom\d{3}\.xyz/##+js(nowoif)
 /^inattvcom\d{3}\.xyz/##.custom-banner
 /^inattvcom\d{3}\.xyz/##.plyr__video-wrapper::before
+/^inattvcom\d{3}\.xyz/##.video-before
+/^inattvcom\d{3}\.xyz/##+js(set-attr, .video-skip[data-time], data-time, 0 )
 ||i.hizliresim.com/1nmc8qf.gif$image
 ||i.hizliresim.com/3frs6t4.gif$image
 ||i.hizliresim.com/lbidxp7.gif$image
+||i.hizliresim.com/5g4xuws.gif$image
 
 ! 2023-11-05 https://inattvhd*.xyz
 /^inattvhd\d{3}\.xyz/##.custom-banner
@@ -1562,6 +1578,7 @@ www.taraftariumizlehd.site##.clappr-watermark
 /^palacebettv\d{2}\.com/##.ads-img
 /^palacebettv\d{2}\.com/##.footer-links
 /^palacebettv\d{2}\.com/##ul
+/^palacebettv\d{2}\.com/##.odds-container
 
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
@@ -2331,6 +2348,9 @@ www.varsports24.buzz###largebanner
 ! 18 Haz 2024 https://www.varsports24.cfd
 www.varsports24.cfd###largebanner
 
+! 30 Ağu 2024 https://varsports26.cfd
+varsports26.cfd##.odds
+
 ! 2024-02-16 https://hdyayinlartvtrgoals4.blogspot.com
 hdyayinlartvtrgoals4.blogspot.com##marquee
 hdyayinlartvtrgoals6.blogspot.com###dqqqqq
@@ -2907,6 +2927,8 @@ www.bonerstarters.com###reklamlar
 /^lorabettv\d{2}\.shop/##[href="https://bit.ly/3Z5yVhU"]
 /^lorabettv\d{2}\.shop/###modalPop
 /^lorabettv\d{2}\.shop/##.show.fade.modal-backdrop
+/^lorabettv\d{2}\.shop/##body > div:nth-of-type(2)
+/^lorabettv\d{2}\.shop/##+js(nowoif)
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{2}\.shop/
 
 ! 2024-04-23 https://muzyet.net
@@ -3322,6 +3344,7 @@ hdmac-allsrtfree-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
 /^betist\d{2}tv\.live/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||betist*tv.live/Uploads/64db72a079b746be8fd175ef9fc72064_pageskin-revize.jpg$image
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^betist\d{2}tv\.live/
+||betist*tv.live/Uploads/735cd72824c444fa8975d13118be535e_pageskin.jpg$image
 
 ! 9 Haz 2024 https://rekatv*.com
 /^rekatv\d{2}\.com/##.popup-overlay
@@ -3993,6 +4016,32 @@ casiveratv7.com##.show.sagAlt.watermark
 casiveratv7.com##.odds-container
 casiveratv7.com##ul
 
+! 29 Ağu 2024 https://www.amitbhoir.com
+||www.amitbhoir.com/izin/ultrabetpage.png$image
+www.amitbhoir.com###amans
+||www.amitbhoir.com/izin/*$image
+www.amitbhoir.com###playerAdv2
+
+! 31 Ağu 2024 https://goley90tvslot.site
+goley90tvslot.site##.pageskin
+goley90tvslot.site##.reklam-3
+goley90tvslot.site##.footer-links
+goley90tvslot.site##.odds-container
+goley90tvslot.site##ul
+goley90tvslot.site##.show.solAlt.watermark
+
+! 7 Eyl 2024 https://goley90tv.live
+goley90tv.live##.pageskin
+goley90tv.live##.odds-container
+goley90tv.live##ul
+goley90tv.live##.footer-links
+goley90tv.live##.reklam-3
+goley90tv.live##.show.solAlt.watermark
+
+! 1 Eyl 2024 https://justintvpro.xyz
+justintvpro.xyz##.contentReklam
+justintvpro.xyz##.container > div
+justintvpro.xyz###duyuru1
 
 
 
