@@ -3437,7 +3437,10 @@ www.justintv.best##.clappr-watermark
 ! 9 Haz 2024 https://grtv*.live
 ||grtv*.live/1000x50.gif$image
 /^grtv\d{2}\.live/##[href^="http://grbetsaffiliate1.com/links/"]
-/^grtv\d{2}\.live/##footer
+/^grtv\d{2}\.live/##.footer-links
+/^grtv\d{2}\.live/##.ads-img
+/^grtv\d{2}\.live/##.reklam-3
+/^grtv\d{2}\.live/##ul
 
 ! 9 Haz 2024 https://pllsfored.co
 pllsfored.co##+js(set, config.adv, {})
