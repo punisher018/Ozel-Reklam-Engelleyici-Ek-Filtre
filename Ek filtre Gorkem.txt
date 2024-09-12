@@ -3434,10 +3434,10 @@ nazifspor26.one#@##header-ad
 www.justintv.best###HTML9
 www.justintv.best##.clappr-watermark
 
-! 9 Haz 2024 https://grtv14.live
-||grtv14.live/1000x50.gif$image
-grtv14.live##[href^="http://grbetsaffiliate1.com/links/"]
-grtv14.live##footer
+! 9 Haz 2024 https://grtv*.live
+||grtv*.live/1000x50.gif$image
+/^grtv\d{2}\.live/##[href^="http://grbetsaffiliate1.com/links/"]
+/^grtv\d{2}\.live/##footer
 
 ! 9 Haz 2024 https://pllsfored.co
 pllsfored.co##+js(set, config.adv, {})
