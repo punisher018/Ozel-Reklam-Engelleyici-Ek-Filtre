@@ -4014,10 +4014,10 @@ www.macseyret.sbs##.clappr-watermark
 ! 18 Ağu 2024 https://www.yayintaraftarium.sbs
 www.yayintaraftarium.sbs##.clappr-watermark
 
-! 18 Ağu 2024 https://casiveratv7.com
-casiveratv7.com##.show.sagAlt.watermark
-casiveratv7.com##.odds-container
-casiveratv7.com##ul
+! 18 Ağu 2024 https://casiveratv*.com
+/^casiveratv\d{1}\.com/##.show.sagAlt.watermark
+/^casiveratv\d{1}\.com/##.odds-container
+/^casiveratv\d{1}\.com/##ul
 
 ! 29 Ağu 2024 https://www.amitbhoir.com
 ||www.amitbhoir.com/izin/ultrabetpage.png$image
