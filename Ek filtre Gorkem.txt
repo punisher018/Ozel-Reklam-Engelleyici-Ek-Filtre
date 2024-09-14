@@ -1031,15 +1031,15 @@ tipstertv1.comtadi.pw##.clappr-watermark
 /^golvar\d{2}\.us/##ul
 
 ! 2023-09-07 https://*betnis.online
-/^\d{2}betnis\.online/##.popup-overlay
-/^\d{2}betnis\.online/##.nomobile.hidden-md.pageskin
-/^\d{2}betnis\.online/##[href="https://shrt.vip/betnis"]
-/^\d{2}betnis\.online/##[href="http://shrt.vip/32"]
+/^\d{3}betnis\.online/##.popup-overlay
+/^\d{3}betnis\.online/##.nomobile.hidden-md.pageskin
+/^\d{3}betnis\.online/##[href="https://shrt.vip/betnis"]
+/^\d{3}betnis\.online/##[href="http://shrt.vip/32"]
 *betnis.online/nis1.mp4$media,1p
 ||*betnis.online/1000x50.gif$image
-/^\d{2}betnis\.online/##.top-right.logo
-/^\d{2}betnis\.online/##.mt-3
-/^\d{2}betnis\.online/##.hidden-sm.pageskin
+/^\d{3}betnis\.online/##.top-right.logo
+/^\d{3}betnis\.online/##.mt-3
+/^\d{3}betnis\.online/##.hidden-sm.pageskin
 
 ! 2023-09-08 https://www.canlimacizlemax*.com
 /^www.canlimacizlemax\d{2}\.com/##.jw-reset.jw-logo-top-right.jw-logo
