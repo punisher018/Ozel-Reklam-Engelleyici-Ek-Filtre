@@ -3738,9 +3738,9 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 ||*lavivabettv.online/view/theme/ultimate/assets/js/booad.js$script
 
 ! 7 Tem 2024 https://*betmantv.online
-/^\d{1}betmantv\.online/##.pageskin
-/^\d{1}betmantv\.online/##.show.solAlt.watermark
-/^\d{1}betmantv\.online/##.odds-container
+/^\d{2}betmantv\.online/##.pageskin
+/^\d{2}betmantv\.online/##.show.solAlt.watermark
+/^\d{2}betmantv\.online/##.odds-container
 
 ! 7 Tem 2024 https://www.betmatiktv*.com
 /^www.betmatiktv\d{2}\.com/##div.odds-container.Hokeyi.Buz
