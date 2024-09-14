@@ -3741,6 +3741,7 @@ socceronline.me##+js(rmnt, script, FingerprintJS)
 /^\d{2}betmantv\.online/##.pageskin
 /^\d{2}betmantv\.online/##.show.solAlt.watermark
 /^\d{2}betmantv\.online/##.odds-container
+/^\d{2}betmantv\.online/##.popup-overlay
 
 ! 7 Tem 2024 https://www.betmatiktv*.com
 /^www.betmatiktv\d{2}\.com/##div.odds-container.Hokeyi.Buz
