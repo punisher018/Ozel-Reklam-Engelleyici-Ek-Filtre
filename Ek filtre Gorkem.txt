@@ -1722,9 +1722,9 @@ b5yucast.com##img
 ||video.twimg.com/ext_tw_video/1779899489639120896/pu/$xhr,domain=/^golvar\d{3}\.sbs/|/^golvar\d{4}\.sbs/
 
 ! 2023-12-02 https://hiltonbettv*.com
-/^hiltonbettv\d{2}\.com/##.show.sagUst.watermark
-/^hiltonbettv\d{2}\.com/##.odds-container
-/^hiltonbettv\d{2}\.com/##ul
+/^hiltonbettv\d{3}\.com/##.show.sagUst.watermark
+/^hiltonbettv\d{3}\.com/##.odds-container
+/^hiltonbettv\d{3}\.com/##ul
 
 ! 2023-12-02 https://ggsport.tv
 ggsport.tv##.z-50.bottom-15.right-1.absolute.flex-row-center.contain-upgrade.h-5.px-1.lg\:visible.invisible.w-max
