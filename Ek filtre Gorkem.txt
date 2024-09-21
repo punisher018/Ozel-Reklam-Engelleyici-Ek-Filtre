@@ -3393,11 +3393,11 @@ geo.dailymotion.com##.partner_watermark
 
 ! 9 Haz 2024 https://betsilintv*.live
 ||betsilintv*.live/wp-content/uploads/2024/03/TV-Gif.gif$image
-/^betsilintv\d{1}\.live/##.pageskin
-/^betsilintv\d{1}\.live/##.show.solAlt.watermark
-/^betsilintv\d{1}\.live/##ul
-/^betsilintv\d{1}\.live/##[src^="data:image/gif;base64,"]
-/^betsilintv\d{1}\.live/##.only-desktop.footer-links
+/^betsilintv\d{2}\.live/##.pageskin
+/^betsilintv\d{2}\.live/##.show.solAlt.watermark
+/^betsilintv\d{2}\.live/##ul
+/^betsilintv\d{2}\.live/##[src^="data:image/gif;base64,"]
+/^betsilintv\d{2}\.live/##.only-desktop.footer-links
 
 ! 9 Haz 2024 https://mgviagrtoomuch.co
 mgviagrtoomuch.co##font
