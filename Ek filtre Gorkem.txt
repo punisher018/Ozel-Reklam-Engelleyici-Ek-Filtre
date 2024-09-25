@@ -2517,9 +2517,12 @@ justintv.za.com##+js(set, config.adv, {})
 ||rentreviews.xyz/vbsmall/index.php$subdocument
 www.newcdn.lol###obrazek
 www.newcdn.lol###overover
+www.newcdn.lol##.clappr-banner
 
 ! 18 Haz 2024 https://drakulastream.xyz
 drakulastream.xyz##.tallstreambanner
+drakulastream.xyz##.show
+||papatrol.xyz/202211_vv/topb_vv_tr_soccer.gif$image
 
 ! 2024-02-28 https://capitolbet*.live
 /^capitolbet\d{2}\.live/##div.reklam-3
@@ -4130,6 +4133,13 @@ shehbaz-streams.xyz##div.pb-2.justify-content-center.d-flex.col-lg-12.col-xl-9:n
 www.asiogroups.com###amans
 www.asiogroups.com###playerAdv2
 
+! 18 Eyl 2024 https://watchsports.howtomakemoney.vip
+watchsports.howtomakemoney.vip##.widget-area-1.widget-area
+watchsports.howtomakemoney.vip##.widget-area-2.widget-area
+/^watchsports\d{1}\.howtomakemoney.vip/##.widget-area-1.widget-area
+/^watchsports\d{1}\.howtomakemoney.vip/##.widget-area-2.widget-area
+/^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-1.widget-area
+/^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-2.widget-area
 
 
 
