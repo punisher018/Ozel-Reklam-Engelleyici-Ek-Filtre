@@ -1748,6 +1748,9 @@ mgviagrtoomuch.com##body > div:nth-of-type(3)
 ||mgviagrtoomuch.com/xslot-logooo.png$image
 mgviagrtoomuch.com##[href="https://cutt.ly/QwAktafE"]
 mgviagrtoomuch.com##+js(set, config.adv, {})
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.com/iptvold.jpg$image
+||mgviagrtoomuch.com/*.gif$image
+mgviagrtoomuch.com##.wpb_wrapper [href]
 
 ! 2023-12-02 https://*sekastream.com
 /^\d{3}sekastream\.com/##.pageskin
@@ -1879,6 +1882,10 @@ pllsfored.com###dqqqqq
 pllsfored.com##body > div:nth-of-type(3)
 pllsfored.com##body > div:nth-of-type(2)
 ||pllsfored.com/kral.png$image
+pllsfored.com###duyuru1
+pllsfored.com##.adsPanelDesktop
+pllsfored.com##.adsPanelMobile
+pllsfored.com##.container > div
 
 ! 2023-12-14 https://www.canlimaclar*.sbs
 /^www.canlimaclar\d{4}\.sbs/##.x-embed-link
@@ -2048,6 +2055,8 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{3}\.xyz/##+js(set, config.adv, {})
 /^(www\.)?inattv\d{3}\.xyz/##[href="https://bio2.in/Winx-inat"]
 /^(www\.)?inattv\d{3}\.xyz/###duyuru1
+||inattv*.xyz/images/betlolologo.png$image
+/^(www\.)?inattv\d{3}\.xyz/##.container div
 
 ! 28 Haz 2024 https://inattvgiris1.pro
 inattvgiris1.pro##body > div:nth-of-type(3)
@@ -2408,6 +2417,8 @@ www.sportnews.to#@#.powerkit_social_links_widget
 !sportnews.to,topsporter.net#%#//scriptlet('abort-current-inline-script', '$', 'keepChecking')
 ||www.sportnews.to/fox/plugins/block/js/$script
 ||www.sportnews.to/fox/js/30accda6ec.js$script
+||www.sportnews.to/fox/js/script.js$script
+@@||static.doubleclick.net/instream/ad_status.js$xhr,domain=www.sportnews.to
 
 ! 2024-02-18 https://www.jestyayin.buzz
 www.jestyayin.buzz###dqqqqq
@@ -3026,6 +3037,8 @@ asyabox.com##+js(nowoif)
 ||*bayspintv.live/Uploads/1fb69a18640449afa7e5e662585e5971_PAGESKIN2.jpg$image
 ||*bayspintv.live/Uploads/c035e0f35ce84b889370b65e3454a1b3_BAYSPIN.png$image
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
+/^\d{2}bayspintv\.live/##body > div:nth-of-type(2)
+||*bayspintv.live/Uploads/a83e5919a3bb47d2ac226bbb125c3be9_test.png$image
 
 ! 2024-04-30 https://romabettv*.com
 /^romabettv\d{2}\.com/##[href="https://gosite.org/Roma"]
@@ -3450,6 +3463,7 @@ pllsfored.co###duyuru1
 pllsfored.co##.adsPanelMobile
 pllsfored.co##.adsPanelDesktop
 ||pllsfored.co/betmatik.gif$image
+||pllsfored.co/betturkey.gif$image
 
 ! 13 Haz 2024 https://*fiksturtv.com
 /^\d{2}fiksturtv\.com/##.\.nomobile.reklam-3
@@ -3463,7 +3477,6 @@ taraftarium.co###duyuru1
 taraftarium.co##.contentReklam
 taraftarium.co##.adsPanelDesktop
 taraftarium.co##.adsPanelMobile
-||pllsfored.co/betturkey.gif$image
 taraftarium.co##.container > div > div
 
 ! 14 Haz 2024 https://www.asturmontes.com
@@ -3626,6 +3639,10 @@ proligler3.blogspot.com##[href^="https://redirect.liverefer.com/ad"]
 
 ! 19 Haz 2024 https://taraftarium.org
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium.org/iptv.jpg$image
+taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
+taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > [href]
+taraftarium.org##+js(set, config.adv, {})
+taraftarium.org##.container div
 
 fullfilmizle.cx#$#header.container { margin-top: 0 !important; }
 
@@ -3670,6 +3687,8 @@ bet11tv.live##.odds-container
 ! 28 Haz 2024 https://selcuksportss.xyz
 selcuksportss.xyz##body > div:nth-of-type(3)
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://selcuksportss.xyz/iptv.jpg$image
+selcuksportss.xyz##+js(set, config.adv, {})
+selcuksportss.xyz##.container > div:nth-of-type(2)
 
 ! 28 Haz 2024 https://xtgem.com
 ||xtgem.com^$all
@@ -3758,7 +3777,11 @@ jussttintv.baby##.show
 ||jussttintv.baby/iptvold.jpg$image
 jussttintv.baby##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 jussttintv.baby##[href="https://heylink.me/yenihaberler/"]
+jussttintv.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+jussttintv.baby##[href="https://heylink.me/denemet24/"]
+jussttintv.baby##[href="https://heylink.me/t24denemeb/"]
 justintt1.baby##+js(set, config.adv, {})
+justintt1.baby##.container div
 
 ! 14 Tem 2024 https://www.adzindex.com
 www.adzindex.com##.justintvizle.body-clickable
@@ -4047,6 +4070,95 @@ goley90tv.live##.show.solAlt.watermark
 justintvpro.xyz##.contentReklam
 justintvpro.xyz##.container > div
 justintvpro.xyz###duyuru1
+
+! 27 Ağu 2024 https://armorgames.com
+armorgames.com##.ad-large-leaderboard-90
+armorgames.com##.ad-lrgrec
+armorgames.com##.ad-leaderboard
+
+! 7 Eyl 2024 https://giphy.com
+giphy.com##.ads_top_leaderboard_container__P_SR7
+giphy.com##.device-desktop.brOqxe.sc-6f6dd835-0
+
+! 11 Eyl 2024 https://florence.com.tr
+florence.com.tr#%#//scriptlet('trusted-set-local-storage-item', 'cookieConsent', '{"requiredCookies":true,"functionality":false,"advertisingAndRetargeting":false,"analytics":false}')
+
+! 14 Eyl 2024 https://taraftarium.me
+taraftarium.me##[src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium.me/iptv.jpg"]
+
+! 14 Eyl 2024 https://www.aryavedanaturals.com
+www.aryavedanaturals.com###amansiz
+||aryavedanaturals.com/dosyalar/s*$image
+www.aryavedanaturals.com##[href="https://rebrand.ly/ultraJTV"]
+www.aryavedanaturals.com##[href="https://rebrand.ly/betkolikJTV"]
+www.aryavedanaturals.com##.textwidget > p
+www.aryavedanaturals.com##.logo-banner
+
+! 14 Eyl 2024 https://www.appcaomei.com
+www.appcaomei.com###amans
+||www.appcaomei.com/izin/*$image
+www.appcaomei.com###playerAdv2
+www.appcaomei.com##.headerreklam.amp-bannerlar
+www.appcaomei.com##[href="https://rebrand.ly/ultraJTV"]
+www.appcaomei.com##[href="https://rebrand.ly/JTVSetra"]
+www.appcaomei.com##[href="https://rebrand.ly/smartbahisJTV"]
+
+! 14 Eyl 2024 https://hdmac-appcaomei-com.cdn.ampproject.org
+hdmac-appcaomei-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
+hdmac-appcaomei-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
+hdmac-appcaomei-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
+hdmac-appcaomei-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
+hdmac-appcaomei-com.cdn.ampproject.org##.sp-rt > .amp-wp-content
+
+! 14 Eyl 2024 https://www.anakinsun.com
+www.anakinsun.com###aman
+||anakinsun.com/dosyalar/*$image
+www.anakinsun.com##.reklamalanmasa
+www.anakinsun.com###playerAdv2
+
+! 15 Eyl 2024 https://www.limontv.xyz
+www.limontv.xyz#@#.header-ad-wrap
+www.limontv.xyz#@#.header-ad
+www.limontv.xyz#@##header-ad
+
+! 16 Eyl 2024 https://www.ganyancanavari.com
+||www.ganyancanavari.com/images/ads/$image
+www.ganyancanavari.com##.main_bg_panel > div.main-duyuru div
+www.ganyancanavari.com##.main_degisiklikler_bg_panel > .main-duyuru div
+www.ganyancanavari.com##.main_page_panel > .main-duyuru div
+www.ganyancanavari.com##.main_bg_panel > div:nth-of-type(3)
+
+! 18 Eyl 2024 https://antenasport.online
+||www.worldometers.info/img/flags/us-flag.gif$image
+
+! 21 Eyl 2024 https://justintv.co
+||justintv.co/*$image
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/betwild.gif$image
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/iptvold.jpg$image
+justintv.co##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
+justintv.co##+js(set, config.adv, {})
+justintv.co##.container > div
+
+! 23 Eyl 2024 https://www.canlidizi6.com
+www.canlidizi6.com##.videoaltix
+www.canlidizi6.com###zone_2049877042
+www.canlidizi6.com###yandex_rtb_R-A-3778200-11
+www.canlidizi6.com#$##wrap { margin-top: 0 !important; }
+
+! 18 Eyl 2024 https://shehbaz-streams.xyz
+shehbaz-streams.xyz##.justify-content-center.d-flex.card-body
+shehbaz-streams.xyz##div.pb-2.justify-content-center.d-flex.col-lg-12.col-xl-9:nth-of-type(1)
+
+! 18 Eyl 2024 https://bong.ink
+||bong.ink/images/bongx_prev_ui.png$image
+
+
+
+
+
+
+
+
 
 
 
