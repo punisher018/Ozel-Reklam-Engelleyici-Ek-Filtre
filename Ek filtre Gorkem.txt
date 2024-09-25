@@ -3829,6 +3829,7 @@ bilecik2022tv.tr.gg###selfpromotionOverlay
 
 ! 28 Tem 2024 https://olympic-paris-2024.duktek.online
 ||cdn.jsdelivr.net/gh/muhammadnashirhaer/duktek/js/2a448501cec70722c7ed0e10f848b43a.js
+olympic-paris-2024.duktek.online###cloudUrl
 
 ! 26 Tem 2024 https://worldsports.me
 ||worldsports.me/partytown/partytown.js$script
