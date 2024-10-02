@@ -730,6 +730,14 @@ javhd.ninja###f186fb23a33995d91ce3c2212189178c8
 ! 10 Ağu 2024 https://leakedmodels.com
 leakedmodels.com##.azz_div.wp_xsize_class
 
+! 30 Eyl 2024 https://hugedickz.com
+hugedickz.com##.link-offer
+hugedickz.com##.asside-link
+
+! 30 Eyl 2024 https://celebmasta.com
+celebmasta.com##.no-popunder.wp-image-74898.size-thumbnail.alignnone
+celebmasta.com##.wp-image-71356.size-full.aligncenter
+
 ! 2023-11-16 https://netu.ac
 netu.ac##[href^="mailto:support@netu.tv"]
 
@@ -1460,20 +1468,6 @@ dizimia4.com###mPlayerFd
 my.mail.ru##.b-video-html5__overlay-container
 my.mail.ru##.b-video-html5__video-area
 my.mail.ru##.b-fourth-pseudo-column_inner.b-fourth-pseudo-column
-
-! 2023-10-22 https://ifr.strmrdrfronf.click
-ib.strmrdrfronf.click##.clappr-watermark
-ic.strmrdrfronf.click##.clappr-watermark
-id.strmrdrfronf.click##.clappr-watermark
-ie.strmrdrfronf.click##.clappr-watermark
-if.strmrdrfronf.click##.clappr-watermark
-ifr.strmrdrfronf.click##.clappr-watermark
-ifra.strmrdrfronf.click##.clappr-watermark
-ifram.strmrdrfronf.click##.clappr-watermark
-iframe.strmrdrfronf.click##.clappr-watermark
-iframer.strmrdrfronf.click##.clappr-watermark
-iframeri.strmrdrfronf.click##.clappr-watermark
-iframeria.strmrdrfronf.click##.clappr-watermark
 
 ! 2023-10-23 https://hdtaraftartv0001.blogspot.com
 ||1.bp.blogspot.com/-wAAyysj0H0g/YBV1tz6Q-JI/AAAAAAAAABg/sJLlyOF1la4a2nEaVqXFx6d-82BbqE9aACNcBGAsYHQ/s1920/pageskin2.jpg$image
@@ -4141,7 +4135,8 @@ watchsports.howtomakemoney.vip##.widget-area-2.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-1.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-2.widget-area
 
-
+! 27 Eyl 2024 https://ifram.strmrdrfrooa.click
+strmrdrfrooa.click##div:nth-of-type(4)
 
 
 
