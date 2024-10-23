@@ -1251,6 +1251,7 @@ shazysport.pro##.alignnone
 /^monotv\d{3}\.com/##ul
 /^monotv\d{3}\.com/##.reklam-3
 /^monotv\d{3}\.com/##.footer-links
+/^monotv\d{3}\.com/##.container > div:nth-of-type(2)
 /^monotv\d{3}\.com/##+js(set, config.adv, {})
 
 ! 2023-10-04 https://palsport*.live
@@ -2054,6 +2055,14 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{3}\.xyz/##[href="https://bio2.in/Winx-inat"]
 /^(www\.)?inattv\d{3}\.xyz/###duyuru1
 ||inattv*.xyz/images/betlolologo.png$image
+/^(www\.)?inattv\d{3}\.xyz/##a[href="https://cutt.ly/2137671-1"]
+/^(www\.)?inattv\d{3}\.xyz/##.container > div:nth-of-type(2)
+||blogger.googleusercontent.com/img/*/bahsegel.png$image
+
+! 23 Eki 2024 https://inattvgiris.pro
+inattvgiris.pro##a[href="https://cutt.ly/HeDtv9P7"]
+inattvgiris.pro##.wpb_wrapper [href]
+inattvgiris.pro##+js(set, config.adv, {})
 
 ! 28 Haz 2024 https://inattvgiris1.pro
 inattvgiris1.pro##body > div:nth-of-type(3)
@@ -3443,6 +3452,7 @@ taraftarium.co###duyuru1
 taraftarium.co##.contentReklam
 taraftarium.co##.adsPanelDesktop
 taraftarium.co##.adsPanelMobile
+taraftarium.co##.container > div:nth-of-type(2)
 
 ! 14 Haz 2024 https://www.asturmontes.com
 www.asturmontes.com###yoket
@@ -3606,6 +3616,7 @@ proligler3.blogspot.com##[href^="https://redirect.liverefer.com/ad"]
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium.org/iptv.jpg$image
 taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
 taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > [href]
+taraftarium.org##.container > div:nth-of-type(2)
 taraftarium.org##+js(set, config.adv, {})
 
 fullfilmizle.cx#$#header.container { margin-top: 0 !important; }
@@ -4114,10 +4125,6 @@ shehbaz-streams.xyz##div.pb-2.justify-content-center.d-flex.col-lg-12.col-xl-9:n
 ! 18 Eyl 2024 https://bong.ink
 ||bong.ink/images/bongx_prev_ui.png$image
 
-! 25 Eyl 2024 https://www.asiogroups.com
-www.asiogroups.com###amans
-www.asiogroups.com###playerAdv2
-
 ! 18 Eyl 2024 https://watchsports.howtomakemoney.vip
 watchsports.howtomakemoney.vip##.widget-area-1.widget-area
 watchsports.howtomakemoney.vip##.widget-area-2.widget-area
@@ -4129,9 +4136,25 @@ watchsports.howtomakemoney.vip##.widget-area-2.widget-area
 ! 27 Eyl 2024 https://ifram.strmrdrfrooa.click
 strmrdrfrooa.click##div:nth-of-type(4)
 
+! 23 Eki 2024 https://mgcom.baby
+mgcom.baby##a[href="https://cutt.ly/HeDtv9P7"]
+mgcom.baby##[href="https://heylink.me/t24denemeb/"]
+mgcom.baby##[href="https://bit.ly/iptvoldhd"]
+hayrihayrihayirlii3.cfd##+js(set, config.adv, {})
+hayrihayrihayirlii3.cfd##.container > div:nth-of-type(2)
 
+! 23 Eki 2024 https://yandex.com
+yandex.com##.main-home-banner__content
 
+! 25 Eyl 2024 https://taraftarium-24.pro
+||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium-24.pro/iptvold.jpg$image
 
+! 25 Eyl 2024 https://www.justintv108.cyou
+www.justintv108.cyou##.adsPanelDesktop
+www.justintv108.cyou###duyuru1
+www.justintv108.cyou##marquee
+taraftarium24f.xyz##+js(set, config.adv, {})
+taraftarium24f.xyz##.container > div:nth-of-type(2)
 
 
 
