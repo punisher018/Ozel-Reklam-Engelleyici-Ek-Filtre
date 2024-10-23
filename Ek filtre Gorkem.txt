@@ -4109,6 +4109,8 @@ www.ganyancanavari.com##.main_bg_panel > div:nth-of-type(3)
 ||justintv.co/*$image
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/betwild.gif$image
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/iptvold.jpg$image
+justintv.co##[href="https://bit.ly/iptvoldhd"]
+justintv.co##[href="https://cutt.ly/HeDtv9P7"]
 justintv.co##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
 justintv.co##+js(set, config.adv, {})
 
@@ -4156,7 +4158,11 @@ www.justintv108.cyou##marquee
 taraftarium24f.xyz##+js(set, config.adv, {})
 taraftarium24f.xyz##.container > div:nth-of-type(2)
 
-
+! 20 Eki 2024 https://*golvar.us
+/^\d{2}golvar\.us/##ul
+/^\d{2}golvar\.us/##.odds-container
+/^\d{2}golvar\.us/##.footer-links
+/^\d{2}golvar\.us/##.show.sagAlt.watermark
 
 
 
