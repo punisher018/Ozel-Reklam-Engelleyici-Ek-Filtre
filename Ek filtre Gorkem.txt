@@ -4108,7 +4108,6 @@ www.ganyancanavari.com##.main_bg_panel > div:nth-of-type(3)
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/iptvold.jpg$image
 justintv.co##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
 justintv.co##+js(set, config.adv, {})
-justintv.co##.container > div
 
 ! 23 Eyl 2024 https://www.canlidizi6.com
 www.canlidizi6.com##.videoaltix
