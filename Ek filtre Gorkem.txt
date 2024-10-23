@@ -1166,7 +1166,6 @@ www.dinamotv103.com##.player_logo
 ! 2023-10-01 https://inattv*.pro
 /^(www\.)?inattv\d{3}\.pro/##center
 /^(www\.)?inattv\d{3}\.pro/##body > div:nth-of-type(2)
-/^(www\.)?inattv\d{3}\.pro/##.container div
 /^(www\.)?inattv\d{3}\.pro/##.contentReklam
 /^(www\.)?inattv\d{3}\.pro/##.topDuyuru
 /^(www\.)?inattv\d{3}\.pro/##body > div > a
@@ -1253,7 +1252,6 @@ shazysport.pro##.alignnone
 /^monotv\d{3}\.com/##.reklam-3
 /^monotv\d{3}\.com/##.footer-links
 /^monotv\d{3}\.com/##+js(set, config.adv, {})
-/^monotv\d{3}\.com/##.container > div
 
 ! 2023-10-04 https://palsport*.live
 /^palsport\d{2}\.live/##.player-attributes > [href="https://btzula.live/bonusschool"]
@@ -2056,7 +2054,6 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{3}\.xyz/##[href="https://bio2.in/Winx-inat"]
 /^(www\.)?inattv\d{3}\.xyz/###duyuru1
 ||inattv*.xyz/images/betlolologo.png$image
-/^(www\.)?inattv\d{3}\.xyz/##.container div
 
 ! 28 Haz 2024 https://inattvgiris1.pro
 inattvgiris1.pro##body > div:nth-of-type(3)
@@ -3446,7 +3443,6 @@ taraftarium.co###duyuru1
 taraftarium.co##.contentReklam
 taraftarium.co##.adsPanelDesktop
 taraftarium.co##.adsPanelMobile
-taraftarium.co##.container > div > div
 
 ! 14 Haz 2024 https://www.asturmontes.com
 www.asturmontes.com###yoket
@@ -3611,7 +3607,6 @@ proligler3.blogspot.com##[href^="https://redirect.liverefer.com/ad"]
 taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
 taraftarium.org##.wpb_raw_html.wpb_content_element.wpb_raw_code > [href]
 taraftarium.org##+js(set, config.adv, {})
-taraftarium.org##.container div
 
 fullfilmizle.cx#$#header.container { margin-top: 0 !important; }
 
@@ -3750,7 +3745,6 @@ jussttintv.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined
 jussttintv.baby##[href="https://heylink.me/denemet24/"]
 jussttintv.baby##[href="https://heylink.me/t24denemeb/"]
 justintt1.baby##+js(set, config.adv, {})
-justintt1.baby##.container div
 
 ! 14 Tem 2024 https://www.adzindex.com
 www.adzindex.com##.justintvizle.body-clickable
@@ -4038,7 +4032,6 @@ goley90tv.live##.show.solAlt.watermark
 
 ! 1 Eyl 2024 https://justintvpro.xyz
 justintvpro.xyz##.contentReklam
-justintvpro.xyz##.container > div
 justintvpro.xyz###duyuru1
 
 ! 27 Ağu 2024 https://armorgames.com
