@@ -1154,7 +1154,6 @@ www.dinamotv103.com##.player_logo
 ! 2023-10-01 https://www.jestyayin*.com
 /^(www\.)?jestyayin\d{3}\.com/###vm_push
 /^(www\.)?jestyayin\d{3}\.com/##div:nth-of-type(4)
-/^(www\.)?jestyayin\d{3}\.com/##.container > div
 /^(www\.)?jestyayin\d{3}\.com/##+js(set, config.adv, {})
 /^(www\.)?jestyayin\d{3}\.com/##.container > div:nth-of-type(2)
 ||jestyayin*.com/1000x50.gif$image
@@ -1886,7 +1885,7 @@ pllsfored.com##body > div:nth-of-type(2)
 pllsfored.com###duyuru1
 pllsfored.com##.adsPanelDesktop
 pllsfored.com##.adsPanelMobile
-pllsfored.com##.container > div
+pllsfored.com##.container > div:nth-of-type(2)
 
 ! 2023-12-14 https://www.canlimaclar*.sbs
 /^www.canlimaclar\d{4}\.sbs/##.x-embed-link
