@@ -1239,9 +1239,9 @@ yabancidizilertv.net#%#//scriptlet('set-constant', 'puShown', 'true')
 shazysport.pro##.alignnone
 
 ! 2023-10-04 https://tulipbettv*.com
-/^tulipbettv\d{2}\.com/##.show.sagUst.watermark
-/^tulipbettv\d{2}\.com/##.odds-container
-/^tulipbettv\d{2}\.com/##ul
+/^tulipbettv\d{3}\.com/##.show.sagUst.watermark
+/^tulipbettv\d{3}\.com/##.odds-container
+/^tulipbettv\d{3}\.com/##ul
 
 ! 2023-10-04 https://volestream*.com
 /^volestream\d{2}\.com/##.show.solUst.watermark
