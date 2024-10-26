@@ -3091,9 +3091,9 @@ betbigotv1.club##ul
 /^betboxtv\d{2}\.com/##.odds-container
 
 ! 2024-05-02 https://maksibetmactv*.com
-/^maksibetmactv\d{1}\.com/##.show.sagAlt.watermark
-/^maksibetmactv\d{1}\.com/##.odds-container
-/^maksibetmactv\d{1}\.com/##ul
+/^maksibetmactv\d{2}\.com/##.show.sagAlt.watermark
+/^maksibetmactv\d{2}\.com/##.odds-container
+/^maksibetmactv\d{2}\.com/##ul
 
 ! 2024-05-02 https://www.hdtvlertv.com
 www.hdtvlertv.com##div.container > center
