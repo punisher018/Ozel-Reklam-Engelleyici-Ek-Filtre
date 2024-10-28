@@ -2361,14 +2361,11 @@ corsproxy.org##+js(set, config.adv, {})
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
-! 2024-02-16 https://www.varsports24.buzz
-www.varsports24.buzz###largebanner
-
-! 18 Haz 2024 https://www.varsports24.cfd
-www.varsports24.cfd###largebanner
-
 ! 30 Ağu 2024 https://varsports26.cfd
 varsports26.cfd##.odds
+
+! 28 Eki 2024 https://varsports28.cfd
+varsports28.cfd##[href]
 
 ! 2024-02-16 https://hdyayinlartvtrgoals4.blogspot.com
 hdyayinlartvtrgoals4.blogspot.com##marquee
