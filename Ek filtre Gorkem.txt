@@ -107,7 +107,6 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 /^www.canlitribun\d{3}\.live/##.header_r.clearfix
 /^www.canlitribun\d{3}\.live/##.iframe_pops.iframe_pops_400_kare
 /^www.canlitribun\d{3}\.live/##.r_300_600
-/^www.canlitribun\d{3}\.live/##div.mt10.clearfix
 /^www.canlitribun\d{3}\.live/##.takip_layer
 /^www.canlitribun\d{3}\.live/##[src="/r/redwin728_27112022.html"]
 ||www.canlitribun*.live/cdn/images/logo.png$image
@@ -120,6 +119,8 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 ||proxy.sy-static.workers.dev/https://1xbet.com//LiveFeed/Get1x2_VZip?count=1000&lng=tr&mode=4&country=190$xhr
 @@||canlitribun*.live/cdn/advert.js$domain=/^(www\.)?canlitribun\d{3}\.live/
 /^www.canlitribun\d{3}\.live/#@#.w100p
+/^www.canlitribun\d{3}\.live/##.r_300_300
+/^www.canlitribun\d{3}\.live/##.iframe_728
 
 ! 2023-04-23 https://bahisnowtv*.com
 /^bahisnowtv\d{3}\.com/##body > div > [href="https://bit.ly/3DULl11"]
