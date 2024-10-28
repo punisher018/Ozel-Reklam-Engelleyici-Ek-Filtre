@@ -2189,10 +2189,10 @@ ses01.buzz###dqqqqq
 pesktop.com##.uk-float-left.a728_90
 
 ! 2024-01-29 https://inatflix*.xyz
-/^inatflix\d{1}\.xyz/##center
-/^inatflix\d{1}\.xyz/##div:nth-of-type(3)
-/^inatflix\d{1}\.xyz/##div:nth-of-type(5)
-/^inatflix\d{1}\.xyz/##.ads_single_font
+/^inatflix\d{2}\.xyz/##center
+/^inatflix\d{2}\.xyz/##div:nth-of-type(3)
+/^inatflix\d{2}\.xyz/##div:nth-of-type(5)
+/^inatflix\d{2}\.xyz/##.ads_single_font
 
 ! 2024-01-29 https://foglioaaqe.xyz
 foglioaaqe.xyz##.jw-reset.jw-logo-top-right.jw-logo
