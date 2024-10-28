@@ -2194,6 +2194,9 @@ pesktop.com##.uk-float-left.a728_90
 /^inatflix\d{2}\.xyz/##div:nth-of-type(5)
 /^inatflix\d{2}\.xyz/##.ads_single_font
 
+! 28 Eki 2024 https://dactylogagnant.click
+dactylogagnant.click##.playerTextReklam
+
 ! 2024-01-29 https://foglioaaqe.xyz
 foglioaaqe.xyz##.jw-reset.jw-logo-top-right.jw-logo
 
