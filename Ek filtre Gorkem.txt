@@ -175,20 +175,21 @@ www.softexia.com###top-line
 ||mer4habalar.cfd/kral1/kutular/72890onwin.html$subdocument
 
 ! 2023-04-23 https://www.trgoals*.xyz
-/^(www\.)?trgoals\d{3}\.xyz/##h3
-/^(www\.)?trgoals\d{3}\.xyz/##marquee
-/^(www\.)?trgoals\d{3}\.xyz/##.contentReklam
-/^(www\.)?trgoals\d{3}\.xyz/###dqqqqq
-||4fw.short.gy/I5pI2v$popup,domain=/^(www\.)?trgoals\d{3}\.xyz/
-/^(www\.)?trgoals\d{3}\.xyz/##.seek-disabled.bar-container
+/^(www\.)?trgoals\d{4}\.xyz/##h3
+/^(www\.)?trgoals\d{4}\.xyz/##marquee
+/^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
+/^(www\.)?trgoals\d{4}\.xyz/###dqqqqq
+||4fw.short.gy/I5pI2v$popup,domain=/^(www\.)?trgoals\d{4}\.xyz/
+/^(www\.)?trgoals\d{4}\.xyz/##.seek-disabled.bar-container
 https://theonecdn.com/script/suv4.js
-/^(www\.)?trgoals\d{3}\.xyz/##+js(set, config.adv, {})
-/^(www\.)?trgoals\d{3}\.xyz/###duyuru1
-/^(www\.)?trgoals\d{3}\.xyz/##body > div:nth-of-type(2)
-/^(www\.)?trgoals\d{3}\.xyz/##.container > div:nth-of-type(2)
-/^(www\.)?trgoals\d{3}\.xyz/##body > div:nth-of-type(3)
-/^(www\.)?trgoals\d{3}\.xyz/##[href="https://cutt.ly/BwEeeGcX"]
-/^(www\.)?trgoals\d{3}\.xyz/##[href="//bit.ly/trgoalshd"]
+/^(www\.)?trgoals\d{4}\.xyz/##+js(set, config.adv, {})
+/^(www\.)?trgoals\d{4}\.xyz/###duyuru1
+/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(2)
+/^(www\.)?trgoals\d{4}\.xyz/##.container > div:nth-of-type(2)
+/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(3)
+/^(www\.)?trgoals\d{4}\.xyz/##[href="https://cutt.ly/BwEeeGcX"]
+/^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
+/^(www\.)?trgoals\d{4}\.xyz/##a[href="https://cutt.ly/2137667-1"]
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/restbetlogo.png$image
 ||trgoals*.xyz/images/restbetlogo.png$image
