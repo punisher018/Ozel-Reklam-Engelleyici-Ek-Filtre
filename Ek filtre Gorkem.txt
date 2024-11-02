@@ -2565,10 +2565,10 @@ www.s2g.buzz###HTML781
 www.s2g.buzz##+js(nowoif)
 
 ! 2024-02-28 https://www.justintv*.pro
-/^www.justintv\d{2}\.pro/##[href="https://rebrand.ly/ultraJTV"]
-/^www.justintv\d{2}\.pro/###playerAdv2
+/^www.justintv\d{3}\.pro/##[href="https://rebrand.ly/ultraJTV"]
+/^www.justintv\d{3}\.pro/###playerAdv2
 ||www.justintv*.pro/izinler/ultrabetpage.png$image
-/^www.justintv\d{2}\.pro/##[href="https://rebrand.ly/JTVSetra"]
+/^www.justintv\d{3}\.pro/##[href="https://rebrand.ly/JTVSetra"]
 
 ! 2024-02-28 https://www.nanirj.com
 www.nanirj.com###aman
