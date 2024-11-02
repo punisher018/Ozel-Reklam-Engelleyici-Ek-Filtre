@@ -3569,9 +3569,6 @@ watchsports.howtomakemoney.vip##.widget-area-2.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-1.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-2.widget-area
 
-! 27 Eyl 2024 https://ifram.strmrdrfrooa.click
-strmrdrfrooa.click##div:nth-of-type(4)
-
 ! 23 Eki 2024 https://mgcom.baby
 mgcom.baby##a[href="https://cutt.ly/HeDtv9P7"]
 mgcom.baby##[href="https://heylink.me/t24denemeb/"]
@@ -3584,13 +3581,12 @@ yandex.com##.main-home-banner__content
 
 ! 25 Eyl 2024 https://taraftarium-24.pro
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium-24.pro/iptvold.jpg$image
-
-! 25 Eyl 2024 https://www.justintv108.cyou
-www.justintv108.cyou##.adsPanelDesktop
-www.justintv108.cyou###duyuru1
-www.justintv108.cyou##marquee
-taraftarium24f.xyz##+js(set, config.adv, {})
-taraftarium24f.xyz##.container > div:nth-of-type(2)
+taraftarium-24.pro##[href="https://sites.google.com/view/iptvold\""]
+taraftarium-24.pro##[href^="https://bit.ly/iptvoldhd\"]
+taraftarium-24.pro##center
+taraftarium-24.pro##[href^="https://cutt.ly/"]
+taraftarium-24.pro##+js(set, config.adv, {})
+taraftarium-24.pro##.container > div:nth-of-type(2)
 
 ! 20 Eki 2024 https://*golvar.us
 /^\d{2}golvar\.us/##ul
