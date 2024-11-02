@@ -147,16 +147,6 @@ https://video.twimg.com/ext_tw_video/1588618659517300736/pu/*
 /^macvar\d{4}\.live/##a[href="https://mrafflink.com/97f2lvjx"]
 /^macvar\d{4}\.live/##.pageskin
 
-! 2023-04-23 https://interspor*.us
-||interspor*.us/assets/depo/0a9cb216dc90d8976aacbd62a1506d55.jpg$image
-/^interspor\d{2}\.us/##.sayfa-arka
-/^interspor\d{2}\.us/##.desktop.playertop.noxstream-gorsel > [href="https://iyi.to/inter"]
-||interspor*.us/assets/depo/18cf513725e579cf0c45a24cff257768.gif$image
-/^interspor\d{2}\.us/##.show.sagAlt.watermark
-/^interspor\d{2}\.us/##.video-before
-/^interspor\d{2}\.us/##ul
-/^interspor\d{2}\.us/##.odds-container
-
 ! 2023-04-23 https://www.selcuksportshd*.xyz
 ||www.selcuksportshd*.xyz/img/m-ad-*-min.gif$image
 https://video.twimg.com/ext_tw_video/1362496186482126852/pu/*
@@ -187,9 +177,8 @@ https://theonecdn.com/script/suv4.js
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(2)
 /^(www\.)?trgoals\d{4}\.xyz/##.container > div:nth-of-type(2)
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(3)
-/^(www\.)?trgoals\d{4}\.xyz/##[href="https://cutt.ly/BwEeeGcX"]
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
-/^(www\.)?trgoals\d{4}\.xyz/##a[href="https://cutt.ly/2137667-1"]
+/^(www\.)?trgoals\d{4}\.xyz/##a[href="https://cutt.ly/"]
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/restbetlogo.png$image
 ||trgoals*.xyz/images/restbetlogo.png$image
@@ -334,11 +323,6 @@ snowfl.com##.container > div:nth-of-type(2)
 /^(www\.)?tahminle\d{3}\.xyz/##.banneralanii
 /^(www\.)?tahminle\d{3}\.xyz/##.show.sagUst.watermark
 /^(www\.)?tahminle\d{3}\.xyz/##div.reklam-3
-
-! 2023-07-11 https://ligtivi*.xyz
-/^(www\.)?ligtivi\d{2}\.xyz/##body > a[href="https://twitter.com/canli_ligtv"]
-/^(www\.)?ligtivi\d{2}\.xyz/##.show.sagUst.watermark
-||cdn.streamize.live/1642544484-banner.gif$image
 
 ! 2023-07-04 https://*betnis.live
 /^\d{2}betnis\.live/##.hidden-sm.pageskin
@@ -740,9 +724,6 @@ hugedickz.com##.asside-link
 celebmasta.com##.no-popunder.wp-image-74898.size-thumbnail.alignnone
 celebmasta.com##.wp-image-71356.size-full.aligncenter
 
-! 2023-11-16 https://netu.ac
-netu.ac##[href^="mailto:support@netu.tv"]
-
 ! 2023-11-11 https://ecology.my.id
 ||ecology.my.id/ad/top/popunder.js$script,1p
 ||ecology.my.id/js/segment.7.js$script,1p
@@ -891,11 +872,6 @@ cracked.io##.sidebars > .scaleimages
 cracked.io##.inner_stuff
 cracked.io###posts > div:nth-of-type(2)
 cracked.io###pjax-container > div:nth-of-type(4)
-
-! 2023-07-13 https://torrentgalaxy.mx
-torrentgalaxy.mx##[href^="/zub.pnp"]
-torrentgalaxy.mx##[href^="/hub.php?zpp3r"]
-torrentgalaxy.mx##[href^="/hx"]
 
 ! 2023-07-13 https://cloudpaste.net
 cloudpaste.net##main > .container
@@ -1128,16 +1104,6 @@ cloud.comtadi.pw##.clappr-watermark
 /^levabettv\d{2}\.com/##.player_logo
 /^levabettv\d{2}\.com/##[href="http://leva.fun/tv"]
 
-! 2023-09-17 https://www.zurihbettv108.live
-www.zurihbettv108.live##div.odds-container.Hokeyi.Buz > [href="http://zurihb.net/ipTv"]
-www.zurihbettv108.live##.test
-www.zurihbettv108.live##.player_logo
-
-! 2023-10-28 https://zurihbettv*.live
-||zurihbettv*.live/uploads/zurih728x90-.gif$image
-/^zurihbettv\d{2}\.live/##.test
-/^zurihbettv\d{2}\.live/##.player_logo
-
 ! 2023-09-22 https://supertotobettv*.com
 ||supertotobettv*.com/Uploads/*_stbpage.png$image
 /^supertotobettv\d{3}\.com/##.livecontainer.bg-dark-1.container > div.vertical-gap.row > .col-lg-12 > [href="https://cutt.ly/H3iOEyA"]
@@ -1279,17 +1245,6 @@ shazysport.pro##.alignnone
 ||golbe*.club/uploads/e6b624db-b686-4ac8-b753-6d353855bed0.gif$image
 ||golbe*.club/uploads/e8172978-528e-4509-a3c5-3272c7784b5d.gif$image
 
-! 2023-10-04 https://macortami.com
-macortami.com##div.header-bannermacortami
-macortami.com##.stream-item-top
-macortami.com###tie-block_2353
-
-! 2023-10-04 https://mackeyfim*.com
-/^mackeyfim\d{2}\.com/##[href="https://mackeyfim1.com"]
-/^mackeyfim\d{2}\.com/##.img-responsive
-/^mackeyfim\d{2}\.com/###modalPop
-/^mackeyfim\d{2}\.com/##.show.fade.modal-backdrop
-
 ! 2023-10-05 https://bluemediafile.site
 bluemediafile.site###\33 05361
 
@@ -1308,12 +1263,6 @@ bysu5kmrhagb.cloud##.pppx
 ||nerotv*.com/uploads/6a751387-8460-4e9a-929c-9fcc07c1e780.gif$image
 ||nerotv*.com/uploads/c1c8b2ff-98f8-40ac-9dfe-ca63f2b2eab5.gif$image
 ||nerotv*.com/uploads/*.gif$image
-
-! 2024-04-28 https://www.nerobettv*.com
-||www.nerobettv*.com/uploads/*3.gif$image
-/^(www\.)?nerobettv\d{2}\.com/##div.odds-container.Hokeyi.Buz
-/^(www\.)?nerobettv\d{2}\.com/##.player_logo
-/^(www\.)?nerobettv\d{2}\.com/##[href="http://go.aff.ngnpanel.com/9oezj7zz"]
 
 ! 2023-10-06 https://dlhd.sx
 ||qiuobuixthzcc.com^$script
@@ -1446,9 +1395,6 @@ retrobettv.xyz##.sagUst.watermark
 ||www.fpiljsxrchc.com^$script
 ||qa.usninicsooey.com^$script
 ||mndlaifijmlkw.com^$xhr
-
-! 2023-10-13 https://hdizlet.com
-hdizlet.com##.leftC > [href]
 
 ! 2023-10-13 https://hd.limitsizmac*.com
 /^hd.limitsizmac\d{2}\.com/##.pageskin
@@ -1742,14 +1688,12 @@ cvdd.one##.vast-blocker
 ||cdn.discordapp.com/attachments/775441377618034692/1163496659850891344/10_Saniye_-_Seslendirme.mp4$media
 
 ! 2023-12-02 https://mgviagrtoomuch.com
-||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.com/iptv.jpg$image
 mgviagrtoomuch.com##marquee
 mgviagrtoomuch.com###dqqqqq
 mgviagrtoomuch.com##body > div:nth-of-type(3)
 ||mgviagrtoomuch.com/xslot-logooo.png$image
 mgviagrtoomuch.com##[href="https://cutt.ly/QwAktafE"]
 mgviagrtoomuch.com##+js(set, config.adv, {})
-||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://mgviagrtoomuch.com/iptvold.jpg$image
 ||mgviagrtoomuch.com/*.gif$image
 mgviagrtoomuch.com##.wpb_wrapper [href]
 
@@ -1836,9 +1780,6 @@ decrypt.co##.aspect-video.w-full
 
 @@||sonar.viously.com/*/js?w$script,domain=francoischarron.com
 
-! 2023-12-09 https://cialistn.com
-cialistn.com##[href="https://sites.google.com/view/iptvold/"]
-
 ! 2023-12-09 https://www.hdselcuksports*.top
 /^www.hdselcuksports\d{3}\.top/##.container.header_r
 @@||www.hdselcuksports*.top/cdn/advert.js$xhr,domain=/^www.hdselcuksports\d{3}\.top/
@@ -1865,10 +1806,10 @@ justintvframe.pages.dev##.uyarikutu
 t3ampframe.pages.dev##+js(set, config.adv, {})
 
 ! 2023-12-09 https://goblintvizle*.live
-/^goblintvizle\d{2}\.live/##[href="https://truelink.to/goblintv"]
-/^goblintvizle\d{2}\.live/##[href^="http://www.betnano.online/#/"]
-/^goblintvizle\d{2}\.live/##[href="https://truelink.ch/goblintv"]
-/^goblintvizle\d{2}\.live/##.img-responsive
+/^goblintvizle\d{3}\.live/##[href="https://truelink.to/goblintv"]
+/^goblintvizle\d{3}\.live/##[href^="http://www.betnano.online/#/"]
+/^goblintvizle\d{3}\.live/##[href="https://truelink.ch/goblintv"]
+/^goblintvizle\d{3}\.live/##.img-responsive
 
 ! 2023-12-11 https://taraftarium*.sbs
 /^taraftarium\d{2}\.sbs/###sagdakayan
