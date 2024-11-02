@@ -178,7 +178,7 @@ https://theonecdn.com/script/suv4.js
 /^(www\.)?trgoals\d{4}\.xyz/##.container > div:nth-of-type(2)
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(3)
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
-/^(www\.)?trgoals\d{4}\.xyz/##a[href="https://cutt.ly/"]
+/^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://cutt.ly/"]
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/restbetlogo.png$image
 ||trgoals*.xyz/images/restbetlogo.png$image
