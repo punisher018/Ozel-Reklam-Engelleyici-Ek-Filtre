@@ -3519,8 +3519,6 @@ taraftarium.me##[src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img
 ! 14 Eyl 2024 https://www.aryavedanaturals.com
 www.aryavedanaturals.com###amansiz
 ||aryavedanaturals.com/dosyalar/s*$image
-www.aryavedanaturals.com##[href="https://rebrand.ly/ultraJTV"]
-www.aryavedanaturals.com##[href="https://rebrand.ly/betkolikJTV"]
 www.aryavedanaturals.com##.textwidget > p
 www.aryavedanaturals.com##.logo-banner
 
