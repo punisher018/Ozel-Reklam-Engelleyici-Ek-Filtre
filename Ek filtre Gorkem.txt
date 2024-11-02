@@ -1837,19 +1837,13 @@ pllsfored.com##.container > div:nth-of-type(2)
 /^matadorbettv\d{2}\.com/##[href="https://cutt.ly/V7egAT5"]
 /^matadorbettv\d{2}\.com/##.pageskin
 /^matadorbettv\d{2}\.com/##.show.solAlt.watermark
-||matadorbettv*.com/Uploads/0951455b454b40f4998d2bbb4078837e_12132.jpg$image
-||matadorbettv*.com/Uploads/d3affc9f98ff4f81be3b6aa078d4e674_pageskin_matador.jpg$image
+||matadorbettv*.com/Uploads/14f84c831c474151b7e739ade9dcb7c3_matadorbg.jpg$image
 
 ! 2023-12-14 https://www.dmax.com.tr
 ||dygassets.dygdigital.com/Rep/dygtag-dmax.js$script,domain=www.dmax.com.tr
 ||www.dmax.com.tr/js/springstreams.js$script,domain=www.dmax.com.tr
 dmax.com.tr##+js(no-xhr-if, dmax/crea/)
 dmax.com.tr###liveAdContainer
-
-! 2023-12-15 https://kalitebettv*.com
-/^kalitebettv\d{2}\.com/##[href="https://rebrand.ly/Etkinlik"]
-||kalitebettv*.*/Uploads/1283a9468962409c8895e0dbc45e8081_2eea1e6caeda4b1684b6964b6d510025_Kalite_TV_BG.png$image
-/^kalitebettv\d{2}\.com/##.clappr-watermark
 
 ! 2024-03-13 https://kalitebettv*.xyz
 /^kalitebettv\d{1}\.xyz/##[href="https://rebrand.ly/Etkinlik"]
@@ -1858,10 +1852,7 @@ dmax.com.tr###liveAdContainer
 ! 2023-12-15 https://uploady.io
 uploady.io###protag-sidebar
 ||uploady.io/nt.js$script
-
-! 2023-12-17 https://justintvgiris*.site
-/^justintvgiris\d{1}\.site/##marquee
-/^justintvgiris\d{1}\.site/##[href="https://twitter.com/t24tvhd"]
+uploady.io##.adsbypubpower
 
 animetrilogy.in###floatcenter
 animetrilogy.in,luciferdonghua.*###overplay
@@ -1877,23 +1868,6 @@ tazz.tv##.w-\[15vw\].min-w-max.p-3.rounded-lg.to-violetOpacity2.via-violetOpacit
 ! 2023-12-23 https://www.mackeyfi*.sbs
 /^www.mackeyfi\d{4}\.sbs/##.x-embed-link
 /^www.mackeyfi\d{4}\.sbs/##.lazy-loaded.mw100
-
-! 2023-12-24 https://justintvizle.pages.dev
-justintvizle.pages.dev##.show
-
-! 2023-12-24 https://plsssforedframeamp.pages.dev
-plsssforedframeamp.pages.dev###dqqqqq
-plsssforedframeamp.pages.dev##marquee
-
-! 2023-12-27 https://justintvgiris*.buzz
-/^justintvgiris\d{1}\.buzz/##body > div:nth-of-type(2)
-/^justintvgiris\d{1}\.buzz/##.sidebarReklam
-/^justintvgiris\d{1}\.buzz/##marquee
-/^justintvgiris\d{1}\.buzz/##[href="https://twitter.com/t24tvhd"]
-/^justintvgiris\d{1}\.buzz/###dqqqqq
-
-! 2023-12-28 https://inattv.vip
-inattv.vip##.mCS_no_scrollbar.mCS-autoHide._mCS_2.mCustomScrollbar.scrolling.right.sidebar
 
 ! 2023-12-28 https://elithdyayin*.com
 /^(www\.)?elithdyayin\d{2}\.com/##.pageskin
@@ -1925,19 +1899,10 @@ retrobettv1.xyz##.sagUst.watermark
 ! 2024-01-06 https://iframe.tbcof.com
 iframe.tbcof.com##.sagUst.watermark
 
-! 2024-01-06 https://vadisportv200.live
-vadisportv200.live##.pageskin
-vadisportv200.live##a[href="https://bit.ly/3ge3zQU"]
-
 ! 2024-01-06 https://trendbet*.live
 /^trendbet\d{2}\.live/##div.reklam-3
 /^trendbet\d{2}\.live/##.show.solAlt.watermark
 /^trendbet\d{2}\.live/##.odds-container
-
-! 2024-01-07 https://milanobettv*.online
-/^milanobettv\d{2}\.online/##[href="http://rebrand.ly/MilanobetResmi"]
-/^milanobettv\d{2}\.online/##.clappr-watermark
-/^milanobettv\d{2}\.online/##+js(rmnt, script, doOpen)
 
 ! 2024-01-06 https://betestream*.live
 /^betestream\d{1}\.live/##.show.sagUst.watermark
@@ -2044,22 +2009,6 @@ taraftarium.cfd###sagdakayan
 taraftarium.cfd###soldakayan
 taraftarium.cfd##div:nth-of-type(13)
 
-! 2024-01-15 https://www.mebendazole.life
-www.mebendazole.life###HTML13
-www.mebendazole.life###HTML14
-www.mebendazole.life##+js(nowoif)
-
-! 2024-01-15 https://netsporgiris.pro
-netsporgiris.pro##marquee
-netsporgiris.pro##[href="https://sites.google.com/view/iptvold/"]
-netsporgiris.pro##body > div:nth-of-type(3)
-netsporgiris.pro##[href="https://cutt.ly/QwAktafE"]
-
-! 2024-01-15 https://plsmap.pages.dev
-plsmap.pages.dev###dqqqqq
-plsmap.pages.dev##marquee
-plsmap.pages.dev##+js(set, config.adv, {})
-
 ! 2024-01-15 https://premiumdownloader.net
 premiumdownloader.net##.section
 
@@ -2079,16 +2028,6 @@ www.vivatube.net##.drt-spot-visible.no-buttons.drt-spot-box
 istanbulcasinotv.live##.pageskin
 istanbulcasinotv.live##.reklam-3
 istanbulcasinotv.live##.show.solAlt.watermark
-
-! 2024-01-21 https://justintv.buzz
-justintv.buzz##body > div:nth-of-type(2)
-justintv.buzz##.sidebarReklam
-justintv.buzz##marquee
-justintv.buzz##[href="https://twitter.com/t24tvhd"]
-justintv.buzz###dqqqqq
-justintv.buzz##[href="https://discord.com/invite/HvjCYsTvSX"]
-justintv.buzz##.topReklam
-justintv.buzz##+js(set, config.adv, {})
 
 ! 2024-01-21 https://inattv*.sbs
 /^inattv\d{1}\.sbs/##[href="https://discord.com/invite/HvjCYsTvSX"]
@@ -2144,26 +2083,7 @@ dactylogagnant.click##.playerTextReklam
 foglioaaqe.xyz##.jw-reset.jw-logo-top-right.jw-logo
 
 ! 2024-03-03 https://www.donailfoulardautore.com
-donailfoulardautore.com##.headerreklam.amp-bannerlar
 donailfoulardautore.com##.headermenualti
-donailfoulardautore.com##[href="https://rebrand.ly/JTVSetra"]
-donailfoulardautore.com##[href="https://rebrand.ly/smartbahisJTV"]
-donailfoulardautore.com##[href="https://rebrand.ly/ultraJTV"]
-
-! 2024-04-27 https://hd-donailfoulardautore-com.cdn.ampproject.org
-hd-donailfoulardautore-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
-hd-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
-hd-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
-hd-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
-
-! 2024-04-27 https://www-donailfoulardautore-com.cdn.ampproject.org
-www-donailfoulardautore-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
-www-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/ultraJTV"]
-www-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/JTVSetra"]
-www-donailfoulardautore-com.cdn.ampproject.org##[href="https://rebrand.ly/smartbahisJTV"]
-
-! 2024-04-27 https://izle-donailfoulardautore-com.cdn.ampproject.org
-izle-donailfoulardautore-com.cdn.ampproject.org##.headerreklam.amp-bannerlar
 
 ! 2024-01-31 https://www.xyzsports*.xyz
 ||www.xyzsports*.xyz/assets/images/das/bets10-12-29-2023-min.gif$image
@@ -2212,17 +2132,11 @@ www.darthsebious.com###amans
 www.darthsebious.com##.footersabit
 www.darthsebious.com##div.header-banner2
 www.darthsebious.com##div.rekk
-www.darthsebious.com##[href="https://rebrand.ly/betkolikJTV"]
 www.darthsebious.com###playerAdv2
 www.darthsebious.com##div.player-img
 
 ! 2024-02-09 https://jetplayer.net
 ||video.twimg.com/ext_tw_video/1696452661317353473/pu/vid/640x360/BCVt-31Ub3JL72yZ.mp4$media
-
-! 2024-02-09 https://yakatv.com
-||yakatv.com/view/theme/safir/img/yakabito.jpg$image
-yakatv.com##[href="https://yaka.bet"]
-yakatv.com##.top-right.logo
 
 ! 2024-02-10 https://trgoalsinat.pages.dev
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/betkanyonlogo.jpg$image
