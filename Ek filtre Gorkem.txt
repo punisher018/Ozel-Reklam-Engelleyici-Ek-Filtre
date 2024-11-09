@@ -2936,9 +2936,9 @@ tifihug.com##noindex
 /^betist\d{3}tv\.live/##[href="https://cutt.ly/hw2gflnJ"]
 /^betist\d{3}tv\.live/##.clappr-watermark
 /^betist\d{3}tv\.live/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
-||betist*tv.live/Uploads/64db72a079b746be8fd175ef9fc72064_pageskin-revize.jpg$image
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^betist\d{3}tv\.live/
-||betist*tv.live/Uploads/735cd72824c444fa8975d13118be535e_pageskin.jpg$image
+/^betist\d{3}tv\.live/##body > div:nth-of-type(2)
+||betist*tv.live/Uploads/8082005b997a420395aead93f4504e87_pageskin.jpg$image
 
 ! 9 Haz 2024 https://rekatv*.com
 /^rekatv\d{2}\.com/##.popup-overlay
