@@ -2222,6 +2222,7 @@ varsports26.cfd##.odds
 
 ! 28 Eki 2024 https://varsports28.cfd
 varsports28.cfd##[href]
+varsports28.cfd##img.ad
 
 ! 2024-02-16 https://hdyayinlartvtrgoals4.blogspot.com
 hdyayinlartvtrgoals4.blogspot.com##marquee
@@ -2788,11 +2789,6 @@ babalariiegelsinnn.nereyegeldisin.workers.dev##+js(set, config.adv, {})
 ! 2024-05-04 https://www.hdfilmizleamk.net
 www.hdfilmizleamk.net###xrkpt
 
-! 2024-05-04 https://goley90macyayini.site
-goley90macyayini.site##.pageskin
-goley90macyayini.site##.reklam-3
-goley90macyayini.site##.show.solAlt.watermark
-
 ! 2024-05-05 http://www.ligtvizlesene43.one
 ||i.ibb.co/k5HF9Y0/imgpsh-fullsize-anim.png$image
 
@@ -2872,6 +2868,7 @@ pivigames.blog###gp-blog-posts-widget-3
 ! 2 Haz 2024 https://grandsbettv.com
 ||grandsbettv.com/sahnearka.jpeg$image
 grandsbettv.com##ul
+grandsbettv.com##div.\.nomobile.reklam-3
 
 ! 2 Haz 2024 https://ultrabettv*.com
 /^ultrabettv\d{3}\.com/##.playerbottom.ads
@@ -3481,22 +3478,6 @@ www.amitbhoir.com###amans
 ||www.amitbhoir.com/izin/*$image
 www.amitbhoir.com###playerAdv2
 
-! 31 Ağu 2024 https://goley90tvslot.site
-goley90tvslot.site##.pageskin
-goley90tvslot.site##.reklam-3
-goley90tvslot.site##.footer-links
-goley90tvslot.site##.odds-container
-goley90tvslot.site##ul
-goley90tvslot.site##.show.solAlt.watermark
-
-! 7 Eyl 2024 https://goley90tv.live
-goley90tv.live##.pageskin
-goley90tv.live##.odds-container
-goley90tv.live##ul
-goley90tv.live##.footer-links
-goley90tv.live##.reklam-3
-goley90tv.live##.show.solAlt.watermark
-
 ! 1 Eyl 2024 https://justintvpro.xyz
 justintvpro.xyz##.contentReklam
 justintvpro.xyz###duyuru1
@@ -3581,6 +3562,7 @@ yandex.com##.main-home-banner__content
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium-24.pro/iptvold.jpg$image
 taraftarium-24.pro##[href="https://sites.google.com/view/iptvold\""]
 taraftarium-24.pro##[href^="https://bit.ly/iptvoldhd\"]
+taraftarium-24.pro##[href="https://bit.ly/iptvoldhd"]
 taraftarium-24.pro##center
 taraftarium-24.pro##[href^="https://cutt.ly/"]
 taraftarium-24.pro##+js(set, config.adv, {})
@@ -3591,6 +3573,54 @@ taraftarium-24.pro##.container > div:nth-of-type(2)
 /^\d{2}golvar\.us/##.odds-container
 /^\d{2}golvar\.us/##.footer-links
 /^\d{2}golvar\.us/##.show.sagAlt.watermark
+
+! 5 Kas 2024 https://mevzuspor*.xyz
+/^mevzuspor\d{1}\.xyz/##+js(set, config.adv, {})
+/^mevzuspor\d{1}\.xyz/##.sidebar
+/^mevzuspor\d{1}\.xyz/##.banners.container
+/^mevzuspor\d{1}\.xyz/##.mb-15.banner
+
+! 9 Kas 2024 https://sinefil.tv
+sinefil.tv###psContainer
+sinefil.tv##[href="https://cutt.ly/bwlEU1l5"]
+sinefil.tv###mPlayerFd
+
+! 9 Kas 2024 https://hayirhayirligunler.cfd
+hayirhayirligunler.cfd##.container > div:nth-of-type(2)
+
+! 9 Kas 2024 https://www.bodytrilogy.com
+www.bodytrilogy.com###amans
+||www.bodytrilogy.com/izin/ultrabetpage.png$image
+www.bodytrilogy.com###playerAdv2
+
+! 9 Kas 2024 https://livecdn.xyz
+livecdn.xyz##.container > div:nth-of-type(2)
+
+! 5 Kas 2024 https://taraftarium245.blogspot.com
+taraftarium245.blogspot.com##.sidebar
+taraftarium245.blogspot.com##.contentReklam
+taraftarium245.blogspot.com###duyuru1
+taraftarium245.blogspot.com##+js(nowoif)
+
+! 2 Kas 2024 https://goley90tv*.live
+/^goley90tv\d{1}.live/##.pageskin
+/^goley90tv\d{1}.live/##.reklam-3
+/^goley90tv\d{1}.live/##.footer-links
+/^goley90tv\d{1}.live/##.odds-container
+/^goley90tv\d{1}.live/##ul
+/^goley90tv\d{1}.live/##.show.solAlt.watermark
+||goley90tv*.live/view/theme/ultimate/assets/js/rc.js
+
+! 2 Kas 2024 https://plsfored.xyz
+plsfored.xyz##header > [href]
+hayirhayirligunler.cfd##+js(set, config.adv, {})
+
+! 2 Kas 2024 https://streamfab.com
+||streamfab.com/lib/webpush/sw.js$script
+
+! 2 Kas 2024 https://scloud.ws
+scloud.ws##center
+
 
 
 
