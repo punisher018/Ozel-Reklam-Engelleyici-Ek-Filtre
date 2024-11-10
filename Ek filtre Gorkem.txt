@@ -2046,13 +2046,13 @@ ariva.buzz##[href="https://discord.com/invite/HvjCYsTvSX"]
 ariva.buzz##+js(set, config.adv, {})
 
 ! 2024-01-25 https://tarabettv*.shop
-/^tarabettv\d{2}\.shop/##[href="https://bit.ly/tarabettv"]
-/^tarabettv\d{2}\.shop/##+js(rmnt, script, doOpen)
-/^tarabettv\d{2}\.shop/###modalPop
-/^tarabettv\d{2}\.shop/##.show.fade.modal-backdrop
-/^tarabettv\d{2}\.shop/##.modal-open:style(overflow: auto !important)
-/^tarabettv\d{2}\.shop/##div.vertical-gap.row:nth-of-type(2)
-/^tarabettv\d{2}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+/^tarabettv\d{3}\.shop/##[href="https://bit.ly/tarabettv"]
+/^tarabettv\d{3}\.shop/##+js(rmnt, script, doOpen)
+/^tarabettv\d{3}\.shop/###modalPop
+/^tarabettv\d{3}\.shop/##.show.fade.modal-backdrop
+/^tarabettv\d{3}\.shop/##.modal-open:style(overflow: auto !important)
+/^tarabettv\d{3}\.shop/##div.vertical-gap.row:nth-of-type(2)
+/^tarabettv\d{3}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2024-01-25 https://testediyoruz12.pages.dev
 testediyoruz12.pages.dev##marquee
