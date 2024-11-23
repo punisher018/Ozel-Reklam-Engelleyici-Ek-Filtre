@@ -2439,6 +2439,9 @@ www.newcdn.lol##.clappr-banner
 ! 18 Haz 2024 https://drakulastream.xyz
 drakulastream.xyz##.tallstreambanner
 drakulastream.xyz##.show
+@@||blockestvs.xyz/adbdetect/float_ad.js$script,domain=drakulastream.xyz
+drakulastream.org##[href^="https://liqbtrights.xyz/"]
+drakulastream.org##[href^="https://bacugo.xyz/"]
 ||papatrol.xyz/202211_vv/topb_vv_tr_soccer.gif$image
 
 ! 2024-02-28 https://capitolbet*.live
@@ -2582,13 +2585,40 @@ futemax.mx##div.banner-container:nth-of-type(1)
 ! 2024-04-09 https://vip.realtvs.tv
 ||vip.realtvs.tv/close.png$image
 
-! 2024-04-09 https://play26.tigoals52.com
-play26.tigoals52.com##a.skpt_3rd.img.at-class.home__litem.at-a-class.banner.flex-center
-play26.tigoals52.com##.skpt_3rd.img.S3.at-a-class.banner.flex-center
-||cfcdn.livesports.mobi/prod/svimg/*.gif$image
+! 11 Kas 2024 https://play31.marza2.shop
+play31.marza2.shop##.skpt_2nd.img.S3.ata-class.banner.flex-center
+play31.marza2.shop##.ftb-company-data-2nd
 
-! 2024-04-09 https://play26.score808pro.com
-play26.score808pro.com##.skpt_3rd.img.pr1-class.at-class.home__litem.at-a-class.banner.flex-center
+! 16 Kas 2024 https://play31.marza4.shop
+play31.marza4.shop##.ftb-company-data-2nd
+
+! 11 Kas 2024 https://play31.score808pro.com
+play31.score808pro.com##.skpt_3rd.img.pr1-class.at-class.home__litem.ata-class.banner.flex-center
+play31.score808pro.com##div.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
+play31.score808pro.com##.quiz-master
+
+! 11 Kas 2024 https://play31.808ball.com
+play31.808ball.com##div.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
+play31.808ball.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
+play31.808ball.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
+play31.808ball.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
+play31.808ball.com##div.skpt_3rd.img.ata-class.banner.flex-center
+play31.808ball.com##.quiz-master
+play31.808ball.com##.detail__content1
+
+! 16 Kas 2024 https://play31.tigoals*.com
+/^tigoals\d{3}\.com/##div.skpt_3rd.img.ata-class.banner.flex-center
+/^tigoals\d{3}\.com/##.quiz-master
+/^tigoals\d{3}\.com/##.detail__content1
+||cfcdn.apcqwd.com/prod/svimg/*.gif$image
+||cfcdn.apcqwd.com/prod/svimg/$xhr
+
+! 16 Kas 2024 https://play31.808fubo.com
+play31.808fubo.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
+play31.808fubo.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
+play31.808fubo.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
+play31.808fubo.com##.skpt_3rd.img.pn1-class.ata-class.banner.flex-center
+play31.808fubo.com##.detail__content1
 
 ! 2024-04-10 https://dactylogagnant.click
 ||dactylogagnant.click/player/assets/uploads/154a625778f7efb5099defc66da3d0ad.png$image
@@ -3375,6 +3405,7 @@ lavivabettv3.fun##.odds-container
 lavivabettv3.fun##ul
 lavivabettv3.fun##.show.solAlt.watermark
 ||admerkez.com/files/uploads/laviva.mp4$media
+||admerkez.com/files/uploads/laviva.mp4$xhr
 
 ! 7 Tem 2024 https://*betmantv.online
 /^\d{2}betmantv\.online/##.pageskin
@@ -3461,9 +3492,6 @@ www.peopleandcosmetics.com##[href="https://rebrand.ly/JTVSetra"]
 
 ! 6 Ağu 2024 https://homesports.net
 homesports.net##.is-active.modal
-
-! 7 Ağu 2024 https://mactadi.blogspot.com
-mactadi.blogspot.com##marquee
 
 ! 7 Ağu 2024 https://en12.sportplus.live
 en12.sportplus.live##.page__aside-banner
@@ -3585,12 +3613,17 @@ www.yayintaraftarium.sbs##.clappr-watermark
 /^casiveratv\d{2}\.com/##.odds-container
 /^casiveratv\d{2}\.com/##ul
 /^casiveratv\d{2}\.com/##.footer-links
+/^casiveratv\d{2}\.com/##.video-before
+/^casiveratv\d{2}\.com/##+js(set-attr, .video-skip[data-time], data-time, 0 )
 
 ! 10 Kas 2024 https://casiveratv*.xyz
 /^casiveratv\d{2}\.xyz/##ul
 /^casiveratv\d{2}\.xyz/##.odds-container
 /^casiveratv\d{2}\.xyz/##.footer-links
 /^casiveratv\d{2}\.xyz/##.show.solUst.watermark
+/^casiveratv\d{2}\.xyz/##.video-before
+/^casiveratv\d{2}\.xyz/##+js(set-attr, .video-skip[data-time], data-time, 0 )
+||casiveratv*.xyz/assets/gliders.js$script
 
 ! 1 Eyl 2024 https://justintvpro.xyz
 justintvpro.xyz##.contentReklam
@@ -3664,11 +3697,9 @@ watchsports.howtomakemoney.vip##.widget-area-2.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-1.widget-area
 /^watchsports\d{2}\.howtomakemoney.vip/##.widget-area-2.widget-area
 
-! 23 Eki 2024 https://mgcom.baby
-mgcom.baby##a[href="https://cutt.ly/HeDtv9P7"]
-mgcom.baby##[href="https://heylink.me/t24denemeb/"]
-mgcom.baby##[href="https://bit.ly/iptvoldhd"]
-mgcom.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+! 16 Kas 2024 https://mgcoomhd.baby
+mgcoomhd.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+mgcoomhd.baby##header > [href]
 hayrihayrihayirlii3.cfd##+js(set, config.adv, {})
 hayrihayrihayirlii3.cfd##.container > div:nth-of-type(2)
 hayrihayrihayirli6.cfd##.container > div:nth-of-type(2)
@@ -3919,6 +3950,10 @@ dizihot.com##+js(nowoif)
 ||koredizileri.pw/img/2603c58cb6.mp4$media,1p
 ||koredizileri.pw/img/vst.js$script,1p
 
+! 16 Kas 2024 https://dcdlplayer8a06f4.xyz - dizi5.life
+dcdlplayer8a06f4.xyz##.clappr-watermark
+dcdlplayer8a06f4.xyz#%#//scriptlet('set-constant', 'window.document.referrer', '')
+
 ! 18 Eyl 2024 https://livefootball24.com
 livefootball24.com##.desktop.center.banner
 livefootball24.com##.desktop.fixed-banner-right
@@ -4007,7 +4042,78 @@ www.pennellccblog.com##.ortabuyuk
 www.pennellccblog.com##.navbar-default.tay-bar.tay-nav
 www.pennellccblog.com###playerAdv2
 
+! 16 Kas 2024 https://mactime3.pages.dev
+mactime3.pages.dev##.container > div:nth-of-type(2)
+mactime3.pages.dev###duyuru1
 
+! 16 Kas 2024 https://mtadisvniz.pages.dev
+mtadisvniz.pages.dev##.watermark
+mtadisvniz.pages.dev##.clappr-watermark
+
+! 16 Kas 2024 https://mtadiall.blogspot.com
+mtadiall.blogspot.com##.watermark
+mtadiall.blogspot.com##.clappr-watermark
+
+! 16 Kas 2024 https://mackeyfim.pro
+mackeyfim.pro##.pointer-enabled.container > div:nth-of-type(2)
+mackeyfim.pro##.ads-img
+mackeyfim.pro##.reklam-3
+mackeyfim.pro##.container > div:nth-of-type(2)
+
+! 16 Kas 2024 https://ben.quietlywheat23.shop
+ben.quietlywheat23.shop##.hover-list-show.hover-list
+
+! 16 Kas 2024 https://myp2p.at
+||bithow.com/script.packed.js$script
+||bithow.com/license.packed.js$script
+myp2p.*#@#a[rel="sponsored"]
+myp2p.at##.bottom_banner
+myp2p.at##.top_banner
+myp2p.at##[href^="https://liqbtrights.xyz/"]
+myp2p.at##[href^="https://bacugo.xyz/"]
+
+! 16 Kas 2024 https://mip2p.top
+mip2p.top##.show
+||partyroll.xyz/202211_vv/topb_vv_tr_soccer.gif$image
+mip2p.top###videoside
+mip2p.top##.slot-600-100
+mip2p.top##.sidebar
+mip2p.top##[href^="https://liqbtrights.xyz/"]
+mip2p.top##[href^="https://bacugo.xyz/"]
+@@||blockestvs.xyz/adbdetect/float_ad.js$script,domain=mip2p.top
+||blockestvs.xyz/js/ar.js$script
+
+! 16 Kas 2024 https://scobor.net
+scobor.net###content_area
+
+! 16 Kas 2024 https://watchsportnow.com
+watchsportnow.com##.popup-player.view-match-media-wrapper
+
+! 10 Kas 2024 https://gizabettv4.xyz
+gizabettv4.xyz##ul
+gizabettv4.xyz##.odds-container
+gizabettv4.xyz##.footer-links
+gizabettv4.xyz##.show.sagAlt.watermark
+
+! 2 Kas 2024 https://yakatv3.live
+||yakatv3.live/view/theme/safir/img/yakabito.jpg$image
+||yakatv3.live/view/theme/safir/img/yakabito.jpg$xhr,1p
+yakatv3.live##.nomobile
+yakatv3.live##.mt-3
+yakatv3.live##.top-right.logo
+
+! 23 Eki 2024 https://betcool22tv.com
+betcool22tv.com##ul
+betcool22tv.com##.odds-container
+betcool22tv.com##.show.solUst.watermark
+betcool22tv.com##.footer-links
+
+! 26 Eki 2024 https://betmarinotv77.site
+betmarinotv77.site##.pageskin
+||betmarinotv77.site/wp-content/uploads/2023/08/mari100.gif$image
+betmarinotv77.site##.only-desktop.footer-links
+betmarinotv77.site##ul
+betmarinotv77.site##.show.sagAlt.watermark
 
 
 
