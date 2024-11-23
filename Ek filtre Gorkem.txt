@@ -162,6 +162,7 @@ https://video.twimg.com/ext_tw_video/1362496186482126852/pu/*
 /^www.selcuksportshd\d{4}\.xyz/##.banners.container
 /^www.selcuksportshd\d{4}\.xyz/##.sidebar
 /^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
+quattro.668a396e58bcbc27.click#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 
 ! 2023-04-23 https://www.softexia.com
 www.softexia.com##div.a1g2022w:nth-of-type(1)
@@ -223,6 +224,8 @@ onedio.com#@#.share-test-result
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=onedio.com
 onedio.com##.p-2\.5.relative.min-h-\[360px\]
 onedio.com###taboola-video-reel-right-rail
+onedio.com##.h-full.mr-2\.5.top-0.right-full.absolute
+onedio.com##.my-4.gap-5.items-center.justify-start.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
 
 ! 2023-04-23 https://vegoltv*.com
 ||vegoltv*.com/wp-content/uploads/2022/09/vgl.jpg$image
@@ -777,6 +780,21 @@ www.freecomics.xxx##div:nth-of-type(15)
 ! 30 Eki 2024 https://roshy.tv
 ||video.sacdnssedge.com/video/b073fba55fab710468257564fe323ce5.mp4$media,domain=roshy.tv
 
+! 13 Kas 2024 https://pornone.com
+pornone.com##.w-full.grid-full-col
+
+! 14 Kas 2024 https://www.chinaporno.life
+www.chinaporno.life##.offender
+www.chinaporno.life##.letter
+
+! 17 Kas 2024 https://txxxporn.tube
+txxxporn.tube##.sugggestion
+txxxporn.tube##.ffxexsftesx
+
+! 22 Kas 2024 https://streamporn.org
+||streamporn.org/wp-content/cache/min/1/ad-provider.js$script
+||streamporn.org/wp-content/cache/min/1/advert/$script
+
 ! 2023-11-11 https://ecology.my.id
 ||ecology.my.id/ad/top/popunder.js$script,1p
 ||ecology.my.id/js/segment.7.js$script,1p
@@ -1033,9 +1051,6 @@ paylinks.cloud##div.banner-captcha.banner:nth-of-type(1)
 paylinks.cloud##.adsaro_push_div
 paylinks.cloud##.banner-728x90.banner
 
-! 2023-08-04 https://filecrypt.co
-filecrypt.co##.ipp
-
 ! 2023-08-10 https://mehtrainer.com
 ||mehtrainer.com/wp-content/uploads/2020/11/dwwdss.png$image
 
@@ -1240,9 +1255,6 @@ perrzo.com##aside#text-7.widget_text.widget:nth-of-type(5) > .widget-inner > .te
 perrzo.com##aside#text-7.widget_text.widget:nth-of-type(6) > .widget-inner > .textwidget
 ||embed.footylight.com/aniview/footylight-dubzstream-one.js$script,domain=perrzo.com
 perrzo.com##+js(acis, ConsoleBan)
-
-izlekolik.org#%#//scriptlet('set-constant', 'puShown', 'true')
-yabancidizilertv.net#%#//scriptlet('set-constant', 'puShown', 'true')
 
 ! 2023-10-02 https://soccerstream100.co
 ||streamsport.icu/ads1/load1.html$subdocument
@@ -1728,6 +1740,7 @@ b5yucast.com##img
 /^hiltonbettv\d{3}\.com/##.show.sagUst.watermark
 /^hiltonbettv\d{3}\.com/##.odds-container
 /^hiltonbettv\d{3}\.com/##ul
+/^hiltonbettv\d{3}\.com/##.footer-links
 
 ! 2023-12-02 https://ggsport.tv
 ggsport.tv##.z-50.bottom-15.right-1.absolute.flex-row-center.contain-upgrade.h-5.px-1.lg\:visible.invisible.w-max
@@ -2180,6 +2193,10 @@ jyayintvhd1.live##.bannner
 ! 2024-03-07 https://jyayintv9.com
 jyayintv9.com##.bannnner
 jyayintv9.com##.right_bannnner
+
+! 14 Eyl 2024 https://jyayintv98.live
+jyayintv98.live##.right_bannnner
+jyayintv98.live##.bannnner
 
 ! 2024-02-03 https://www.darthsebious.com
 www.darthsebious.com##.justintvizle.body-clickable
@@ -2745,9 +2762,6 @@ www.abivn.com###playerAdv2
 ! 2024-04-23 https://vidmoly.to
 ||cdn.staticmoly.me/ads/be/99/ads.js$script
 ||cdn.staticmoly.me/player_clappr/frd0ad.js$script
-
-! 2024-04-23 https://kultfilmler.com
-kultfilmler.com##.video-top-alert
 
 ! 2024-04-25 https://torgamez.com
 torgamez.com##div.astraside2block:nth-of-type(3)
@@ -3346,6 +3360,12 @@ dizirex.com##+js(nowoif)
 ||socceronline.me/partytown/partytown-sw.js$script
 socceronline.me##.m-1.fw-bold.btn-danger.btn
 socceronline.me##+js(rmnt, script, FingerprintJS)
+socceronline.me##.top-0.text-white.bg-opacity-50.bg-light.w-100.position-absolute.h-100
+||socceronline.me/partytown/partytown.js$script
+||cvgto-akmk.fun^$xhr
+
+! 12 Ağu 2024 https://dudestream.com
+dudestream.com#%#//scriptlet("abort-current-inline-script", "Math", "delete window")
 
 ! 10 Kas 2024 https://lavivabettv3.fun
 lavivabettv3.fun##.pageskin
@@ -3396,6 +3416,8 @@ olympic-paris-2024.duktek.online###cloudUrl
 ||worldsports.me/partytown/partytown.js$script
 worldsports.me##.top-0.text-white.bg-opacity-50.bg-dark.w-100.position-absolute.h-100
 worldsports.me##.m-1.fw-bold.btn-danger.btn
+worldsports.me,kenitv.me#%#//scriptlet("abort-current-inline-script", "Math", "delete window")
+worldsports.me##+js(rmnt, script, FingerprintJS)
 
 ! 25 Tem 2024 https://perakende.org
 perakende.org##.elementor-widget-image.elementor-widget.sc_fly_static.elementor-element-d8078f4.elementor-element.sc_layouts_item
@@ -3616,9 +3638,6 @@ www.ganyancanavari.com##.main_degisiklikler_bg_panel > .main-duyuru div
 www.ganyancanavari.com##.main_page_panel > .main-duyuru div
 www.ganyancanavari.com##.main_bg_panel > div:nth-of-type(3)
 
-! 18 Eyl 2024 https://antenasport.online
-||www.worldometers.info/img/flags/us-flag.gif$image
-
 ! 21 Eyl 2024 https://justintv.co
 ||justintv.co/*$image
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://justintv.co/betwild.gif$image
@@ -3654,6 +3673,8 @@ hayrihayrihayirlii3.cfd##+js(set, config.adv, {})
 hayrihayrihayirlii3.cfd##.container > div:nth-of-type(2)
 hayrihayrihayirli6.cfd##.container > div:nth-of-type(2)
 hayrihayrihayirli6.cfd##+js(set, config.adv, {})
+hayrihayrixchayirli8.cfd##+js(set, config.adv, {})
+hayrihayrixchayirli8.cfd##.container > div:nth-of-type(2)
 
 ! 23 Eki 2024 https://yandex.com
 yandex.com##.main-home-banner__content
@@ -3835,6 +3856,7 @@ milyonermacizle.com##[href="https://bit.ly/3XTT6PK"]
 ||milyonermacizle.com/Uploads/295a3f5e5d3947069c8500b817a7d48d_milyo-page.jpg$image
 milyonermacizle.com##body > div:nth-of-type(2)
 milyonermacizle.com##.clappr-watermark
+milyonermacizle.com##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 30 Eyl 2024 https://vidsrc.net
 ||vidsrc.net/f59d610a61063c7ef3ccdc1fd40d2ae6.js$script
@@ -3847,5 +3869,151 @@ milyonermacizle.com##.clappr-watermark
 
 ! 9 Eyl 2024 https://shtms.co
 shtms.co###toasts
+
+! 23 Kas 2024 https://izlekolik.pro
+izlekolik.pro##a.z-10.relative
+izlekolik.pro###activeFrontVid
+
+! 5 Ağu 2024 https://filmizletv.me
+@@||player.vidlop.com/assets/js/devtools-detector.js$script,domain=player.vidlop.com
+filmizletv.me#$#header { margin-bottom: 0 !important; }
+
+! 5 Ağu 2024 https://fullhdfilmizle.vip
+fullhdfilmizle.vip#$#.mt-2 { margin-top: 0 !important; }
+fullhdfilmizle.vip#$##header { margin-top: 0 !important; }
+
+! 5 Ağu 2024 https://siyahfilmizle.bio
+siyahfilmizle.bio#$##wrapper { margin-top: 0 !important; }
+
+! 7 Ağu 2024 https://fullfilmvakti.com
+fullfilmvakti.com###footer
+fullfilmvakti.com###m18
+||fullfilmvakti.com/wp-content/themes/keremiya/js/elma.js$script,domain=www.fullfilmvakti.com
+||fullfilmvakti.com/wp-content/litespeed/js/35777bbe38ee243cf4463bc6afb90d8b.js$script,1p
+||media.bidvert.com/js/inp/c.js$script,domain=fullfilmvakti.com
+
+! 14 Ağu 2024 https://filmmoduu.com
+filmmoduu.com##.body-clickable
+||sezonlukdizi.one/wp-content/uploads/2024/02/1000x50.gif$image
+filmmoduu.com##.videoust
+filmmoduu.com##.videoalt
+||i.hizliresim.com/aaujyo7.gif
+
+! 15 Ağu 2024 https://www.vipfilmsitesi.com
+||www.vipfilmsitesi.com/wp-content/uploads/2024/08/Pasacasino-1000x50-3.gif$image
+||www.vipfilmsitesi.com/wp-content/uploads/2024/08/mercure-gif-1000x50-1.gif$image
+vipfilmsitesi.com##+js(nano-stb, , 5000)
+www.vipfilmsitesi.com###filmoncereklam
+||www.vipfilmsitesi.com/wp-content/uploads/2024/10/Comp-1_1.mp4$media,domain=www.vipfilmsitesi.com
+||videos-cloudfront.jwpsrv.com/*videos/NnkfCwbn-1287469.webm$media,domain=www.vipfilmsitesi.com
+
+! 19 Ağu 2024 https://kultfilmler.net
+kultfilmler.net#$#body { margin-top: 0 !important; }
+kultfilmler.net#$#header { margin-top: 0 !important; }
+
+! 27 Eyl 2024 https://dizihot.com
+||dizihot.com/wp-content/cache/wpfc-minified/97ruesp8/hcvzn.js$script,1p
+dizihot.com##+js(nowoif)
+
+! 27 Eyl 2024 https://koredizileri.pw
+||koredizileri.pw/img/2603c58cb6.mp4$media,1p
+||koredizileri.pw/img/vst.js$script,1p
+
+! 18 Eyl 2024 https://livefootball24.com
+livefootball24.com##.desktop.center.banner
+livefootball24.com##.desktop.fixed-banner-right
+
+! 18 Eyl 2024 https://newsarena24h.com
+||newsarena24h.com/ovoplayer/images/ovoplayerlogo.png$image
+
+! 11 Eki 2024 https://www.sondakika.com
+www.sondakika.com##p[style="display: flex;justify-content: center;"]
+
+! 7 Eki 2024 https://www.kraloyun.com
+kraloyun.com#@#div[id^=“sp_message_container_”]
+
+! 10 Kas 2024 https://dengetv*.live
+/^dengetv\d{2}\.live/##.ads-img
+/^dengetv\d{2}\.live/##.reklam-3
+/^dengetv\d{2}\.live/##.footer-links
+/^dengetv\d{2}\.live/##ul
+/^dengetv\d{2}\.live/##.container > div:nth-of-type(2)
+
+! 10 Kas 2024 https://beintvcanliizle*.com
+/^beintvcanliizle\d{2}\.com/###modalPop
+/^beintvcanliizle\d{2}\.com/##.show.fade.modal-backdrop
+/^beintvcanliizle\d{2}\.com/##body > div:nth-of-type(2)
+/^beintvcanliizle\d{2}\.com/##div.vertical-gap.row:nth-of-type(2)
+/^beintvcanliizle\d{2}\.com/##div.vertical-gap.row:nth-of-type(11)
+/^beintvcanliizle\d{2}\.com/##div.vertical-gap.row:nth-of-type(18)
+/^beintvcanliizle\d{2}\.com/##+js(set, config.adv, {})
+/^beintvcanliizle\d{2}\.com/##.clappr-watermark
+/^beintvcanliizle\d{2}\.com/##.modal-open:style(overflow: auto !important)
+/^beintvcanliizle\d{2}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+||beintvcanliizle*.com/Uploads/6a43e521d49b43c581ecb419b3062686_canli-bein-izle-sides-2-130523.png$image
+
+! 11 Kas 2024 https://taraftarium-24.com
+taraftarium-24.com##.wpb_wrapper > [href] > [src]
+taraftarium-24.com##center
+taraftarium-24.com##+js(set, config.adv, {})
+taraftarium-24.com##.container > div:nth-of-type(2)
+taraftarium-24.com##.clearfix.entry-content > p
+
+! 11 Kas 2024 https://ppdd02.xiimadedishalthough.shop
+ppdd02.xiimadedishalthough.shop##.video-watermark-S6.active.video-watermark
+
+! 12 Kas 2024 https://mastercanlitv17.com
+mastercanlitv17.com##.container > div:nth-of-type(2)
+mastercanlitv17.com##ul
+mastercanlitv17.com##.ads-img
+mastercanlitv17.com##.reklam-3
+mastercanlitv17.com##.footer-links
+
+! 13 Kas 2024 https://www.lhjmcgssongzi.com
+www.lhjmcgssongzi.com###aman
+||lhjmcgssongzi.com/dosyalar/*$image
+www.lhjmcgssongzi.com##div.ortabuyuk
+www.lhjmcgssongzi.com###playerAdv2
+
+! 13 Kas 2024 https://www.jobszxjiangdu.com
+www.jobszxjiangdu.com###amans
+www.jobszxjiangdu.com##.justintvizle.footersabit
+www.jobszxjiangdu.com###playerAdv2
+
+! 16 Kas 2024 https://www.colinskaraoke.com
+www.colinskaraoke.com###amans
+www.colinskaraoke.com###playerAdv2
+
+! 16 Kas 2024 https://www.wysinnwyg.com
+||wysinnwyg.com/belge/setrabetpage.png$image
+www.wysinnwyg.com##.headermenualti
+
+! 16 Kas 2024 https://www.vzenggive.com
+||vzenggive.com/evrak/setrabetpage.png$image
+
+! 16 Kas 2024 https://www.zxjgcshiyan.com
+www.zxjgcshiyan.com###amansiz
+||zxjgcshiyan.com/dosyalar/setrabetpage.png$image
+www.zxjgcshiyan.com##.headermenualti
+
+! 20 Kas 2024 https://www.lhjcggswusheng.com
+www.lhjcggswusheng.com###amans
+www.lhjcggswusheng.com##.headermenualti
+||lhjcggswusheng.com/dosyalar/smartbahispage.png$image
+
+! 23 Kas 2024 https://www.pennellccblog.com
+www.pennellccblog.com###yoket
+www.pennellccblog.com##.ortabuyuk
+www.pennellccblog.com##.navbar-default.tay-bar.tay-nav
+www.pennellccblog.com###playerAdv2
+
+
+
+
+
+
+
+
+
 
 
