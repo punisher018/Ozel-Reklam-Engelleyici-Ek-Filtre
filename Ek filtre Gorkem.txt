@@ -791,6 +791,18 @@ www.chinaporno.life##.letter
 txxxporn.tube##.sugggestion
 txxxporn.tube##.ffxexsftesx
 
+! 25 Kas 2024 https://trupornolabs.org
+trupornolabs.org###\$_v_banner
+||iwrcoct.info^$script
+||retarget/get$script
+||bewitchedhimself.com^$script
+@@||counter.yadro.ru^$image,domain=trupornolabs.org
+trupornolabs.org#$#body { padding: 0 !important; }
+
+! 25 Kas 2024 https://pronpic.org
+||atdippcode.com/bens/vinos5.js$script
+@@||counter.yadro.ru^$image,domain=pronpic.org
+
 ! 22 Kas 2024 https://streamporn.org
 ||streamporn.org/wp-content/cache/min/1/ad-provider.js$script
 ||streamporn.org/wp-content/cache/min/1/advert/$script
@@ -1858,6 +1870,14 @@ decrypt.co##.aspect-video.w-full
 ||www.hdselcuksports*.top/cdn/images/jw-logo.png$image
 /^www.hdselcuksports\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
 
+! 23 Kas 2024 https://www.selcuksports*.top
+/^www.selcuksports\d{2}\.top/##ul
+/^www.selcuksports\d{2}\.top/##div.desktop.playertop.volestream-gorsel
+/^www.selcuksports\d{2}\.top/##.footer-sticky
+/^www.selcuksports\d{2}\.top/##.footer-links
+/^www.selcuksports\d{2}\.top/##div.desktop.playerbottom.volestream-gorsel
+/^www.selcuksports\d{2}\.top/##.odds-container
+
 ! 2023-12-09 https://t3ampframe.pages.dev
 t3ampframe.pages.dev###dqqqqq
 t3ampframe.pages.dev##marquee
@@ -2374,6 +2394,9 @@ channelbein19.blogspot.com##marquee
 channelbein20.blogspot.com##marquee
 channelbein20.blogspot.com##.bannnner
 channelbein20.blogspot.com##.right_bannnner
+channelbein21.blogspot.com##marquee
+channelbein21.blogspot.com##.right_bannnner
+channelbein21.blogspot.com##.bannnner
 
 ! 2024-02-19 https://hardsporhd6.blogspot.com
 hardsporhd6.blogspot.com##.footer-wrapper
@@ -2518,6 +2541,9 @@ playmods.net##.recommend
 
 ! 2024-03-08 https://aylink.co
 aylink.co###esosyal-video
+aylink.co##center
+||aylink.co/webroot/js/toast.js$script,1p
+||aylink.co/webroot/js/ads.js$script,1p
 
 ! 2024-03-09 https://www.websleuths.com
 www.websleuths.com##.js-replyNewMessageContainer.block-body > div
@@ -2784,10 +2810,9 @@ www.abivn.com###playerAdv2
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{2}\.shop/
 
 ! 2024-04-23 https://muzyet.net
-||m.killtarget.biz/api/pwa/get$script,domain=muzyet.net
-||c.killtarget.biz/get-code/$script,domain=muzyet.net
-||m.killtarget.biz/api/clu/get$script,domain=muzyet.net
-||muzyet.net/kwa.js?v=1.5$script
+||m.killtarget.biz/$script
+||c.killtarget.biz/$script
+||muzyet.net/kwa.js$script
 
 ! 2024-04-23 https://vidmoly.to
 ||cdn.staticmoly.me/ads/be/99/ads.js$script
@@ -3842,12 +3867,12 @@ cdn.getpngimagesearch.online##.clappr-watermark
 /^hasbetizle\d{2}\.com/##ul
 /^hasbetizle\d{2}\.com/##.container > div:nth-of-type(2)
 
-! 2 Kas 2024 https://betzulatv3-2pi.pages.dev
-betzulatv3-2pi.pages.dev##.container > div:nth-of-type(2)
-betzulatv3-2pi.pages.dev##.ads-img
-betzulatv3-2pi.pages.dev##.reklam-3
-betzulatv3-2pi.pages.dev##.footer-links
-betzulatv3-2pi.pages.dev##ul
+! 2 Kas 2024 https://betzulatv4-c3v.pages.dev/
+betzulatv4-c3v.pages.dev##.container > div:nth-of-type(2)
+betzulatv4-c3v.pages.dev##.ads-img
+betzulatv4-c3v.pages.dev##.reklam-3
+betzulatv4-c3v.pages.dev##.footer-links
+betzulatv4-c3v.pages.dev##ul
 
 ! 2 Kas 2024 https://taraftarium24.dev
 taraftarium24.dev##.container > div:nth-of-type(2)
@@ -4116,8 +4141,32 @@ betmarinotv77.site##.only-desktop.footer-links
 betmarinotv77.site##ul
 betmarinotv77.site##.show.sagAlt.watermark
 
+! 24 Kas 2024 https://trendlinkler.com
+trendlinkler.com###toasts
+trendlinkler.com###esosyal-video
+||trendlinkler.com/assets/js/push.min.js$script,1p
 
+! 24 Kas 2024 https://cpmlink.pro
+||cpmlink.pro/webroot/js/ads.js$script,1p
+||cpmlink.pro/webroot/js/toast.js$script,1p
+||cpmlink.pro/webroot/js/push.latest.min.js$script,1p
 
+! 24 Kas 2024 https://justcoohd.baby
+justcoohd.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+justcoohd.baby##header > [href]
+hayrihayrixhayirli7.cfd##+js(set, config.adv, {})
+hayrihayrixhayirli7.cfd##div:nth-of-type(2)
+
+! 23 Kas 2024 https://betgitv*.com
+/^betgitv\d{2}\.com/##ul
+/^betgitv\d{2}\.com/##.ads-img
+/^betgitv\d{2}\.com/##.reklam-3
+/^betgitv\d{2}\.com/##.footer-links
+/^betgitv\d{2}\.com/##.container > div:nth-of-type(2)
+/^betgitv\d{2}\.com/##.pageskin
+
+! 24 Kas 2024 https://tv.canlitv.mov
+||controlpush.com/js/cpv1-kolaytv.js$script,domain=tv.canlitv.mov
 
 
 
