@@ -2814,6 +2814,9 @@ www.abivn.com###playerAdv2
 ||c.killtarget.biz/$script
 ||muzyet.net/kwa.js$script
 
+! 24 Kas 2024 https://mp3wr.com
+||mp3wr.com/kwa.js$script
+
 ! 2024-04-23 https://vidmoly.to
 ||cdn.staticmoly.me/ads/be/99/ads.js$script
 ||cdn.staticmoly.me/player_clappr/frd0ad.js$script
@@ -4144,12 +4147,12 @@ betmarinotv77.site##.show.sagAlt.watermark
 ! 24 Kas 2024 https://trendlinkler.com
 trendlinkler.com###toasts
 trendlinkler.com###esosyal-video
-||trendlinkler.com/assets/js/push.min.js$script,1p
+||trendlinkler.com/assets/js/push.min.js$script
 
 ! 24 Kas 2024 https://cpmlink.pro
 ||cpmlink.pro/webroot/js/ads.js$script,1p
 ||cpmlink.pro/webroot/js/toast.js$script,1p
-||cpmlink.pro/webroot/js/push.latest.min.js$script,1p
+||cpmlink.pro/webroot/js/push.latest.min.js$script
 
 ! 24 Kas 2024 https://justcoohd.baby
 justcoohd.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
