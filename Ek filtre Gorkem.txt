@@ -3981,7 +3981,6 @@ dizihot.com##+js(nowoif)
 
 ! 16 Kas 2024 https://dcdlplayer8a06f4.xyz - dizi5.life
 dcdlplayer8a06f4.xyz##.clappr-watermark
-dcdlplayer8a06f4.xyz#%#//scriptlet('set-constant', 'window.document.referrer', '')
 
 ! 18 Eyl 2024 https://livefootball24.com
 livefootball24.com##.desktop.center.banner
