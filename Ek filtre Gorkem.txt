@@ -226,6 +226,7 @@ onedio.com##.p-2\.5.relative.min-h-\[360px\]
 onedio.com###taboola-video-reel-right-rail
 onedio.com##.h-full.mr-2\.5.top-0.right-full.absolute
 onedio.com##.my-4.gap-5.items-center.justify-start.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
+onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
 
 ! 2023-04-23 https://vegoltv*.com
 ||vegoltv*.com/wp-content/uploads/2022/09/vgl.jpg$image
@@ -3729,6 +3730,7 @@ watchsports.howtomakemoney.vip##.widget-area-2.widget-area
 ! 16 Kas 2024 https://mgcoomhd.baby
 mgcoomhd.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 mgcoomhd.baby##header > [href]
+hayirhayirligunler.cfd##.container > div:nth-of-type(2)
 hayrihayrihayirlii3.cfd##+js(set, config.adv, {})
 hayrihayrihayirlii3.cfd##.container > div:nth-of-type(2)
 hayrihayrihayirli6.cfd##.container > div:nth-of-type(2)
@@ -3766,22 +3768,14 @@ sinefil.tv###psContainer
 sinefil.tv##[href="https://cutt.ly/bwlEU1l5"]
 sinefil.tv###mPlayerFd
 
-! 9 Kas 2024 https://hayirhayirligunler.cfd
-hayirhayirligunler.cfd##.container > div:nth-of-type(2)
-
-! 9 Kas 2024 https://www.bodytrilogy.com
-www.bodytrilogy.com###amans
-||www.bodytrilogy.com/izin/ultrabetpage.png$image
-www.bodytrilogy.com###playerAdv2
-
 ! 9 Kas 2024 https://livecdn.xyz
 livecdn.xyz##.container > div:nth-of-type(2)
 
-! 5 Kas 2024 https://taraftarium245.blogspot.com
-taraftarium245.blogspot.com##.sidebar
-taraftarium245.blogspot.com##.contentReklam
-taraftarium245.blogspot.com###duyuru1
-taraftarium245.blogspot.com##+js(nowoif)
+! 5 Kas 2024 https://taraftarium*.blogspot.com
+/^taraftarium\d{3}\.blogspot.com/##.sidebar
+/^taraftarium\d{3}\.blogspot.com/##.contentReklam
+/^taraftarium\d{3}\.blogspot.com/###duyuru1
+/^taraftarium\d{3}\.blogspot.com/##+js(nowoif)
 
 ! 2 Kas 2024 https://goley90tv*.live
 /^goley90tv\d{1}.live/##.pageskin
@@ -4081,12 +4075,6 @@ mtadisvniz.pages.dev##.clappr-watermark
 ! 16 Kas 2024 https://mtadiall.blogspot.com
 mtadiall.blogspot.com##.watermark
 mtadiall.blogspot.com##.clappr-watermark
-
-! 16 Kas 2024 https://mackeyfim.pro
-mackeyfim.pro##.pointer-enabled.container > div:nth-of-type(2)
-mackeyfim.pro##.ads-img
-mackeyfim.pro##.reklam-3
-mackeyfim.pro##.container > div:nth-of-type(2)
 
 ! 16 Kas 2024 https://ben.quietlywheat23.shop
 ben.quietlywheat23.shop##.hover-list-show.hover-list
