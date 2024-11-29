@@ -157,12 +157,7 @@ https://video.twimg.com/ext_tw_video/1588618659517300736/pu/*
 /^macvar\d{4}\.live/##.only-desktop.footer-links
 
 ! 2023-04-23 https://www.selcuksportshd*.xyz
-||www.selcuksportshd*.xyz/img/m-ad-*-min.gif$image
-https://video.twimg.com/ext_tw_video/1362496186482126852/pu/*
-/^www.selcuksportshd\d{4}\.xyz/##.banners.container
-/^www.selcuksportshd\d{4}\.xyz/##.sidebar
 /^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
-quattro.668a396e58bcbc27.click#%#//scriptlet('set-constant', 'config.advertisement.enabled', 'false')
 
 ! 2023-04-23 https://www.softexia.com
 www.softexia.com##div.a1g2022w:nth-of-type(1)
@@ -170,23 +165,9 @@ www.softexia.com##div.a1g2022w:nth-of-type(2)
 www.softexia.com##.item
 www.softexia.com###top-line
 
-! 2023-04-23 https://lisinoprilgeneric.co
-||git.sportframe5cfd.cfd/kutular/72890onwin.html$subdocument
-||mer4habalar.cfd/kral1/kutular/72890onwin.html$subdocument
-
 ! 2023-04-23 https://www.trgoals*.xyz
-/^(www\.)?trgoals\d{4}\.xyz/##h3
-/^(www\.)?trgoals\d{4}\.xyz/##marquee
-/^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
-/^(www\.)?trgoals\d{4}\.xyz/###dqqqqq
-||4fw.short.gy/I5pI2v$popup,domain=/^(www\.)?trgoals\d{4}\.xyz/
-/^(www\.)?trgoals\d{4}\.xyz/##.seek-disabled.bar-container
 https://theonecdn.com/script/suv4.js
 /^(www\.)?trgoals\d{4}\.xyz/##+js(set, config.adv, {})
-/^(www\.)?trgoals\d{4}\.xyz/###duyuru1
-/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(2)
-/^(www\.)?trgoals\d{4}\.xyz/##.container > div:nth-of-type(2)
-/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(3)
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
 /^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://cutt.ly/"]
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
