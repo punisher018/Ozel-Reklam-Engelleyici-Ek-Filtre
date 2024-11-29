@@ -3758,10 +3758,10 @@ taraftarium-24.pro##.container > div:nth-of-type(2)
 /^\d{2}golvar\.us/##.show.sagAlt.watermark
 
 ! 5 Kas 2024 https://mevzuspor*.xyz
-/^mevzuspor\d{1}\.xyz/##+js(set, config.adv, {})
-/^mevzuspor\d{1}\.xyz/##.sidebar
-/^mevzuspor\d{1}\.xyz/##.banners.container
-/^mevzuspor\d{1}\.xyz/##.mb-15.banner
+/^mevzuspor\d{2}\.xyz/##+js(set, config.adv, {})
+/^mevzuspor\d{2}\.xyz/##.sidebar
+/^mevzuspor\d{2}\.xyz/##.banners.container
+/^mevzuspor\d{2}\.xyz/##.mb-15.banner
 
 ! 9 Kas 2024 https://sinefil.tv
 sinefil.tv###psContainer
@@ -4026,43 +4026,12 @@ mastercanlitv17.com##.ads-img
 mastercanlitv17.com##.reklam-3
 mastercanlitv17.com##.footer-links
 
-! 13 Kas 2024 https://www.lhjmcgssongzi.com
-www.lhjmcgssongzi.com###aman
-||lhjmcgssongzi.com/dosyalar/*$image
-www.lhjmcgssongzi.com##div.ortabuyuk
-www.lhjmcgssongzi.com###playerAdv2
-
-! 13 Kas 2024 https://www.jobszxjiangdu.com
-www.jobszxjiangdu.com###amans
-www.jobszxjiangdu.com##.justintvizle.footersabit
-www.jobszxjiangdu.com###playerAdv2
-
 ! 16 Kas 2024 https://www.colinskaraoke.com
 www.colinskaraoke.com###amans
 www.colinskaraoke.com###playerAdv2
 
-! 16 Kas 2024 https://www.wysinnwyg.com
-||wysinnwyg.com/belge/setrabetpage.png$image
-www.wysinnwyg.com##.headermenualti
-
 ! 16 Kas 2024 https://www.vzenggive.com
 ||vzenggive.com/evrak/setrabetpage.png$image
-
-! 16 Kas 2024 https://www.zxjgcshiyan.com
-www.zxjgcshiyan.com###amansiz
-||zxjgcshiyan.com/dosyalar/setrabetpage.png$image
-www.zxjgcshiyan.com##.headermenualti
-
-! 20 Kas 2024 https://www.lhjcggswusheng.com
-www.lhjcggswusheng.com###amans
-www.lhjcggswusheng.com##.headermenualti
-||lhjcggswusheng.com/dosyalar/smartbahispage.png$image
-
-! 23 Kas 2024 https://www.pennellccblog.com
-www.pennellccblog.com###yoket
-www.pennellccblog.com##.ortabuyuk
-www.pennellccblog.com##.navbar-default.tay-bar.tay-nav
-www.pennellccblog.com###playerAdv2
 
 ! 16 Kas 2024 https://mactime3.pages.dev
 mactime3.pages.dev##.container > div:nth-of-type(2)
