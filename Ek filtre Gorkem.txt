@@ -4091,7 +4091,7 @@ hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 /^www.justintvizle\d{2}\.top/##.footer-sticky
 /^www.justintvizle\d{2}\.top/##.footer-links
 /^www.justintvizle\d{2}\.top/##div.desktop.playerbottom.volestream-gorsel
-/^www.justintvizle\d{2}\.top/##.odds-container.Tenisi.Masa
+/^www.justintvizle\d{2}\.top/##.odds-container
 /^www.justintvizle\d{2}\.top/##div.desktop.playertop.volestream-gorsel
 /^www.justintvizle\d{2}\.top/##ul
 
