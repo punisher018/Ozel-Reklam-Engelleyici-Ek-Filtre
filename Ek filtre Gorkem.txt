@@ -2275,12 +2275,12 @@ corsproxy.org##+js(set, config.adv, {})
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
-! 30 Ağu 2024 https://varsports26.cfd
-varsports26.cfd##.odds
-
-! 28 Eki 2024 https://varsports28.cfd
-varsports28.cfd##[href]
-varsports28.cfd##img.ad
+! 30 Ağu 2024 https://varsports*.cfd
+/^varsports\d{2}\.cfd/##.odds
+/^varsports\d{2}\.cfd/##[href]
+/^varsports\d{2}\.cfd/##img.ad
+/^varsports\d{2}\.cfd/##.ad-banner
+/^varsports\d{2}\.cfd/##.i-banner
 
 ! 2024-02-16 https://hdyayinlartvtrgoals4.blogspot.com
 hdyayinlartvtrgoals4.blogspot.com##marquee
@@ -3351,7 +3351,8 @@ stream-24.net##+js(noeval-if, popUnderStage)
 www.on-stream.xyz###ldhemsHtml11
 
 ! 4 Tem 2024 https://webdramaturkey.com
-||dj2550.com^
+webdramaturkey.net#$#.container { margin-top: 0 !important; }
+webdramaturkey.net##+js(nowoif)
 
 filmkovasi.tv#$##header { margin-top: 0 !important; }
 hdfilmizle.pro#$##header { margin-top: 0 !important; }
@@ -3374,6 +3375,9 @@ hotstream.club##.jw-title.jw-reset-text > a[href] > img[src= "https://alafilmizl
 
 ! 6 Tem 2024 https://dizirex.com
 dizirex.com##+js(nowoif)
+dizirex.com#$##wrap { margin-top: 0 !important; }
+||dizirex.com/_vdyn.php$subdocument
+||ssl.p.jwpcdn.com/player/v/8.36.3/jwpsrv.js$script,domain=playerkorea10.xyz
 
 ! 6 Tem 2024 https://socceronline.me
 ||socceronline.me/partytown/partytown-sw.js$script
@@ -3408,25 +3412,9 @@ lavivabettv3.fun##.show.solAlt.watermark
 /^www.betmatiktv\d{2}\.com/##.footer-links
 /^www.betmatiktv\d{2}\.com/##[href="http://cutt.ly/hwYVA5CE"]
 
-! 7 Tem 2024 https://m.canlitvizle.vip
-||controlpush.com/js/cpv1-canlitvizlek-com.js$script,domain=m.canlitvizle.vip
-
-! 3 Ağu 2024 https://www.ahimsainc.com
-www.ahimsainc.com###yoket
-www.ahimsainc.com##.ortabuyuk
-www.ahimsainc.com##div.rekk
-www.ahimsainc.com##.h-reklam
-www.ahimsainc.com##[href="https://rebrand.ly/ultraJTV"]
-www.ahimsainc.com##[href="https://rebrand.ly/JTVSetra"]
-www.ahimsainc.com###playerAdv2
-www.ahimsainc.com##.navbar-default.tay-bar.tay-nav
-
 ! 28 Tem 2024 https://justsporthd*.xyz
 /^justsporthd\d{2}\.xyz/##.duyuru
 ||justsporthd*.xyz/wp-content/uploads/2024/06/1000x100.gif$image
-
-! 27 Tem 2024 https://bilecik2022tv.tr.gg
-bilecik2022tv.tr.gg###selfpromotionOverlay
 
 ! 28 Tem 2024 https://olympic-paris-2024.duktek.online
 ||cdn.jsdelivr.net/gh/muhammadnashirhaer/duktek/js/2a448501cec70722c7ed0e10f848b43a.js
@@ -3458,10 +3446,6 @@ sigortagundem.com##div.widget:nth-of-type(7) :contains(Anadolu Hayat Emeklilik)
 ! 29 Tem 2024 https://pichive.online
 pichive.online###videoText
 
-! 31 Tem 2024 https://www.taraftariumkeyfi12.site
-www.taraftariumkeyfi12.site##.clappr-watermark
-www.taraftariumkeyfi12.site##.siteAnnouncer.alert-dismissible.alert-success.alert
-
 ! 1 Ağu 2024 https://macboxtv*.xyz
 ||dizipal1.com/wp-content/uploads/2024/07/riyal.gif$image
 ||dizipal1.com/wp-content/uploads/2024/07/motion.gif$image
@@ -3474,11 +3458,6 @@ macboxtv4.xyz##.jw-reset.jw-logo-top-right.jw-logo
 ||rekatv*.live/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
 ||rekatv*.live/rekagifff1b.gif$image
 ||rekatv*.live/rekatv-gif-1.gif$image
-
-! 5 Ağu 2024 https://www.peopleandcosmetics.com
-||peopleandcosmetics.com/evrak/setrabetpage.png$image
-www.peopleandcosmetics.com##[href="https://rebrand.ly/ultraJTV"]
-www.peopleandcosmetics.com##[href="https://rebrand.ly/JTVSetra"]
 
 ! 6 Ağu 2024 https://homesports.net
 homesports.net##.is-active.modal
@@ -3522,26 +3501,18 @@ gameavenue.co###custom_html-12
 /^www.betofficetv\d{3}\.com/##.odds-container
 /^www.betofficetv\d{3}\.com/##ul
 
-! 10 Ağu 2024 https://mtadisv.pages.dev
-mtadisv.pages.dev##.clappr-watermark
-
-! 11 Ağu 2024 https://www.baghermes.com
-www.baghermes.com###amans
-||www.baghermes.com/belge/*$image
-www.baghermes.com##.justintvizle.body-clickable
-www.baghermes.com##.rekk
-
 ! 11 Ağu 2024 https://receive-sms-online.info
 ||receive-sms-online.info/smsplaza/img/banner.png$image
 
 ! 11 Ağu 2024 https://mislink3.com
 mislink3.com##+js(rpnt, script, = 10)
 
-! 12 Ağu 2024 https://www.taraftariumcanlihd6.site
-www.taraftariumcanlihd6.site##.clappr-watermark
-
 ! 12 Ağu 2024 https://justintv.cc
-||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium24.dev/iptvold.jpg$image
+justintv.cc##[href^="https://cutt.ly/"]
+justintv.cc##[href^="https://bit.ly/"]
+justintv.cc##center
+justintv.cc##+js(set, config.adv, {})
+justintv.cc##.container > div:nth-of-type(2)
 
 ! 14 Ağu 2024 https://diziplus.me
 diziplus.*##div.player-top-ad:nth-of-type(4)
@@ -3562,18 +3533,15 @@ filmzal.me###myVideo0
 ! 7 Ağu 2024 https://www.hdfilmcix.org
 ||www.hdfilmcix.org/monsbet.gif$image
 
-! 14 Ağu 2024 https://www.sinemakolik.org
-||www.sinemakolik.org/monsbet.gif$image
-
-! 15 Ağu 2024 https://www.18filmler1.org
-www.18filmler1.org##center
+! 14 Ağu 2024 https://www.sinemakolik.cc
+||www.sinemakolik.cc/monsbet.gif$image
+||www.sinemakolik.cc/Sinemakolik-pop.js$script
 
 ! 20 Ağu 2024 https://www.erotikjam.com
 ||www.erotikjam.com/pops5.js$script
 
-! 14 Ağu 2024 https://dizimat.pro
+! 14 Ağu 2024 https://dizimat.org
 ||yerim.buzz/js/dnsads.js$script
-dizimat.pro##.ays-pb-close-popup-with-esc.av_pop_modals_2.ays-pb-modals
 
 ! 20 Ağu 2024 https://channelex2kanal11.blogspot.com
 channelex2kanal11.blogspot.com###duyuru1
@@ -3587,15 +3555,6 @@ fullmatch.info##.stream-item-below-post.stream-item
 fullmatch.info##.code-block-1.code-block
 fullmatch.info###background-stream-cover
 fullmatch.info##.mysticky-welcomebar-fixed-wrap
-
-! 17 Ağu 2024 https://www.canlimachd.sbs
-www.canlimachd.sbs##.clappr-watermark
-
-! 17 Ağu 2024 https://www.macseyret.sbs
-www.macseyret.sbs##.clappr-watermark
-
-! 18 Ağu 2024 https://www.yayintaraftarium.sbs
-www.yayintaraftarium.sbs##.clappr-watermark
 
 ! 18 Ağu 2024 https://casiveratv*.com
 /^casiveratv\d{2}\.com/##.show.sagAlt.watermark
@@ -3635,18 +3594,6 @@ florence.com.tr#%#//scriptlet('trusted-set-local-storage-item', 'cookieConsent',
 taraftarium.me##[src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium.me/iptv.jpg"]
 taraftarium.me##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper [href]
 taraftarium.me##.container > div:nth-of-type(2)
-
-! 14 Eyl 2024 https://www.aryavedanaturals.com
-www.aryavedanaturals.com###amansiz
-||aryavedanaturals.com/dosyalar/s*$image
-www.aryavedanaturals.com##.textwidget > p
-www.aryavedanaturals.com##.logo-banner
-
-! 14 Eyl 2024 https://www.anakinsun.com
-www.anakinsun.com###aman
-||anakinsun.com/dosyalar/*$image
-www.anakinsun.com##.reklamalanmasa
-www.anakinsun.com###playerAdv2
 
 ! 15 Eyl 2024 https://www.limontv.xyz
 www.limontv.xyz#@#.header-ad-wrap
@@ -4005,6 +3952,10 @@ mtadisvniz.pages.dev##.clappr-watermark
 mtadiall.blogspot.com##.watermark
 mtadiall.blogspot.com##.clappr-watermark
 
+! 30 Kas 2024 https://mtadigeldi.pages.dev
+mtadigeldi.pages.dev##.watermark
+mtadigeldi.pages.dev##.clappr-watermark
+
 ! 16 Kas 2024 https://ben.quietlywheat23.shop
 ben.quietlywheat23.shop##.hover-list-show.hover-list
 
@@ -4084,9 +4035,6 @@ hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 /^betgitv\d{2}\.com/##.container > div:nth-of-type(2)
 /^betgitv\d{2}\.com/##.pageskin
 
-! 24 Kas 2024 https://tv.canlitv.mov
-||controlpush.com/js/cpv1-kolaytv.js$script,domain=tv.canlitv.mov
-
 ! 23 Kas 2024 https://www.justintvizle*.top
 /^www.justintvizle\d{2}\.top/##.footer-sticky
 /^www.justintvizle\d{2}\.top/##.footer-links
@@ -4095,6 +4043,11 @@ hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 /^www.justintvizle\d{2}\.top/##div.desktop.playertop.volestream-gorsel
 /^www.justintvizle\d{2}\.top/##ul
 
+! 24 Kas 2024 https://tv.canlitv.mov
+||controlpush.com/js/cpv1-kolaytv.js$script,domain=tv.canlitv.mov
+
+! 30 Kas 2024 https://tv.canlitvizle.online
+||controlpush.com/js/cpv1-canlitvizlek-com.js$script,domain=tv.canlitvizle.online
 
 
 
