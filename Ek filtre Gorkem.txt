@@ -913,6 +913,7 @@ giveaway.su##.definetelynotanad
 
 ! 2023-07-20 https://box.hitplayer.ru
 box.hitplayer.ru###billboard
+box.hitplayer.ru###DesktopInread
 ||gsimvqfghc.com/v2/185505/1ced0ffa1b944efc052eb6a2b32cf77b89503aac.js$script,domain=box.hitplayer.ru
 
 ! 2023-07-20 https://z3.fm
@@ -1998,12 +1999,6 @@ webspor.click##+js(set, config.adv, {})
 /^www.justintv\d{3}\.pro/###playerAdv2
 ||www.justintv*.pro/izinler/ultrabetpage.png$image
 
-! 2024-02-28 https://www.nanirj.com
-www.nanirj.com###aman
-||nanirj.com/dosyalar/*$image
-www.nanirj.com##div.ortabuyuk
-www.nanirj.com###playerAdv2
-
 ! 2024-03-02 https://www.donanimhaber.com
 donanimhaber.com##[id^="\31 "] > div:nth-of-type(2)
 donanimhaber.com##.owl-drag.owl-loaded.owl-theme.owl-carousel.instagram-feed-carousel
@@ -2023,7 +2018,11 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 /^sbetin\d{1}\.live/##.odds-container
 
 ! 2024-03-03 https://matbettv.com
+matbettv.com##.zqk-type-custom_code.zqk-container
 ||gamejung.com/cc/canli-mac-izle.png$image
+
+! 1 Ara 2024 https://jojobettv-com.cdn.ampproject.org
+jojobettv-com.cdn.ampproject.org##.no-bg-box-model.uwfrx-clearfix.uwfrx-column-1.uwfrx-align-center.uwfrx-loc-amp_header_after.uwfrx
 
 ! 2024-03-05 https://avrupabettv*.com
 /^avrupabettv\d{2}\.com/##.show.sagAlt.watermark
@@ -2036,9 +2035,6 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 /^rekortv\d{2}\.com/##.pageskin
 /^rekortv\d{2}\.com/##.only-desktop.footer-links
 /^rekortv\d{2}\.com/##ul
-
-! 2024-03-07 https://plsframe.xyz
-||plsframe.xyz/iptvold.jpeg$image
 
 ! 2024-03-08 https://www.playmods.net
 playmods.net##.recommend
@@ -2059,6 +2055,7 @@ taraftariumizleframe.xyz###dqqqqq
 
 ! 2024-03-12 https://game-2u.com
 game-2u.com##.code-block-4.code-block
+game-2u.com##.widget_text.widget
 
 ! 2024-03-14 https://freetp.org
 ||freetp.org/download-yb.png$image
@@ -2071,11 +2068,6 @@ mhhauto.com##.banner
 /^misliwincanlitv\d{2}\.com/##.desktop-headerskin
 /^misliwincanlitv\d{2}\.com/##.solAlt.watermark
 /^misliwincanlitv\d{2}\.com/##.odds-container
-
-! 2024-03-16 https://iframe.tbcof.com
-iframe.tbcof.com##.solAlt.watermark
-
-cialisvbuy.com#@#.reklamUst
 
 ! 2024-03-17 https://markajtv*.xyz
 ||www.koddostu.com/duzelt.js$script,domain=/^markajtv\d{3}\.xyz/
@@ -2092,10 +2084,6 @@ cialisvbuy.com#@#.reklamUst
 /^\d{2}olabahistv\.com/##div.reklam-3
 /^\d{2}olabahistv\.com/##.show.solAlt.watermark
 /^\d{2}olabahistv\.com/##.odds-container
-
-! 2024-03-20 https://uwsprtsfrmr2.site
-uwsprtsfrmr2.site##.container > div:nth-of-type(1)
-uwsprtsfrmr2.site##.clappr-watermark
 
 terabox.com#@#.share-video
 
