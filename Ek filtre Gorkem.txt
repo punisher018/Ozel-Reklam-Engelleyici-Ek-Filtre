@@ -131,13 +131,14 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 ! 2023-04-23 https://bahisnowtv*.com
 /^bahisnowtv\d{3}\.com/##body > div > [href="https://bit.ly/3DULl11"]
 /^bahisnowtv\d{3}\.com/##[href="https://tinyurl.com/tvbnow"]
+/^bahisnowtv\d{3}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||bahisnowtv*.com/Uploads/22078e5176f0407c89cf3b7bb9abd804_P.png$image
 ||bahisnowtv*.com/Uploads/fbdc7c7dd5594b3c96b6b69c9b0d02c8_Gif_Banner_Bnow_970x100.gif$image
 ||bahisnowtv*.com/Uploads/d280991eea4f44bea57f8035d720bb28_f487c4c18e5b476d951f922164c0c529_logo.png$image
 ||bahisnowtv*.com/Uploads/c475b608ae124421a0bf3f939d686d84_Bahisnow_TV_Pageskin_2024.jpg$image
 ||bahisnowtv*.com/Uploads/0d35c83c512948e48006c16c93d23042_Bahisnow_TV_Pageskin_2024.jpg$image
 
-https://video.twimg.com/ext_tw_video/1588618659517300736/pu/*
+||video.twimg.com/ext_tw_video/1588618659517300736/pu/*
 ||video.twimg.com/ext_tw_video/1697730993543610368/pu/vid/$xhr
 
 ! 2023-04-23 https://macvar*.live
@@ -2171,14 +2172,11 @@ donailfoulardautore.com##.headermenualti
 /^www.xyzsports\d{3}\.xyz/##+js(nowoif)
 /^www.xyzsports\d{3}\.xyz/##+js(set, window.adsConfig, {})
 /^www.xyzsports\d{3}\.xyz/##+js(set, window.adsConfig.0, {})
+/^www.xyzsports\d{3}\.xyz/#$#iframe { height: 650px !important; }
 
 ! 2024-02-05 https://xyzsprtsfrmr1.site
 xyzsprtsfrmr1.site##.clappr-watermark
 xyzsprtsfrmr1.site##.container > div:nth-of-type(1) > div
-
-! 2024-02-03 https://jyayintvhd1.live
-jyayintvhd1.live##.right_bannner
-jyayintvhd1.live##.bannner
 
 ! 2024-02-03 https://jyayintv*.live
 /^jyayintv\d{3}\.live/##.right_bannner
@@ -2186,28 +2184,11 @@ jyayintvhd1.live##.bannner
 /^jyayintv\d{3}\.live/##.bannnner
 /^jyayintv\d{3}\.live/##.right_bannnner
 
-! 2024-02-28 https://jyayintv*.site
-/^jyayintv\d{2}\.site/##.bannnner
-/^jyayintv\d{2}\.site/##.right_bannnner
-/^jyayintv\d{1}\.site/##.bannnner
-/^jyayintv\d{1}\.site/##.right_bannnner
-
-! 2024-03-07 https://jyayintv9.com
-jyayintv9.com##.bannnner
-jyayintv9.com##.right_bannnner
-
-! 14 Eyl 2024 https://jyayintv98.live
+! 14 Eyl 2024 https://jyayintv*.live
 jyayintv98.live##.right_bannnner
 jyayintv98.live##.bannnner
-
-! 2024-02-03 https://www.darthsebious.com
-www.darthsebious.com##.justintvizle.body-clickable
-www.darthsebious.com###amans
-www.darthsebious.com##.footersabit
-www.darthsebious.com##div.header-banner2
-www.darthsebious.com##div.rekk
-www.darthsebious.com###playerAdv2
-www.darthsebious.com##div.player-img
+jyayintv99.live##.bannnner
+jyayintv99.live##.right_bannnner
 
 ! 2024-02-09 https://jetplayer.net
 ||video.twimg.com/ext_tw_video/1696452661317353473/pu/vid/640x360/BCVt-31Ub3JL72yZ.mp4$media
@@ -2398,6 +2379,7 @@ fram88x.pages.dev##marquee
 ! 2024-02-22 https://macizlevip*.shop
 /^macizlevip\d{4}\.shop/##.x-embed-link
 /^macizlevip\d{4}\.shop/##.siteAnnouncer.alert-success.alert
+/^macizlevip\d{4}\.shop/##.lazy-loaded.mw100
 
 ! 2024-02-23 https://vegabettv*.online
 /^vegabettv\d{2}\.online/##[href="https://t2m.io/wZy7frd"]
@@ -2809,9 +2791,6 @@ torgamez.com##.relatedtopblock
 
 ! 2024-04-26 https://listeamed.net
 listeamed.net##+js(nowoif)
-
-! 2024-04-27 https://jyayintv0000.site
-jyayintv0000.site##.justintvizle
 
 ! 2024-04-29 https://asyabox.com
 asyabox.com##+js(nowoif)
@@ -4107,6 +4086,14 @@ hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 
 ! 24 Kas 2024 https://tv.canlitv.mov
 ||controlpush.com/js/cpv1-kolaytv.js$script,domain=tv.canlitv.mov
+
+! 23 Kas 2024 https://www.justintvizle*.top
+/^www.justintvizle\d{2}\.top/##.footer-sticky
+/^www.justintvizle\d{2}\.top/##.footer-links
+/^www.justintvizle\d{2}\.top/##div.desktop.playerbottom.volestream-gorsel
+/^www.justintvizle\d{2}\.top/##.odds-container.Tenisi.Masa
+/^www.justintvizle\d{2}\.top/##div.desktop.playertop.volestream-gorsel
+/^www.justintvizle\d{2}\.top/##ul
 
 
 
