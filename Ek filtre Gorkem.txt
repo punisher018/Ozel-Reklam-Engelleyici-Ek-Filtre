@@ -142,6 +142,11 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 /^macvar\d{4}\.live/##ul
 /^macvar\d{4}\.live/##.only-desktop.footer-links
 
+/^macvar\d{3}\.live/##.only-desktop.footer-links
+/^macvar\d{3}\.live/##ul
+/^macvar\d{3}\.live/##.pageskin
+/^macvar\d{3}\.live/##a[href="https://go.aff.mrbahis*.com/97f2lvjx"]
+
 ! 2023-04-23 https://www.selcuksportshd*.xyz
 /^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
 
@@ -1828,9 +1833,8 @@ channel4kanal11.blogspot.com##marquee
 ||www.blogger.com/static/v1/jsbin/671481879-analytics_autotrack.js$script
 
 ! 2024-02-15 https://mactanmaca*.shop
-/^mactanmaca\d{4}\.shop/##.x-embed-link
-/^mactanmaca\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 /^mactanmaca\d{4}\.shop/##.lazy-loaded.mw100
+/^mactanmaca\d{3}\.shop/##.lazy-loaded.mw100
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
