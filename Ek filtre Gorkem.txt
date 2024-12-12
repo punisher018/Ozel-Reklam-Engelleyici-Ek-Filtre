@@ -3304,12 +3304,19 @@ cdn.getpngimagesearch.online##.clappr-watermark
 /^hasbetizle\d{2}\.com/##ul
 /^hasbetizle\d{2}\.com/##.container > div:nth-of-type(2)
 
-! 2 Kas 2024 https://betzulatv4-c3v.pages.dev/
-betzulatv4-c3v.pages.dev##.container > div:nth-of-type(2)
-betzulatv4-c3v.pages.dev##.ads-img
-betzulatv4-c3v.pages.dev##.reklam-3
-betzulatv4-c3v.pages.dev##.footer-links
-betzulatv4-c3v.pages.dev##ul
+! 11 Ara 2024 https://betzulatv.pages.dev
+betzulatv.pages.dev##.ads-img
+betzulatv.pages.dev##.footer-links
+betzulatv.pages.dev##ul
+||betzulatv.pages.dev/banner.gif$image
+
+! 11 Ara 2024 https://betzulatv5.pages.dev
+betzulatv5.pages.dev##.ads-img
+betzulatv5.pages.dev##.reklam-3
+betzulatv5.pages.dev##.footer-links
+betzulatv5.pages.dev##ul
+betzulatv5.pages.dev##.container > div:nth-of-type(2)
+betzulatv5.pages.dev##.pageskin
 
 ! 2 Kas 2024 https://taraftarium24.dev
 taraftarium24.dev##.container > div:nth-of-type(2)
@@ -3526,7 +3533,8 @@ gizabettv4.xyz##.show.sagAlt.watermark
 
 ! 2 Kas 2024 https://yakatv3.live
 ||yakatv3.live/view/theme/safir/img/yakabito.jpg$image
-||yakatv3.live/view/theme/safir/img/yakabito.jpg$xhr,1p
+||yakatv3.live/view/theme/safir/img/yakabito.jpg$xhr
+||yakatv3.live/view/theme/safir/img/*_1000x50.gif$image
 yakatv3.live##.nomobile
 yakatv3.live##.mt-3
 yakatv3.live##.top-right.logo
@@ -3537,12 +3545,12 @@ betcool22tv.com##.odds-container
 betcool22tv.com##.show.solUst.watermark
 betcool22tv.com##.footer-links
 
-! 26 Eki 2024 https://betmarinotv77.site
-betmarinotv77.site##.pageskin
-||betmarinotv77.site/wp-content/uploads/2023/08/mari100.gif$image
-betmarinotv77.site##.only-desktop.footer-links
-betmarinotv77.site##ul
-betmarinotv77.site##.show.sagAlt.watermark
+! 26 Eki 2024 https://betmarinotv*.site
+/^betmarinotv\d{3}\.site/##.pageskin
+/^betmarinotv\d{3}\.site/##.only-desktop.footer-links
+/^betmarinotv\d{3}\.site/##ul
+/^betmarinotv\d{3}\.site/##.show.sagAlt.watermark
+||betmarinotv*.site/wp-content/uploads/*/mari100.gif$image
 
 ! 24 Kas 2024 https://trendlinkler.com
 trendlinkler.com###toasts
