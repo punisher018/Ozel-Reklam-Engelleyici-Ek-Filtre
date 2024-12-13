@@ -1066,10 +1066,10 @@ www.dinamotv103.com##.player_logo
 /^rotabettv\d{3}\.com/##.only-desktop.footer-links
 
 ! 2023-10-01 https://forvettv*.site
-/^forvettv\d{2}\.site/##.pageskin
-/^forvettv\d{2}\.site/##.show.sagAlt.watermark
-/^forvettv\d{2}\.site/##.only-desktop.footer-links
-/^forvettv\d{2}\.site/##ul
+/^forvettv\d{3}\.site/##.pageskin
+/^forvettv\d{3}\.site/##.show.sagAlt.watermark
+/^forvettv\d{3}\.site/##.only-desktop.footer-links
+/^forvettv\d{3}\.site/##ul
 ||forvettv*.site/wp-content/uploads/2023/09/1*$image
 
 ! 2023-10-02 https://www.topsporter.net
