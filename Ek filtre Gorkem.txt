@@ -157,10 +157,13 @@ www.softexia.com##.item
 www.softexia.com###top-line
 
 ! 2023-04-23 https://www.trgoals*.xyz
-https://theonecdn.com/script/suv4.js
 /^(www\.)?trgoals\d{4}\.xyz/##+js(set, config.adv, {})
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
 /^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://cutt.ly/"]
+/^(www\.)?trgoals\d{4}\.xyz/##marquee
+/^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
+/^(www\.)?trgoals\d{4}\.xyz/###duyuru1
+||theonecdn.com/script/suv4.js
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/restbetlogo.png$image
 ||trgoals*.xyz/images/restbetlogo.png$image
@@ -747,6 +750,12 @@ jokerguide.com##.lg\:block.hidden.h-full.w-full.cursor-pointer
 jokerguide.com##.lg\:mt-\[278px\].mt-0.overflow-hidden.rounded-lg.border-violet.border.mb-\[10px\].justify-center.items-center.xl\:right-0.lg\:right-\[10px\].right-0.header\:w-\[310px\].header\:min-h-\[211px\].lg\:min-h-\[170px\].lg\:w-\[250px\].flex-col.sm\:flex.h-max.hidden.lg\:absolute.cursor-pointer
 jokerguide.com##.hover\:bg-blueOpacity4.bg-blueOpacity3.sm\:h-\[38px\].h-\[34px\].rounded-lg.items-center.flex.py-1.px-3.bg-blackOpacity
 
+! 4 Ara 2024 https://jokerscores.com
+jokerscores.com##.absolute.top-0.z-\[99\].h-full.xl\:w-full.w-\[calc\(100\%-20px\)\]
+jokerscores.com##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
+jokerscores.com##.md\:rounded-xl.rounded-lg.md\:w-\[566px\].w-full.p-3.justify-between.items-center.md\:flex-nowrap.flex-wrap.flex.to-blueOpacity.via-darkBlueOpacity.from-blueOpacity.bg-gradient-to-r.md\:static.bottom-0.absolute
+jokerscores.com##.lg\:block.hidden.h-full.w-full.cursor-pointer
+
 ! 2023-07-08 https://newerastreams.com
 newerastreams.com##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
 newerastreams.com##.lg\:block.hidden.h-full.w-full.cursor-pointer
@@ -770,6 +779,7 @@ nbastreaming.live##.hover\:bg-violetOpacity5.bg-violetOpacity4.sm\:h-\[38px\].h-
 nbastreaming.live##.hover\:bg-blueOpacity4.bg-blueOpacity3.sm\:h-\[38px\].h-\[34px\].rounded-lg.items-center.flex.py-1.px-3.bg-blackOpacity
 nbastreaming.live##.absolute.top-0.z-\[99\].h-full.xl\:w-full.w-\[calc\(100\%-20px\)\]
 nbastreaming.live##.md\:rounded-xl.rounded-lg.md\:w-\[566px\].w-full.p-3.justify-between.items-center.md\:flex-nowrap.flex-wrap.flex.to-violetOpacity2.via-violetOpacity1.from-violetOpacity2.bg-gradient-to-r.md\:static.bottom-0.absolute
+nbastreaming.live##.md\:rounded-xl.rounded-lg.md\:w-\[566px\].w-full.p-3.justify-between.items-center.md\:flex-nowrap.flex-wrap.flex.to-blueOpacity.via-darkBlueOpacity.from-blueOpacity.bg-gradient-to-r.md\:static.bottom-0.absolute
 
 ! 2023-07-09 https://nhl-streaming.live
 nhl-streaming.live##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
@@ -1539,6 +1549,7 @@ pllsfored.com##.container > div:nth-of-type(2)
 ! 2023-12-14 https://www.canlimaclar*.sbs
 /^www.canlimaclar\d{4}\.sbs/##.x-embed-link
 /^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
+/^www.canlimaclar\d{3}\.sbs/##.lazy-loaded.mw100
 
 ! 2023-12-14 https://matadorbettv*.com
 /^matadorbettv\d{2}\.com/##[href="https://cutt.ly/V7egAT5"]
@@ -3202,6 +3213,7 @@ taraftarium-24.pro##.container > div:nth-of-type(2)
 /^mevzuspor\d{2}\.xyz/##.sidebar
 /^mevzuspor\d{2}\.xyz/##.banners.container
 /^mevzuspor\d{2}\.xyz/##.mb-15.banner
+/^mevzuspor\d{2}\.xyz/#$#div.player { height: 700px !important; }
 
 ! 9 Kas 2024 https://sinefil.tv
 sinefil.tv###psContainer
@@ -3595,4 +3607,22 @@ tcnobul.com##.page-header-ads
 
 ! 1 Ara 2024 https://animetrilogy.com
 animetrilogy.com##div.announ
+
+! 5 Ara 2024 https://inatflix10.com
+inatflix10.com##center
+inatflix10.com##a.footer-ad-link
+inatflix10.com##.ads_single_font
+
+! 1 Ara 2024 https://inattvcom*.xyz
+/^inattvcom\d{4}\.xyz/##marquee
+/^inattvcom\d{4}\.xyz/##+js(set, config.adv, {})
+/^inattvcom\d{4}\.xyz/##+js(nowoif)
+||inattvcom*.xyz/otobet728x90.gif$image
+||inattvcom*.xyz/Prensbet2024%20728x90.gif$image
+
+
+
+
+
+
 
