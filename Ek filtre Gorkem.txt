@@ -2140,9 +2140,9 @@ play31.808ball.com##.quiz-master
 play31.808ball.com##.detail__content1
 
 ! 16 Kas 2024 https://play31.tigoals*.com
-/^tigoals\d{3}\.com/##div.skpt_3rd.img.ata-class.banner.flex-center
-/^tigoals\d{3}\.com/##.quiz-master
-/^tigoals\d{3}\.com/##.detail__content1
+/^play31.tigoals\d{3}\.com/##div.skpt_3rd.img.ata-class.banner.flex-center
+/^play31.tigoals\d{3}\.com/##.quiz-master
+/^play31.tigoals\d{3}\.com/##.detail__content1
 ||cfcdn.apcqwd.com/prod/svimg/*.gif$image
 ||cfcdn.apcqwd.com/prod/svimg/$xhr
 
