@@ -2118,12 +2118,9 @@ futemax.mx##div.banner-container:nth-of-type(1)
 ! 2024-04-09 https://vip.realtvs.tv
 ||vip.realtvs.tv/close.png$image
 
-! 11 Kas 2024 https://play31.marza2.shop
-play31.marza2.shop##.skpt_2nd.img.ata-class.banner.flex-center
-play31.marza2.shop##.ftb-company-data-2nd
-
-! 16 Kas 2024 https://play31.marza4.shop
-play31.marza4.shop##.ftb-company-data-2nd
+! 11 Kas 2024 https://play31.marza*.shop
+/^play31.marza\d{1}\.shop/##.skpt_2nd.img.ata-class.banner.flex-center
+/^play31.marza\d{1}\.shop/##.ftb-company-data-2nd
 
 ! 11 Kas 2024 https://play31.score808pro.com
 play31.score808pro.com##.skpt_3rd.img.at-class.ata-class.banner.flex-center
