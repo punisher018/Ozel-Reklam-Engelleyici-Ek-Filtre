@@ -2126,21 +2126,22 @@ play31.marza2.shop##.ftb-company-data-2nd
 play31.marza4.shop##.ftb-company-data-2nd
 
 ! 11 Kas 2024 https://play31.score808pro.com
-play31.score808pro.com##.skpt_3rd.img.pr1-class.at-class.home__litem.ata-class.banner.flex-center
-play31.score808pro.com##div.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
+!play31.score808pro.com##.skpt_3rd.img.pr1-class.at-class.home__litem.ata-class.banner.flex-center
+play31.score808pro.com##.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
 play31.score808pro.com##.quiz-master
 
 ! 11 Kas 2024 https://play31.808ball.com
 play31.808ball.com##div.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
-play31.808ball.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
-play31.808ball.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
-play31.808ball.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
-play31.808ball.com##div.skpt_3rd.img.ata-class.banner.flex-center
+!play31.808ball.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
+!play31.808ball.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
+!play31.808ball.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
+!play31.808ball.com##div.skpt_3rd.img.ata-class.banner.flex-center
+play31.808ball.com##.skpt_3rd.img.ata-class.banner.flex-center
 play31.808ball.com##.quiz-master
 play31.808ball.com##.detail__content1
 
 ! 16 Kas 2024 https://play31.tigoals*.com
-/^play31.tigoals\d{3}\.com/##div.skpt_3rd.img.ata-class.banner.flex-center
+/^play31.tigoals\d{3}\.com/##.skpt_3rd.img.ata-class.banner.flex-center
 /^play31.tigoals\d{3}\.com/##.quiz-master
 /^play31.tigoals\d{3}\.com/##.detail__content1
 ||cfcdn.apcqwd.com/prod/svimg/*.gif$image
