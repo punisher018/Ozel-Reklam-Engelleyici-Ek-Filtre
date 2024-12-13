@@ -1603,6 +1603,7 @@ top.crackstreamsfree.com##.widget-area-2.widget-area
 /^betestream\d{1}\.live/##.show.sagUst.watermark
 /^betestream\d{1}\.live/##ul
 /^betestream\d{1}\.live/##.odds-container
+/^betestream\d{1}\.live/##.footer-links
 
 ! 2024-01-06 https://www.sozcu.com.tr
 sozcu.com.tr##._sidebar-kesfet
@@ -2031,6 +2032,7 @@ justintvframex.pages.dev##+js(set, config.adv, {})
 /^sbetin\d{1}\.live/##.show.sagAlt.watermark
 /^sbetin\d{1}\.live/##ul
 /^sbetin\d{1}\.live/##.odds-container
+/^sbetin\d{1}\.live/##.footer-links
 
 ! 2024-03-03 https://matbettv.com
 matbettv.com##.zqk-type-custom_code.zqk-container
