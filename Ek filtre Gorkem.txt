@@ -3534,7 +3534,7 @@ gizabettv4.xyz##.show.sagAlt.watermark
 ! 2 Kas 2024 https://yakatv3.live
 ||yakatv3.live/view/theme/safir/img/yakabito.jpg$image
 ||yakatv3.live/view/theme/safir/img/yakabito.jpg$xhr
-||yakatv3.live/view/theme/safir/img/*_1000x50.gif$image
+||yakatv3.live/view/theme/safir/img/1679913050_1000x50.gif
 yakatv3.live##.nomobile
 yakatv3.live##.mt-3
 yakatv3.live##.top-right.logo
