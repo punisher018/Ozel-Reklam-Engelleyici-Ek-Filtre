@@ -2136,6 +2136,7 @@ play31.808ball.com##.site-tips
 /^play31.tigoals\d{3}\.com/##.skpt_3rd.img.ata-class.banner.flex-center
 /^play31.tigoals\d{3}\.com/##.quiz-master
 /^play31.tigoals\d{3}\.com/##.detail__content1
+/^play31.tigoals\d{3}\.com/##.site-tips
 ||cfcdn.apcqwd.com/prod/svimg/*.gif$image
 ||cfcdn.apcqwd.com/prod/svimg/$xhr
 
