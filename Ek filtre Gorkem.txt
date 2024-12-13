@@ -2119,26 +2119,21 @@ futemax.mx##div.banner-container:nth-of-type(1)
 ||vip.realtvs.tv/close.png$image
 
 ! 11 Kas 2024 https://play31.marza2.shop
-play31.marza2.shop##.skpt_2nd.img.S3.ata-class.banner.flex-center
+play31.marza2.shop##.skpt_2nd.img.ata-class.banner.flex-center
 play31.marza2.shop##.ftb-company-data-2nd
 
 ! 16 Kas 2024 https://play31.marza4.shop
 play31.marza4.shop##.ftb-company-data-2nd
 
 ! 11 Kas 2024 https://play31.score808pro.com
-!play31.score808pro.com##.skpt_3rd.img.pr1-class.at-class.home__litem.ata-class.banner.flex-center
-play31.score808pro.com##.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
+play31.score808pro.com##.skpt_3rd.img.at-class.ata-class.banner.flex-center
 play31.score808pro.com##.quiz-master
 
 ! 11 Kas 2024 https://play31.808ball.com
-play31.808ball.com##div.skpt_3rd.img.at-class.home__litem.ata-class.banner.flex-center
-!play31.808ball.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
-!play31.808ball.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
-!play31.808ball.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
-!play31.808ball.com##div.skpt_3rd.img.ata-class.banner.flex-center
 play31.808ball.com##.skpt_3rd.img.ata-class.banner.flex-center
 play31.808ball.com##.quiz-master
 play31.808ball.com##.detail__content1
+play31.808ball.com##.site-tips
 
 ! 16 Kas 2024 https://play31.tigoals*.com
 /^play31.tigoals\d{3}\.com/##.skpt_3rd.img.ata-class.banner.flex-center
@@ -2148,11 +2143,9 @@ play31.808ball.com##.detail__content1
 ||cfcdn.apcqwd.com/prod/svimg/$xhr
 
 ! 16 Kas 2024 https://play31.808fubo.com
-play31.808fubo.com##.skpt_3rd.img.S5.ata-class.banner.flex-center
-play31.808fubo.com##.skpt_3rd.img.S3.ata-class.banner.flex-center
-play31.808fubo.com##.skpt_3rd.img.S2.ata-class.banner.flex-center
-play31.808fubo.com##.skpt_3rd.img.pn1-class.ata-class.banner.flex-center
+play31.808fubo.com##.skpt_3rd.img.ata-class.banner.flex-center
 play31.808fubo.com##.detail__content1
+play31.808fubo.com##.site-tips
 
 ! 2024-04-10 https://dactylogagnant.click
 ||dactylogagnant.click/player/assets/uploads/154a625778f7efb5099defc66da3d0ad.png$image
