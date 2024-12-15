@@ -3537,13 +3537,13 @@ gizabettv4.xyz##.odds-container
 gizabettv4.xyz##.footer-links
 gizabettv4.xyz##.show.sagAlt.watermark
 
-! 2 Kas 2024 https://yakatv3.live
-||yakatv3.live/view/theme/safir/img/yakabito.jpg$image
-||yakatv3.live/view/theme/safir/img/yakabito.jpg$xhr
-||yakatv3.live/view/theme/safir/img/1679913050_1000x50.gif
-yakatv3.live##.nomobile
-yakatv3.live##.mt-3
-yakatv3.live##.top-right.logo
+! 2 Kas 2024 https://yakatv*.live
+||yakatv*.live/view/theme/safir/img/yakabito.jpg$image
+||yakatv*.live/view/theme/safir/img/yakabito.jpg$xhr
+||yakatv*.live/view/theme/safir/img/1679913050_1000x50.gif
+/^yakatv\d{1}\.live/##.nomobile
+/^yakatv\d{1}\.live/##.mt-3
+/^yakatv\d{1}\.live/##.top-right.logo
 
 ! 23 Eki 2024 https://betcool22tv.com
 betcool22tv.com##ul
