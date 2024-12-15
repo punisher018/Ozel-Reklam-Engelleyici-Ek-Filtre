@@ -3052,7 +3052,7 @@ justintv.cc##center
 justintv.cc##+js(set, config.adv, {})
 justintv.cc##.container > div:nth-of-type(2)
 
-! 14 Ağu 2024 https://diziplus.me
+! 14 Ağu 2024 https://diziplus.online
 diziplus.*##div.player-top-ad:nth-of-type(4)
 
 ! 14 Ağu 2024 https://unutulmazfilmler4.com
@@ -3069,6 +3069,7 @@ filmzal.me##.alert-info.alerts
 filmzal.me###myVideo0
 
 ! 7 Ağu 2024 https://www.hdfilmcix.org
+www.hdfilmcix.org##center
 ||www.hdfilmcix.org/monsbet.gif$image
 
 ! 14 Ağu 2024 https://www.sinemakolik.cc
@@ -3160,9 +3161,6 @@ justintv.co##.container > div:nth-of-type(2)
 ! 18 Eyl 2024 https://shehbaz-streams.xyz
 shehbaz-streams.xyz##.justify-content-center.d-flex.card-body
 shehbaz-streams.xyz##div.pb-2.justify-content-center.d-flex.col-lg-12.col-xl-9:nth-of-type(1)
-
-! 18 Eyl 2024 https://bong.ink
-||bong.ink/images/bongx_prev_ui.png$image
 
 ! 18 Eyl 2024 https://watchsports.howtomakemoney.vip
 watchsports.howtomakemoney.vip##.widget-area-1.widget-area
@@ -3358,13 +3356,6 @@ netsporgiriss.com##.container > div:nth-of-type(2)
 /^www.netsportv\d{3}\.top/##.odds-container
 /^www.netsportv\d{3}\.top/##.show.sagAlt.watermark
 
-! 10 Kas 2024 https://milyonermacizle.com
-milyonermacizle.com##[href="https://bit.ly/3XTT6PK"]
-||milyonermacizle.com/Uploads/295a3f5e5d3947069c8500b817a7d48d_milyo-page.jpg$image
-milyonermacizle.com##body > div:nth-of-type(2)
-milyonermacizle.com##.clappr-watermark
-milyonermacizle.com##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
-
 ! 30 Eyl 2024 https://vidsrc.net
 ||vidsrc.net/f59d610a61063c7ef3ccdc1fd40d2ae6.js$script
 
@@ -3478,10 +3469,6 @@ mastercanlitv17.com##ul
 mastercanlitv17.com##.ads-img
 mastercanlitv17.com##.reklam-3
 mastercanlitv17.com##.footer-links
-
-! 16 Kas 2024 https://www.colinskaraoke.com
-www.colinskaraoke.com###amans
-www.colinskaraoke.com###playerAdv2
 
 ! 16 Kas 2024 https://www.vzenggive.com
 ||vzenggive.com/evrak/setrabetpage.png$image
