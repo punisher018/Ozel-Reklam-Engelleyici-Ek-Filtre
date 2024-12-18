@@ -3314,13 +3314,13 @@ betzulatv.pages.dev##.footer-links
 betzulatv.pages.dev##ul
 ||betzulatv.pages.dev/banner.gif$image
 
-! 11 Ara 2024 https://betzulatv5.pages.dev
-betzulatv5.pages.dev##.ads-img
-betzulatv5.pages.dev##.reklam-3
-betzulatv5.pages.dev##.footer-links
-betzulatv5.pages.dev##ul
-betzulatv5.pages.dev##.container > div:nth-of-type(2)
-betzulatv5.pages.dev##.pageskin
+! 11 Ara 2024 https://betzulatv*.pages.dev
+/^betzulatv\d{1}\.pages.dev/##.ads-img
+/^betzulatv\d{1}\.pages.dev/##.reklam-3
+/^betzulatv\d{1}\.pages.dev/##.footer-links
+/^betzulatv\d{1}\.pages.dev/##ul
+/^betzulatv\d{1}\.pages.dev/##.container > div:nth-of-type(2)
+/^betzulatv\d{1}\.pages.dev/##.pageskin
 
 ! 2 Kas 2024 https://taraftarium24.dev
 taraftarium24.dev##.container > div:nth-of-type(2)
