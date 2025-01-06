@@ -682,9 +682,9 @@ some.porn###native__skeleton
 ! 4 Eki 2024 https://javfc2.xyz
 ||cdn.jsdelivr.net/npm/videojs-hls-quality-selector@1.1.1/dist/videojs-hls-quality-selector.min.js$script,domain=javfc2.xyz
 
-! 9 Eki 2024 https://en.xchina.co
-en.xchina.co##div.article:nth-of-type(1)
-en.xchina.co##.exoclick_300x250.item
+! 9 Eki 2024 https://xchina.co
+xchina.co##div.article:nth-of-type(1)
+xchina.co##.exoclick_300x250.item
 
 ! 25 Eki 2024 https://asiaon.top
 @@||static.doubleclick.net/instream/ad_status.js$xhr,domain=asiaon.top
