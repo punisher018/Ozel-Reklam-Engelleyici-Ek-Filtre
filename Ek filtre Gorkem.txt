@@ -1134,12 +1134,12 @@ shazysport.pro##.alignnone
 
 ! 2023-10-05 https://www.nerotv*.com
 /^(www\.)?nerotv\d{2}\.com/##.test
-/^(www\.)?nerotv\d{2}\.com/##[href="http://go.aff.ngnpanel.com/9oezj7zz"]
 /^(www\.)?nerotv\d{2}\.com/##.player_logo
-/^(www\.)?nerotv\d{2}\.com/##div.odds-container.Hokeyi.Buz
+/^(www\.)?nerotv\d{2}\.com/##.footer-links
+/^(www\.)?nerotv\d{2}\.com/##div.odds-container
+/^(www\.)?nerotv\d{2}\.com/##[href="https://go.aff.ngnpanel.org/9oezj7zz"]
 ||nerotv*.com/uploads/6a751387-8460-4e9a-929c-9fcc07c1e780.gif$image
 ||nerotv*.com/uploads/c1c8b2ff-98f8-40ac-9dfe-ca63f2b2eab5.gif$image
-||nerotv*.com/uploads/*.gif$image
 
 ! 2023-10-07 https://emb.apl276.me
 /emb.apl\d{3}\.me/###ads
