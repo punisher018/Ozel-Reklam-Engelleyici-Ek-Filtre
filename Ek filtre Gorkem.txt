@@ -3218,6 +3218,7 @@ livecdn.xyz##.container > div:nth-of-type(2)
 /^taraftarium\d{3}\.blogspot.com/##.sidebar
 /^taraftarium\d{3}\.blogspot.com/##.contentReklam
 /^taraftarium\d{3}\.blogspot.com/###duyuru1
+/^taraftarium\d{3}\.blogspot.com/#@#.topReklam
 /^taraftarium\d{3}\.blogspot.com/##+js(nowoif)
 
 ! 2 Kas 2024 https://goley90tv*.live
