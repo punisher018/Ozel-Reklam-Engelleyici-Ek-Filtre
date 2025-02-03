@@ -3563,12 +3563,12 @@ hayrihayrixhayirli7.cfd##+js(set, config.adv, {})
 hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 
 ! 23 Kas 2024 https://betgitv*.com
-/^betgitv\d{2}\.com/##ul
-/^betgitv\d{2}\.com/##.ads-img
-/^betgitv\d{2}\.com/##.reklam-3
-/^betgitv\d{2}\.com/##.footer-links
-/^betgitv\d{2}\.com/##.container > div:nth-of-type(2)
-/^betgitv\d{2}\.com/##.pageskin
+/^(www\.)?betgitv\d{2}\.com/##ul
+/^(www\.)?betgitv\d{2}\.com/##.ads-img
+/^(www\.)?betgitv\d{2}\.com/##.reklam-3
+/^(www\.)?betgitv\d{2}\.com/##.footer-links
+/^(www\.)?betgitv\d{2}\.com/##.container > div:nth-of-type(2)
+/^(www\.)?betgitv\d{2}\.com/##.pageskin
 
 ! 23 Kas 2024 https://www.justintvizle*.top
 /^www.justintvizle\d{2}\.top/##.footer-sticky
