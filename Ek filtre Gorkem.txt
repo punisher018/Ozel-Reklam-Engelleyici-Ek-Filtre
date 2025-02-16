@@ -1254,6 +1254,9 @@ webcache.googleusercontent.com##.banner_area
 ||betnanotv*.com/Uploads/*.gif$image
 /^betnanotv\d{3}\.com/##.clappr-watermark
 /^betnanotv\d{3}\.com/##[href="https://bit.ly/guncelbetnano"]
+/^betnanotv\d{3}\.com/##body > div > [href]
+/^betnanotv\d{3}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+/^betnanotv\d{3}\.com/##.ls-head-info.text-center.alert-info.alert
 
 ! 2023-10-29 https://betinetv*.live
 /^betinetv\d{2}\.live/##.pageskin
@@ -1887,6 +1890,7 @@ www.sportshub.to##div.mb-3.bg-light.card
 www.sportshub.to###custom_html-69
 www.sportshub.to###custom_html-68
 www.sportshub.to##.is-active.modal
+www.sportshub.to##body > div:nth-of-type(3)
 
 ! 2024-03-03 https://www.sportnews.to
 www.sportnews.to##div.mb-3.bg-light.card:nth-of-type(1)
@@ -1902,6 +1906,7 @@ www.sportnews.to#@#.powerkit_social_links_widget
 ||www.sportnews.to/fox/js/30accda6ec.js$script
 ||www.sportnews.to/fox/js/script.js$script
 @@||static.doubleclick.net/instream/ad_status.js$xhr,domain=www.sportnews.to
+www.sportnews.to##body > div:nth-of-type(3)
 
 ! 2024-02-18 https://www.jestyayin.buzz
 www.jestyayin.buzz###dqqqqq
@@ -1941,6 +1946,9 @@ fram88x.pages.dev##marquee
 /^macizlevip\d{4}\.shop/##.x-embed-link
 /^macizlevip\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 /^macizlevip\d{4}\.shop/##.lazy-loaded.mw100
+/^macizlevip\d{2}\.shop/##.lazy-loaded.mw100
+/^macizlevip\d{2}\.shop/##.lazy-hidden.mw100
+/^macizlevip\d{2}\.shop/##.x-embed-link
 
 ! 2024-02-23 https://vegabettv*.online
 /^vegabettv\d{2}\.online/##[href="https://t2m.io/wZy7frd"]
