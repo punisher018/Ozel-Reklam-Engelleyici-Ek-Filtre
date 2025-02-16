@@ -175,6 +175,7 @@ www.softexia.com###top-line
 /^kingbettingtv\d{2}\.com/##.playerbottom.ads
 /^kingbettingtv\d{2}\.com/##.footer-links
 /^kingbettingtv\d{2}\.com/##ul
+/^kingbettingtv\d{2}\.com/##.show.sagUst.watermark
 
 ! 2023-04-23 https://betexpertv*.live
 ||betexpertv*.live/wp-content/uploads/2023/03/asdasd.jpg$image
@@ -975,6 +976,8 @@ tipstertv1.comtadi.pw##.clappr-watermark
 /^\d{3}betnis\.online/##.top-right.logo
 /^\d{3}betnis\.online/##.mt-3
 /^\d{3}betnis\.online/##.hidden-sm.pageskin
+/^\d{3}betnis\.online/###wrapper > div:nth-of-type(1)
+/^\d{3}betnis\.online/##.main > div:nth-of-type(2)
 
 ! 2023-09-08 https://www.canlimacizlemax*.live
 /^www.canlimacizlemax\d{3}\.live/#%#//scriptlet('set-constant', 'puShown', 'true')
@@ -1026,13 +1029,12 @@ www.dlfox.com##div.ADS_wrapper.widget_wrapper
 
 ! 2023-09-22 https://supertotobettv*.com
 ||supertotobettv*.com/Uploads/*_stbpage.png$image
-/^supertotobettv\d{3}\.com/##.livecontainer.bg-dark-1.container > div.vertical-gap.row > .col-lg-12 > [href="https://cutt.ly/H3iOEyA"]
-/^supertotobettv\d{3}\.com/##.clappr-watermark
-/^supertotobettv\d{3}\.com/##.player_logo
-/^supertotobettv\d{3}\.com/##div.odds-container.Hokeyi.Buz
-/^supertotobettv\d{3}\.com/##[href="https://cutt.ly/H3iOEyA"]
-||supertotobettv*.com/uploads/e2b23611-bd71-4602-8500-4f63883a219d.gif$image
-||supertotobettv*.com/uploads/f6e633ef-7505-49af-a5a7-ec590ceff494.gif$image
+/^supertotobettv\d{3}\.com/##.pageskin
+/^supertotobettv\d{3}\.com/##.footer-links
+/^supertotobettv\d{3}\.com/##.reklam-3
+/^supertotobettv\d{3}\.com/##.odds-container.Tenis
+/^supertotobettv\d{3}\.com/##ul
+/^supertotobettv\d{3}\.com/##.show.solAlt.watermark
 
 ! 2023-09-26 https://www.dinamotv103.com
 www.dinamotv103.com##[href="http://bit.ly/3C7V4B8"]
@@ -1406,6 +1408,7 @@ b5yucast.com##img
 /^golvar\d{4}\.sbs/##.show.sagUst.watermark
 /^golvar\d{4}\.sbs/##ul
 /^golvar\d{4}\.sbs/##.only-desktop.footer-links
+/^golvar\d{4}\.sbs/##.smallscreen.stream-ads
 /^golvar\d{3}\.sbs/##.vdldl
 /^golvar\d{3}\.sbs/##.show.sagUst.watermark
 /^golvar\d{3}\.sbs/##.pageskin
@@ -1846,6 +1849,7 @@ channel4kanal11.blogspot.com##marquee
 
 ! 2024-02-15 https://mactanmaca*.shop
 /^mactanmaca\d{4}\.shop/##.lazy-loaded.mw100
+/^mactanmaca\d{4}\.shop/##.x-embed-link
 /^mactanmaca\d{3}\.shop/##.lazy-loaded.mw100
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
@@ -2365,11 +2369,9 @@ asyabox.com##+js(nowoif)
 
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##[href="https://cutt.ly/kw2gftap"]
-||*bayspintv.live/Uploads/1fb69a18640449afa7e5e662585e5971_PAGESKIN2.jpg$image
-||*bayspintv.live/Uploads/c035e0f35ce84b889370b65e3454a1b3_BAYSPIN.png$image
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
 /^\d{2}bayspintv\.live/##body > div:nth-of-type(2)
-||*bayspintv.live/Uploads/a83e5919a3bb47d2ac226bbb125c3be9_test.png$image
+||51bayspintv.live/Uploads/c3ea5e2fd6884f1fa8022293ffdffa91_ade.jpg$image
 
 ! 2024-04-30 https://romabettv*.com
 /^romabettv\d{2}\.com/##[href="https://gosite.org/Roma"]
