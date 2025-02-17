@@ -3543,11 +3543,11 @@ gizabettv4.xyz##.show.sagAlt.watermark
 /^yakatv\d{1}\.live/##.mt-3
 /^yakatv\d{1}\.live/##.top-right.logo
 
-! 23 Eki 2024 https://betcool22tv.com
-betcool22tv.com##ul
-betcool22tv.com##.odds-container
-betcool22tv.com##.show.solUst.watermark
-betcool22tv.com##.footer-links
+! 23 Eki 2024 https://betcool*tv.com
+/^betcool\d{2}\tv.com/##ul
+/^betcool\d{2}\tv.com/##.odds-container
+/^betcool\d{2}\tv.com/##.show.solUst.watermark
+/^betcool\d{2}\tv.com/##.footer-links
 
 ! 26 Eki 2024 https://betmarinotv*.site
 /^betmarinotv\d{3}\.site/##.pageskin
