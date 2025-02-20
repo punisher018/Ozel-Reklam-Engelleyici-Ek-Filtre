@@ -1043,7 +1043,6 @@ www.dinamotv103.com##.player_logo
 
 ! 2023-10-01 https://www.jestyayin*.com
 /^(www\.)?jestyayin\d{3}\.com/###vm_push
-/^(www\.)?jestyayin\d{3}\.com/##div:nth-of-type(4)
 /^(www\.)?jestyayin\d{3}\.com/##+js(set, config.adv, {})
 /^(www\.)?jestyayin\d{3}\.com/##.container > div:nth-of-type(2)
 ||jestyayin*.com/1000x50.gif$image
