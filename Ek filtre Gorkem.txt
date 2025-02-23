@@ -3611,7 +3611,12 @@ inatflix10.com##.ads_single_font
 ||inattvcom*.xyz/otobet728x90.gif$image
 ||inattvcom*.xyz/Prensbet2024%20728x90.gif$image
 
-
+! 23 Şub 2025 https://www.canlitribun*.top
+||www.canlitribun*.top/*/images/*$image
+/^www.canlitribun\d{3}\.top/###xbetpu
+/^www.canlitribun\d{3}\.top/##.header_r.clearfix
+/^www.canlitribun\d{3}\.top/##.adsense_yatay.mt10.clearfix
+/^www.canlitribun\d{3}\.top/##div#stream_holder > iframe#video_reklam
 
 
 
