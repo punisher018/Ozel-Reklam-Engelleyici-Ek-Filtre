@@ -2313,13 +2313,13 @@ www.abivn.com###formin
 www.abivn.com###playerAdv2
 
 ! 2024-04-22 https://lorabettv*.shop
-/^lorabettv\d{2}\.shop/##.clappr-watermark
-/^lorabettv\d{2}\.shop/##[href="https://bit.ly/3Z5yVhU"]
-/^lorabettv\d{2}\.shop/###modalPop
-/^lorabettv\d{2}\.shop/##.show.fade.modal-backdrop
-/^lorabettv\d{2}\.shop/##body > div:nth-of-type(2)
-/^lorabettv\d{2}\.shop/##+js(nowoif)
-||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{2}\.shop/
+/^lorabettv\d{3}\.shop/##.clappr-watermark
+/^lorabettv\d{3}\.shop/##[href="https://bit.ly/3Z5yVhU"]
+/^lorabettv\d{3}\.shop/###modalPop
+/^lorabettv\d{3}\.shop/##.show.fade.modal-backdrop
+/^lorabettv\d{3}\.shop/##body > div:nth-of-type(2)
+/^lorabettv\d{3}\.shop/##+js(nowoif)
+||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{3}\.shop/
 
 ! 2024-04-23 https://muzyet.net
 ||m.killtarget.biz/$script
