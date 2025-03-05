@@ -1858,7 +1858,6 @@ channel4kanal11.blogspot.com##marquee
 
 ! 30 Ağu 2024 https://varsports*.cfd
 /^varsports\d{2}\.cfd/##.odds
-/^varsports\d{2}\.cfd/##[href]
 /^varsports\d{2}\.cfd/##img.ad
 /^varsports\d{2}\.cfd/##.ad-banner
 /^varsports\d{2}\.cfd/##.i-banner
