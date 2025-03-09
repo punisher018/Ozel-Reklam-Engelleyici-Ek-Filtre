@@ -1165,6 +1165,7 @@ bestreamsports.org###dismiss-btn
 /^www.justintvizle\d{3}\.top/##.header_r
 /^www.justintvizle\d{3}\.top/##.iframe_728
 /^www.justintvizle\d{3}\.top/##+js(nowoif)
+/^www.justintvizle\d{3}\.top/###video_reklam
 
 ! 2023-10-13 https://freehdgames.xyz
 ||uvpjmtajkkx.com^$script
