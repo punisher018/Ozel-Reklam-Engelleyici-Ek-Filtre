@@ -979,14 +979,14 @@ tipstertv1.comtadi.pw##.clappr-watermark
 /^\d{3}betnis\.online/###wrapper > div:nth-of-type(1)
 /^\d{3}betnis\.online/##.main > div:nth-of-type(2)
 
-! 2023-09-08 https://www.canlimacizlemax*.live
-/^www.canlimacizlemax\d{3}\.live/#%#//scriptlet('set-constant', 'puShown', 'true')
-@@||www.canlimacizlemax*.live/cdn/advert.js$xhr
-||www.canlimacizlemax*.live/cdn/r/video_reklam.html$subdocument
-/^www.canlimacizlemax\d{3}\.live/##.jw-reset.jw-logo-top-right.jw-logo
-/^www.canlimacizlemax\d{3}\.live/##.mt10
-/^www.canlimacizlemax\d{3}\.live/##.header_r
-/^www.canlimacizlemax\d{3}\.live/##.iframe_728
+! 2023-09-08 https://www.canlimacizlemax*.top
+/^www.canlimacizlemax\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
+@@||www.canlimacizlemax*.top/cdn/advert.js$xhr
+||www.canlimacizlemax*.top/cdn/r/video_reklam.html$subdocument
+/^www.canlimacizlemax\d{3}\.top/##.jw-reset.jw-logo-top-right.jw-logo
+/^www.canlimacizlemax\d{3}\.top/##.mt10
+/^www.canlimacizlemax\d{3}\.top/##.header_r
+/^www.canlimacizlemax\d{3}\.top/##.iframe_728
 
 ! 2023-09-10 https://amarabettv*.com
 /^amarabettv\d{1}\.com/##.show.sagAlt.watermark
