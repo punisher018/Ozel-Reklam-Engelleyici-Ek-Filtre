@@ -1160,11 +1160,11 @@ pawastreams.org##div.adsbyadful
 ! 2023-10-07 https://bestreamsports.org
 bestreamsports.org###dismiss-btn
 
-! 2023-10-08 https://www.justintvizle*.pro
-||www.justintvizle*.pro/cdn/images/jw-logo.png$image
-/^www.justintvizle\d{3}\.pro/##.header_r
-/^www.justintvizle\d{3}\.pro/##.iframe_728
-/^www.justintvizle\d{3}\.pro/##+js(nowoif)
+! 2023-10-08 https://www.justintvizle*.top
+||www.justintvizle*.top/cdn/images/jw-logo.png$image
+/^www.justintvizle\d{3}\.top/##.header_r
+/^www.justintvizle\d{3}\.top/##.iframe_728
+/^www.justintvizle\d{3}\.top/##+js(nowoif)
 
 ! 2023-10-13 https://freehdgames.xyz
 ||uvpjmtajkkx.com^$script
