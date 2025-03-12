@@ -2059,10 +2059,10 @@ jojobettv-com.cdn.ampproject.org##.no-bg-box-model.uwfrx-clearfix.uwfrx-column-1
 /^avrupabettv\d{4}\.com/##ul
 
 ! 2024-03-05 https://rekortv*.com
-/^rekortv\d{2}\.com/##.show.sagAlt.watermark
-/^rekortv\d{2}\.com/##.pageskin
-/^rekortv\d{2}\.com/##.only-desktop.footer-links
-/^rekortv\d{2}\.com/##ul
+/^rekortv\d{3}\.com/##.show.sagAlt.watermark
+/^rekortv\d{3}\.com/##.pageskin
+/^rekortv\d{3}\.com/##.only-desktop.footer-links
+/^rekortv\d{3}\.com/##ul
 
 ! 2024-03-08 https://www.playmods.net
 playmods.net##.recommend
