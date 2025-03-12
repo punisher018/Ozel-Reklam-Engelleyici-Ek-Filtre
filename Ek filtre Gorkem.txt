@@ -2053,10 +2053,10 @@ matbettv.com##.zqk-type-custom_code.zqk-container
 jojobettv-com.cdn.ampproject.org##.no-bg-box-model.uwfrx-clearfix.uwfrx-column-1.uwfrx-align-center.uwfrx-loc-amp_header_after.uwfrx
 
 ! 2024-03-05 https://avrupabettv*.com
-/^avrupabettv\d{2}\.com/##.show.sagAlt.watermark
-/^avrupabettv\d{2}\.com/##.pageskin
-/^avrupabettv\d{2}\.com/##.only-desktop.footer-links
-/^avrupabettv\d{2}\.com/##ul
+/^avrupabettv\d{4}\.com/##.show.sagAlt.watermark
+/^avrupabettv\d{4}\.com/##.pageskin
+/^avrupabettv\d{4}\.com/##.only-desktop.footer-links
+/^avrupabettv\d{4}\.com/##ul
 
 ! 2024-03-05 https://rekortv*.com
 /^rekortv\d{2}\.com/##.show.sagAlt.watermark
