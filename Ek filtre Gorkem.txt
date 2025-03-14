@@ -1521,12 +1521,12 @@ decrypt.co##.aspect-video.w-full
 /^www.hdselcuksports\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
 
 ! 23 Kas 2024 https://www.selcuksports*.top
-/^www.selcuksports\d{2}\.top/##ul
-/^www.selcuksports\d{2}\.top/##div.desktop.playertop.volestream-gorsel
-/^www.selcuksports\d{2}\.top/##.footer-sticky
-/^www.selcuksports\d{2}\.top/##.footer-links
-/^www.selcuksports\d{2}\.top/##div.desktop.playerbottom.volestream-gorsel
-/^www.selcuksports\d{2}\.top/##.odds-container
+/^www.selcuksports\d{3}\.top/##ul
+/^www.selcuksports\d{3}\.top/##div.desktop.playertop.volestream-gorsel
+/^www.selcuksports\d{3}\.top/##.footer-sticky
+/^www.selcuksports\d{3}\.top/##.footer-links
+/^www.selcuksports\d{3}\.top/##div.desktop.playerbottom.volestream-gorsel
+/^www.selcuksports\d{3}\.top/##.odds-container
 
 ! 2023-12-09 https://goblintvizle*.live
 /^goblintvizle\d{3}\.live/##[href="https://truelink.to/goblintv"]
