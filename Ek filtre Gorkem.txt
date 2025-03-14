@@ -2628,6 +2628,7 @@ geo.dailymotion.com##.partner_watermark
 ||zibilyontv*.com/1000x50-1.gif$image
 /^zibilyontv\d{2}\.com/##.top-right.logo
 /^zibilyontv\d{2}\.com/##.mt-3
+/^zibilyontv\d{2}\.com/##.nomobile
 
 ! 9 Haz 2024 https://gizatv*.live
 /^gizatv\d{2}\.live/##.show.sagAlt.watermark
