@@ -1584,6 +1584,7 @@ tazz.tv##.w-\[15vw\].min-w-max.p-3.rounded-lg.to-violetOpacity2.via-violetOpacit
 ! 2023-12-23 https://www.mackeyfi*.sbs
 /^www.mackeyfi\d{4}\.sbs/##.x-embed-link
 /^www.mackeyfi\d{4}\.sbs/##.lazy-loaded.mw100
+/^www.mackeyfi\d{4}\.sbs/##+js(set, config.advertisement, {})
 
 ! 2023-12-28 https://elithdyayin*.com
 /^(www\.)?elithdyayin\d{2}\.com/##.pageskin
@@ -2009,6 +2010,7 @@ drakulastream.org##[href^="https://bacugo.xyz/"]
 /^belestepe\d{4}\.shop/##.x-embed-link
 /^belestepe\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 /^belestepe\d{4}\.shop/##div.hidden-xs
+/^belestepe\d{4}\.shop/##.clappr-watermark
 
 ! 2024-02-28 https://canliskor1.xyz
 canliskor1.xyz##.smallscreen.stream-ads
@@ -2598,8 +2600,9 @@ tifihug.com##noindex
 /^betist\d{3}tv\.live/##.clappr-watermark
 /^betist\d{3}tv\.live/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^betist\d{3}tv\.live/
-/^betist\d{3}tv\.live/##body > div:nth-of-type(2)
 ||betist*tv.live/Uploads/8082005b997a420395aead93f4504e87_pageskin.jpg$image
+/^betist\d{3}tv\.live/##.footer-links
+/^betist\d{3}tv\.live/##ul
 
 ! 9 Haz 2024 https://rekatv*.com
 /^rekatv\d{2}\.com/##.popup-overlay
