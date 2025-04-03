@@ -3390,12 +3390,9 @@ izlekolik.pro###activeFrontVid
 @@||player.vidlop.com/assets/js/devtools-detector.js$script,domain=player.vidlop.com
 filmizletv.me#$#header { margin-bottom: 0 !important; }
 
-! 5 Ağu 2024 https://fullhdfilmizle.vip
-fullhdfilmizle.vip#$#.mt-2 { margin-top: 0 !important; }
-fullhdfilmizle.vip#$##header { margin-top: 0 !important; }
-
-! 5 Ağu 2024 https://siyahfilmizle.bio
-siyahfilmizle.bio#$##wrapper { margin-top: 0 !important; }
+! 5 Ağu 2024 https://fullhdfilmizle.biz
+fullhdfilmizle.biz#$#.mt-2 { margin-top: 0 !important; }
+fullhdfilmizle.biz#$##header { margin-top: 0 !important; }
 
 ! 7 Ağu 2024 https://fullfilmvakti.com
 fullfilmvakti.com###footer
@@ -3403,13 +3400,6 @@ fullfilmvakti.com###m18
 ||fullfilmvakti.com/wp-content/themes/keremiya/js/elma.js$script,domain=www.fullfilmvakti.com
 ||fullfilmvakti.com/wp-content/litespeed/js/35777bbe38ee243cf4463bc6afb90d8b.js$script,1p
 ||media.bidvert.com/js/inp/c.js$script,domain=fullfilmvakti.com
-
-! 14 Ağu 2024 https://filmmoduu.com
-filmmoduu.com##.body-clickable
-||sezonlukdizi.one/wp-content/uploads/2024/02/1000x50.gif$image
-filmmoduu.com##.videoust
-filmmoduu.com##.videoalt
-||i.hizliresim.com/aaujyo7.gif
 
 ! 15 Ağu 2024 https://www.vipfilmsitesi.com
 ||www.vipfilmsitesi.com/wp-content/uploads/2024/08/Pasacasino-1000x50-3.gif$image
@@ -3430,16 +3420,6 @@ dizihot.com##+js(nowoif)
 ! 27 Eyl 2024 https://koredizileri.pw
 ||koredizileri.pw/img/2603c58cb6.mp4$media,1p
 ||koredizileri.pw/img/vst.js$script,1p
-
-! 16 Kas 2024 https://dcdlplayer8a06f4.xyz - dizi5.life
-dcdlplayer8a06f4.xyz##.clappr-watermark
-
-! 18 Eyl 2024 https://livefootball24.com
-livefootball24.com##.desktop.center.banner
-livefootball24.com##.desktop.fixed-banner-right
-
-! 18 Eyl 2024 https://newsarena24h.com
-||newsarena24h.com/ovoplayer/images/ovoplayerlogo.png$image
 
 ! 11 Eki 2024 https://www.sondakika.com
 www.sondakika.com##p[style="display: flex;justify-content: center;"]
@@ -3477,24 +3457,6 @@ taraftarium-24.com##.clearfix.entry-content > p
 ! 11 Kas 2024 https://ppdd02.xiimadedishalthough.shop
 ppdd02.xiimadedishalthough.shop##.video-watermark-S6.active.video-watermark
 
-! 12 Kas 2024 https://mastercanlitv17.com
-mastercanlitv17.com##.container > div:nth-of-type(2)
-mastercanlitv17.com##ul
-mastercanlitv17.com##.ads-img
-mastercanlitv17.com##.reklam-3
-mastercanlitv17.com##.footer-links
-
-! 16 Kas 2024 https://www.vzenggive.com
-||vzenggive.com/evrak/setrabetpage.png$image
-
-! 16 Kas 2024 https://mactime3.pages.dev
-mactime3.pages.dev##.container > div:nth-of-type(2)
-mactime3.pages.dev###duyuru1
-
-! 16 Kas 2024 https://mtadisvniz.pages.dev
-mtadisvniz.pages.dev##.watermark
-mtadisvniz.pages.dev##.clappr-watermark
-
 ! 16 Kas 2024 https://mtadiall.blogspot.com
 mtadiall.blogspot.com##.watermark
 mtadiall.blogspot.com##.clappr-watermark
@@ -3502,9 +3464,6 @@ mtadiall.blogspot.com##.clappr-watermark
 ! 30 Kas 2024 https://mtadigeldi.pages.dev
 mtadigeldi.pages.dev##.watermark
 mtadigeldi.pages.dev##.clappr-watermark
-
-! 16 Kas 2024 https://ben.quietlywheat23.shop
-ben.quietlywheat23.shop##.hover-list-show.hover-list
 
 ! 16 Kas 2024 https://myp2p.at
 ||bithow.com/script.packed.js$script
@@ -3532,11 +3491,11 @@ scobor.net###content_area
 ! 16 Kas 2024 https://watchsportnow.com
 watchsportnow.com##.popup-player.view-match-media-wrapper
 
-! 10 Kas 2024 https://gizabettv4.xyz
-gizabettv4.xyz##ul
-gizabettv4.xyz##.odds-container
-gizabettv4.xyz##.footer-links
-gizabettv4.xyz##.show.sagAlt.watermark
+! 10 Kas 2024 https://gizabettv*.xyz
+/^gizabettv\d{1}\.xyz/##ul
+/^gizabettv\d{1}\.xyz/##.odds-container
+/^gizabettv\d{1}\.xyz/##.footer-links
+/^gizabettv\d{1}\.xyz/##.show.sagAlt.watermark
 
 ! 2 Kas 2024 https://yakatv*.live
 ||yakatv*.live/view/theme/safir/img/yakabito.jpg$image
@@ -3545,6 +3504,9 @@ gizabettv4.xyz##.show.sagAlt.watermark
 /^yakatv\d{1}\.live/##.nomobile
 /^yakatv\d{1}\.live/##.mt-3
 /^yakatv\d{1}\.live/##.top-right.logo
+/^yakatv\d{1}\.live/##+js(nosiif, devtool)
+/^yakatv\d{1}\.live/##.main > div:nth-of-type(2)
+/^yakatv\d{1}\.live/###wrapper > div
 
 ! 23 Eki 2024 https://betcool*tv.com
 /^betcool\d{2}tv\.com/##ul
@@ -3568,12 +3530,6 @@ trendlinkler.com###esosyal-video
 ||cpmlink.pro/webroot/js/ads.js$script,1p
 ||cpmlink.pro/webroot/js/toast.js$script,1p
 ||cpmlink.pro/webroot/js/push.latest.min.js$script
-
-! 24 Kas 2024 https://justcoohd.baby
-justcoohd.baby##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
-justcoohd.baby##header > [href]
-hayrihayrixhayirli7.cfd##+js(set, config.adv, {})
-hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 
 ! 23 Kas 2024 https://betgitv*.com
 /^(www\.)?betgitv\d{2}\.com/##ul
@@ -3599,14 +3555,6 @@ hayrihayrixhayirli7.cfd##div:nth-of-type(2)
 
 ! 30 Kas 2024 https://tcnobul.com
 tcnobul.com##.page-header-ads
-
-! 1 Ara 2024 https://animetrilogy.com
-animetrilogy.com##div.announ
-
-! 5 Ara 2024 https://inatflix10.com
-inatflix10.com##center
-inatflix10.com##a.footer-ad-link
-inatflix10.com##.ads_single_font
 
 ! 1 Ara 2024 https://inattvcom*.xyz
 /^inattvcom\d{4}\.xyz/##marquee
