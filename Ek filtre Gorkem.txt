@@ -2237,14 +2237,11 @@ filmlercehennemi.com##+js(nowoif)
 tv2.dunia21.ceo##.visible-lg
 tv2.dunia21.ceo###float-bottom-banner
 
-! 2024-04-15 https://tv2.lk21.ac
+! 2024-04-15 https://tv8.lk21.ac
 ||cds.bet/tb/388hero-830x90-otwr.gif$image
 ||cds.bet/tb/Moge777-Slot-830x90-hgrets.gif$image
-tv2.lk21.ac###top-b
-tv2.lk21.ac###player-b
-
-! 2024-04-16 https://www.mediafire.com
-www.mediafire.com##.ezoic_ad_unit
+tv8.lk21.ac###top-b
+tv8.lk21.ac###player-b
 
 ! 2024-04-09 https://alonot.com
 alonot.com###custom_html-4
@@ -2298,22 +2295,6 @@ www.colaker.net##.code-block-4.code-block
 ! 2024-04-18 https://shiftdelete.net
 shiftdelete.net##.widget_custom_html.widget.widget_text
 
-! 2024-04-20 https://www.assoarte.com
-||assoarte.com/belge/setrabetpage.png$image
-www.assoarte.com##.headermenualti
-www.assoarte.com##.logo-banner
-www.assoarte.com##[href="https://rebrand.ly/ultraJTV"]
-www.assoarte.com##[href="https://rebrand.ly/JTVSetra"]
-www.assoarte.com##.justintvizle.footersabit
-
-! 2024-04-20 https://www.abivn.com
-||www.abivn.com/dosyalar/betkolikpage.png$image
-www.abivn.com###skapat
-||www.abivn.com/dosyalar/*$image
-www.abivn.com##.mobilgizle.reklamust
-www.abivn.com###formin
-www.abivn.com###playerAdv2
-
 ! 2024-04-22 https://lorabettv*.shop
 /^lorabettv\d{3}\.shop/##.clappr-watermark
 /^lorabettv\d{3}\.shop/##[href="https://bit.ly/3Z5yVhU"]
@@ -2323,10 +2304,10 @@ www.abivn.com###playerAdv2
 /^lorabettv\d{3}\.shop/##+js(nowoif)
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{3}\.shop/
 
-! 2024-04-23 https://muzyet.net
+! 2024-04-23 https://muzyet.com
 ||m.killtarget.biz/$script
 ||c.killtarget.biz/$script
-||muzyet.net/kwa.js$script
+||muzyet.com/kwa.js$script
 
 ! 24 Kas 2024 https://mp3wr.com
 ||mp3wr.com/kwa.js$script
@@ -2343,6 +2324,7 @@ torgamez.com##.relatedtopblock
 listeamed.net##+js(nowoif)
 
 ! 2024-04-29 https://asyabox.com
+@@||heimalesssinpad.com/overroll/?host=asyabox.com&lang=tr&logger=0$subdocument,domain=asyabox.com
 asyabox.com##+js(nowoif)
 
 ! 2024-04-28 https://jokerbettv*.com
@@ -2350,9 +2332,6 @@ asyabox.com##+js(nowoif)
 /^jokerbettv\d{3}\.com/##.odds-container
 /^jokerbettv\d{3}\.com/##ul
 /^jokerbettv\d{3}\.com/##.footer-links
-
-! 2024-04-28 https://4performlivecdn.space
-4performlivecdn.space##a
 
 ! 2024-04-28 https://betmoneytv*.live
 /^betmoneytv\d{2}\.live/##[href="https://bit.ly/40FvI7Z"]
@@ -2372,9 +2351,9 @@ asyabox.com##+js(nowoif)
 /^oslobettv\d{3}\.com/##.odds-container
 
 ! 2024-04-28 https://vegabettv*.shop
-/^vegabettv\d{2}\.shop/##[href^="https://affvega.com/links/"]
-/^vegabettv\d{2}\.shop/##+js(nowoif)
-/^vegabettv\d{2}\.shop/##[href^="https://vegabetortaklik.com/links/"]
+/^vegatv\d{1}\.shop/##[href^="https://vegabetortaklik.com/links/"]
+/^vegatv\d{1}\.shop/##.clappr-watermark
+/^vegatv\d{1}\.shop/##+js(nowoif)
 
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##.footer-links
