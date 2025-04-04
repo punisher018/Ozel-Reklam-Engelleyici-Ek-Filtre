@@ -680,6 +680,9 @@ some.porn##.fluid_html_on_pause_container
 some.porn##.relative.shrink-0.lg\:w-\[300px\].lg\:block.hidden
 some.porn###native__skeleton
 
+! 2024-01-17 https://www.vivatube.net
+www.vivatube.net##.drt-spot-visible.no-buttons.drt-spot-box
+
 ! 4 Eki 2024 https://javfc2.xyz
 ||cdn.jsdelivr.net/npm/videojs-hls-quality-selector@1.1.1/dist/videojs-hls-quality-selector.min.js$script,domain=javfc2.xyz
 
@@ -953,13 +956,7 @@ paylinks.cloud##.banner-728x90.banner
 ! 2023-08-10 https://mehtrainer.com
 ||mehtrainer.com/wp-content/uploads/2020/11/dwwdss.png$image
 
-! 2023-08-17 https://www.sports-stream.info
-||www.sports-stream.info/lsh.png$image
-
 disk.yandex.com.tr#@#.content_ads
-
-! 2023-08-31 https://tipstertv1.comtadi.pw
-tipstertv1.comtadi.pw##.clappr-watermark
 
 ! 2023-09-04 https://golvar*.us
 /^golvar\d{2}\.us/##.show.sagAlt.watermark
@@ -1048,18 +1045,7 @@ www.dinamotv103.com##.player_logo
 ||jestyayin*.com/1000x50.gif$image
 /^(www\.)?jestyayin\d{3}\.com/##.footer-links
 /^(www\.)?jestyayin\d{3}\.com/##ul
-
-! 2023-10-01 https://camcacam244.pages.dev
 ||cdsnnt.pages.dev/t244.png$image
-
-! 2023-10-01 https://inattv*.pro
-/^(www\.)?inattv\d{3}\.pro/##center
-/^(www\.)?inattv\d{3}\.pro/##body > div:nth-of-type(2)
-/^(www\.)?inattv\d{3}\.pro/##.contentReklam
-/^(www\.)?inattv\d{3}\.pro/##.topDuyuru
-/^(www\.)?inattv\d{3}\.pro/##body > div > a
-/^(www\.)?inattv\d{3}\.pro/##marquee
-/^(www\.)?inattv\d{3}\.pro/##+js(set, config.adv, {})
 
 ! 2023-10-01 https://rotabettv*.com
 /^rotabettv\d{3}\.com/##.pageskin
@@ -1078,27 +1064,11 @@ www.topsporter.net##.aoa_overlay
 www.topsporter.net##.widget-body
 www.topsporter.net##div.mb-3.bg-light.card
 
-! 2023-10-02 https://soccerstream100.co
-||streamsport.icu/ads1/load1.html$subdocument
-||26216.stunserver.net^$script
-
-! 2023-10-04 https://golvar*.xyz
-/^golvar\d{3}\.xyz/##.pageskin
-/^golvar\d{3}\.xyz/##.vdldl
-/^golvar\d{3}\.xyz/##.show.sagUst.watermark
-||golvar*.xyz/wp-content/uploads/2023/09/*$image
-
-! 2023-10-04 https://shazysport.pro
-shazysport.pro##.alignnone
-
 ! 2023-10-04 https://tulipbettv*.com
 /^tulipbettv\d{3}\.com/##.show.sagUst.watermark
 /^tulipbettv\d{3}\.com/##.odds-container
 /^tulipbettv\d{3}\.com/##ul
 /^tulipbettv\d{3}\.com/##.footer-links
-
-! 2023-10-04 https://volestream*.com
-/^volestream\d{2}\.com/##.show.solUst.watermark
 
 ! 2023-10-04 https://monotv*.com
 /^monotv\d{3}\.com/##.ads-img
@@ -1110,24 +1080,12 @@ shazysport.pro##.alignnone
 /^monotv\d{3}\.com/##.container > div:nth-of-type(2)
 /^monotv\d{3}\.com/##+js(set, config.adv, {})
 
-! 2023-10-04 https://palsport*.live
-/^palsport\d{2}\.live/##.player-attributes > [href="https://btzula.live/bonusschool"]
-/^palsport\d{2}\.live/##.ads-img
-/^palsport\d{2}\.live/##[src="logo.png"]
-
 ! 2023-10-04 https://tipobettv*.com
 /^tipobettv\d{3}\.com/##.clappr-watermark
 ||tipobettv*.com/Uploads/15667f60bb374e59923533bc3c87093a_pageskin.jpg$image
 /^tipobettv\d{3}\.com/##[href="https://cutt.ly/69vmAsz"]
 /^tipobettv\d{3}\.com/##.odds-container
 /^tipobettv\d{3}\.com/##.reklam-3
-
-! 2023-10-04 https://golbe*.club
-/^golbe\d{2}\.club/##.show.sagAlt.watermark
-/^golbe\d{2}\.club/##.player_logo
-/^golbe\d{2}\.club/##[href="http://llord.co/YnR9T"]
-||golbe*.club/uploads/e6b624db-b686-4ac8-b753-6d353855bed0.gif$image
-||golbe*.club/uploads/e8172978-528e-4509-a3c5-3272c7784b5d.gif$image
 
 ! 2023-10-05 https://dizipal*.com
 /^dizipal\d{3}\.com/##.ads_single_font
@@ -1142,20 +1100,12 @@ shazysport.pro##.alignnone
 ||nerotv*.com/uploads/6a751387-8460-4e9a-929c-9fcc07c1e780.gif$image
 ||nerotv*.com/uploads/c1c8b2ff-98f8-40ac-9dfe-ca63f2b2eab5.gif$image
 
-! 2023-10-07 https://emb.apl276.me
+! 2023-10-07 https://emb.apl*.me
 /emb.apl\d{3}\.me/###ads
 /emb.apl\d{3}\.me/###adbtm
 ||ii.apl*.me/js/pop.js$script
 /^embx\d{6}\.apl\d{3}\.me/###ads
 /^embx\d{6}\.apl\d{3}\.me/###adbtm
-
-! 2023-10-07 https://paste.fo
-paste.fo##a
-
-! 2024-10-07 https://pawastreams.org
-pawastreams.org###adcash
-pawastreams.org###dismiss-btn
-pawastreams.org##div.adsbyadful
 
 ! 2023-10-07 https://bestreamsports.org
 bestreamsports.org###dismiss-btn
@@ -1221,14 +1171,6 @@ bestreamsports.org###dismiss-btn
 ||qa.usninicsooey.com^$script
 ||mndlaifijmlkw.com^$xhr
 
-! 2023-10-13 https://hd.limitsizmac*.com
-/^hd.limitsizmac\d{2}\.com/##.pageskin
-/^hd.limitsizmac\d{2}\.com/##.show.solAlt.watermark
-
-! 2023-10-22 https://limitsizmac*.com
-/^limitsizmac\d{2}\.com/##.pageskin
-/^limitsizmac\d{2}\.com/##.show.solAlt.watermark
-
 ! 2023-10-13 https://dizimia4.com
 dizimia4.com###psContainer
 dizimia4.com###mPlayerFd
@@ -1240,16 +1182,6 @@ my.mail.ru##.b-video-html5__overlay-container
 my.mail.ru##.b-video-html5__video-area
 my.mail.ru##.b-fourth-pseudo-column_inner.b-fourth-pseudo-column
 
-! 2023-10-23 https://hdtaraftartv0001.blogspot.com
-||1.bp.blogspot.com/-wAAyysj0H0g/YBV1tz6Q-JI/AAAAAAAAABg/sJLlyOF1la4a2nEaVqXFx6d-82BbqE9aACNcBGAsYHQ/s1920/pageskin2.jpg$image
-/^hdtaraftartv000\d{1}\.blogspot.com/##.pull-right.col-2
-/^hdtaraftartv000\d{1}\.blogspot.com/##.banner_area
-
-! 2023-10-23 https://webcache.googleusercontent.com
-webcache.googleusercontent.com##.pull-right.col-2
-webcache.googleusercontent.com##.hidden-xs
-webcache.googleusercontent.com##.banner_area
-
 ! 2023-10-28 https://betnanotv*.com
 ||betnanotv*.com/Uploads/*.gif$image
 /^betnanotv\d{3}\.com/##.clappr-watermark
@@ -1258,31 +1190,6 @@ webcache.googleusercontent.com##.banner_area
 /^betnanotv\d{3}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 /^betnanotv\d{3}\.com/##.ls-head-info.text-center.alert-info.alert
 
-! 2023-10-29 https://betinetv*.live
-/^betinetv\d{2}\.live/##.pageskin
-/^betinetv\d{2}\.live/##.reklam-3
-/^betinetv\d{2}\.live/##.show.solAlt.watermark
-
-! 2023-10-30 Seka iptv yayinlari pop up için
-||cdn.discordapp.com/attachments/1081331529923444776/1147268044083703868/Untitled.mp4$media
-||yayinadokunma.cfd/mobil/sitem.js$script
-||viagraeci.click/mobil/sitem.js$script
-||yayiniframe.com/mobil/sitem.js$script
-||iframeyayin.com/mobil/sitem.js$script
-||etlorotogo.com/mobil/sitem.js$script
-||sandersindustriallsupply.com/mobil/sitem.js$script
-||hardaxalounge.com/mobil/sitem.js$script
-
-! 2023-11-05 https://taraftariumyayin*.pages.dev
-/^taraftariumyayin\d{2}\.pages.dev/###dqqqqq
-/^taraftariumyayin\d{2}\.pages.dev/##marquee
-/^taraftariumyayin\d{2}\.pages.dev/##.topReklam
-/^taraftariumyayin\d{2}\.pages.dev/##body > div:nth-of-type(2)
-/^taraftariumyayin\d{2}\.pages.dev/###duyuru1
-tarafxd1.pages.dev##marquee
-fram8.pages.dev###dqqqqq
-fram8.pages.dev##marquee
-
 ! 2023-11-05 https://inattvhd*.xyz
 /^inattvhd\d{3}\.xyz/##.custom-banner
 /^inattvhd\d{3}\.xyz/##marquee
@@ -1290,15 +1197,6 @@ fram8.pages.dev##marquee
 /^s\d{1}\.inattvhd\d{3}\.xyz/##+js(nowoif)
 /^inattvhd\d{3}\.xyz/##+js(rmnt, script, detectDevTool)
 /^inattvhd\d{3}\.xyz/##.video-before
-
-! 2023-11-05 https://*betisttv.live
-/^\d{2}betisttv\.live/##.pageskin
-/^\d{2}betisttv\.live/##.reklam-3
-/^\d{2}betisttv\.live/##.show.solAlt.watermark
-/^\d{2}betisttv\.live/##.show.sagAlt.watermark
-
-! 2023-11-07 https://trwintv*.com
-/^trwintv\d{2}\.com/##.show.sagAlt.watermark
 
 ! 2023-11-06 https://palacebettv*.com
 /^palacebettv\d{2}\.com/##.ads-img
@@ -1314,11 +1212,6 @@ fram8.pages.dev##marquee
 ||restizle*.com/wp-content/uploads/2024/06/970x100_restbet.gif$image
 ||restizle*.com/wp-content/uploads/2024/09/970x100.gif$image
 
-! 2023-11-09 https://vegahdtv*.com
-/^vegahdtv\d{2}\.com/##body > div > [href="https://t2m.io/wZy7frd"]
-/^vegahdtv\d{2}\.com/##.img-responsive
-/^vegahdtv\d{2}\.com/##.clappr-watermark
-
 rapidcloud.cc##+js(nano-stb, tick, *, 0.01)
 filerweb.com##+js(nano-sib)
 
@@ -1327,7 +1220,6 @@ www.yourlifeupdated.net##div[class^=eadv-]
 
 ! 2023-11-10 https://en.skubonet.com
 ||cdn.madservs.com/storage/uploads/1_1662620290642.png$image
-en.skubonet.com##.code-block-1.code-block
 
 ! 2023-11-12 https://joybet*.cam
 /^joybet\d{3}\.cam/##[href="https://tv.joybet.biz"]
@@ -1338,12 +1230,6 @@ star-rail-map.appsample.com##.for-desktop
 ! 2023-11-13 https://colonist.io
 colonist.io##.in_game_ab_left
 colonist.io##.in_game_ab_right
-
-! 2023-11-25 https://turkbettv*.com
-/^turkbettv\d{3}\.com/##.top-right.logo
-/^turkbettv\d{3}\.com/##.hidden-sm.pageskin
-||turkbettv*.com/view/theme/safir/img/turkbettv_bg_2023_1920x1080.jpg$image
-/^turkbettv\d{3}\.com/##.bnr
 
 ! 2023-11-25 https://*setrabettv.com
 /^(www\.)?\d{2}setrabettv\.com/##.pageskin
@@ -1372,22 +1258,11 @@ jpg.cdnimagify.store##.clappr-watermark
 /^www.kuponuna\d{3}\.top/##.iframe_728
 /^www.kuponuna\d{3}\.top/##.r_300_300
 
-! 2023-11-27 https://aliezstream1.pro
-||aliezstream.pro/upload/media/flags/*.png$image
-aliezstream1.pro###localpp
-
 ! 2023-11-27 https://asyasportv*.com
 /^asyasportv\d{3}\.com/##.pageskin
 /^asyasportv\d{3}\.com/##.show.solAlt.watermark
 /^asyasportv\d{3}\.com/##.reklam-3
 /^asyasportv\d{3}\.com/##.odds-container
-
-! 2023-11-27 https://www.justintvizle*.live
-||www.justintvizle*.live/izinler/ultra*$image
-||www.justintvizle*.live/izinler/setra*$image
-||www.justintvizle*.live/izinler/kapat2.png$image
-/^www.justintvizle\d{2}\.live/###masaustu1
-/^www.justintvizle\d{2}\.live/###playerAdv2
 
 ! 2023-11-29 https://rinatv*.online
 /^rinatv\d{2}\.online/##.pageskin
@@ -1397,9 +1272,6 @@ aliezstream1.pro###localpp
 
 ! 2023-11-29 https://24hsport.tv
 24hsport.tv##.playerPopup
-
-! 2023-11-29 https://crvsport.ru
-crvsport.ru##[href="http://livetv.sx/enx/"]
 
 ! 2023-11-29 https://b5yucast.com
 b5yucast.com##img
@@ -1455,7 +1327,6 @@ mgviagrtoomuch.com##.wpb_wrapper [href]
 ! 2023-12-03 https://perchance.org
 perchance.org##body > div:nth-of-type(5)
 perchance.org##body > div:nth-of-type(4)
-perchance.org##body > div:nth-of-type(3)
 
 ! 2023-12-03 https://www.emulatorjs.com
 www.emulatorjs.com##.frame-2
@@ -1481,36 +1352,12 @@ fakazahouse.com##[href="https://dukingdraon.com/4/6010734"]
 /^tvmarkaj\d{2}\.com/##ul
 /^tvmarkaj\d{2}\.com/##.footer-links
 
-! 2023-12-08 https://netspor*.link
-/^netspor\d{3}\.link/###modal-popup
-/^netspor\d{3}\.link/###fancybox-container-1
-||stfilestatic.b-cdn.net/cdn/ns/hyl*$image
-||stfilestatic.b-cdn.net/cdn/ns/blg*$image
-||stfilestatic.b-cdn.net/cdn/blg00.jpeg$image
-||stfilestatic.b-cdn.net/cdn/ns/lm/bgliman2.jpg$image
-||pmnew.b-cdn.net/cdn/ns/blg/blgbg.jpg$image
-||pmnew.b-cdn.net/cdn/ns/hyl/hylbg.jpg$image
-||pmnew.b-cdn.net/cdn/ns/blgnew/bg.jpg$image
-||get2e.b-cdn.net/cdn/blg/beluga-bg.jpg$image
-/^netspor\d{3}\.link/##div.banner_area
-/^netspor\d{3}\.link/###RightSide
-/^netspor\d{3}\.link/###leftSide
-/^netspor\d{3}\.link/##.blg-bx
-/^netspor\d{3}\.link/##.blg2
-/^netspor\d{3}\.link/##.ust-banner
-/^netspor\d{3}\.link/##.alt-banner
-
-/^netspor\d{2}\.link/##div.banner_area
-/^netspor\d{2}\.link/###RightSide
-/^netspor\d{2}\.link/###leftSide
-/^netspor\d{2}\.link/###modal-popup
-/^netspor\d{2}\.link/###fancybox-container-1
-
 ! 2023-12-08 https://decrypt.co
 decrypt.co##div.justify-center.items-center.xl\:flex.hidden.my-10.post-content-w-full
 decrypt.co##.aspect-video.w-full
 
 @@||sonar.viously.com/*/js?w$script,domain=francoischarron.com
+francoischarron.com###cookie-popup
 
 ! 2023-12-09 https://www.hdselcuksports*.top
 /^www.hdselcuksports\d{3}\.top/##.container.header_r
@@ -1534,24 +1381,6 @@ decrypt.co##.aspect-video.w-full
 /^goblintvizle\d{3}\.live/##[href="https://truelink.ch/goblintv"]
 /^goblintvizle\d{3}\.live/##.img-responsive
 
-! 2023-12-11 https://taraftarium*.sbs
-/^taraftarium\d{2}\.sbs/###sagdakayan
-/^taraftarium\d{2}\.sbs/###soldakayan
-/^taraftarium\d{2}\.sbs/##marquee
-/^taraftarium\d{2}\.sbs/###dqqqqq
-/^taraftarium\d{2}\.sbs/##.topReklam
-/^taraftarium\d{2}\.sbs/##.container > div:nth-of-type(2)
-
-! 2023-12-11 https://pllsfored.com
-pllsfored.com###dqqqqq
-pllsfored.com##body > div:nth-of-type(3)
-pllsfored.com##body > div:nth-of-type(2)
-||pllsfored.com/kral.png$image
-pllsfored.com###duyuru1
-pllsfored.com##.adsPanelDesktop
-pllsfored.com##.adsPanelMobile
-pllsfored.com##.container > div:nth-of-type(2)
-
 ! 2023-12-14 https://www.canlimaclar*.sbs
 /^www.canlimaclar\d{4}\.sbs/##.x-embed-link
 /^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
@@ -1568,10 +1397,6 @@ pllsfored.com##.container > div:nth-of-type(2)
 ||www.dmax.com.tr/js/springstreams.js$script,domain=www.dmax.com.tr
 dmax.com.tr##+js(no-xhr-if, dmax/crea/)
 dmax.com.tr###liveAdContainer
-
-! 2024-03-13 https://kalitebettv*.xyz
-/^kalitebettv\d{1}\.xyz/##[href="https://rebrand.ly/Etkinlik"]
-/^kalitebettv\d{1}\.xyz/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2023-12-15 https://uploady.io
 uploady.io###protag-sidebar
@@ -1596,15 +1421,6 @@ tazz.tv##.w-\[15vw\].min-w-max.p-3.rounded-lg.to-violetOpacity2.via-violetOpacit
 tranimaci.com##+js(nowoif)
 ||c.disquscdn.com/next/embed/*$script,domain=tranimaci.com
 ||https-tranimeci-com.disqus.com/embed.js$script,domain=tranimaci.com
-
-! 2023-12-31 https://top.crackstreamsfree.com
-top.crackstreamsfree.com##.widget-area-1.widget-area
-top.crackstreamsfree.com##.widget-area-2.widget-area
-
-! 2024-01-06 https://trendbet*.live
-/^trendbet\d{2}\.live/##div.reklam-3
-/^trendbet\d{2}\.live/##.show.solAlt.watermark
-/^trendbet\d{2}\.live/##.odds-container
 
 ! 2024-01-06 https://betestream*.live
 /^betestream\d{1}\.live/##.show.sagUst.watermark
@@ -1666,7 +1482,8 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{3}\.xyz/##[href="https://bio2.in/Winx-inat"]
 /^(www\.)?inattv\d{3}\.xyz/###duyuru1
 ||inattv*.xyz/images/betlolologo.png$image
-/^(www\.)?inattv\d{3}\.xyz/##a[href="https://cutt.ly/2137671-1"]
+/^(www\.)?inattv\d{3}\.xyz/##a[href^="https://cutt.ly/"]
+/^(www\.)?inattv\d{3}\.xyz/##a[href^="https://lotobetyon.xyz/tr"]
 /^(www\.)?inattv\d{3}\.xyz/##.container > div:nth-of-type(2)
 ||blogger.googleusercontent.com/img/*/bahsegel.png$image
 
@@ -1678,13 +1495,6 @@ inattvgiris.pro##.container > div:nth-of-type(2)
 
 ! 2024-01-08 https://www.lookmovie2.to
 www.lookmovie2.to##[src="/images/ads/2.png"]
-
-! 2024-01-09 https://www.webspor*.buzz
-/^www.webspor\d{1}\.buzz/###HTML13
-/^www.webspor\d{1}\.buzz/###HTML14
-/^www.webspor\d{1}\.buzz/##[href="https://tinyurl.com/4fkn75mm"]
-/^www.webspor\d{1}\.buzz/##[href^="https://redirect.liverefer.com/ad"]
-/^www.webspor\d{1}\.buzz/##+js(rmnt, script, doOpen)
 
 ! 2024-01-11 https://fatihaltayli.com.tr
 fatihaltayli.com.tr###tdi_21
@@ -1700,11 +1510,6 @@ hackforums.net##.mam-header
 hackforums.net##.mam-footer
 hackforums.net##.scaleimages.mam-inline
 
-! 2024-01-15 https://taraftarium.cfd
-taraftarium.cfd###sagdakayan
-taraftarium.cfd###soldakayan
-taraftarium.cfd##div:nth-of-type(13)
-
 ! 2024-01-15 https://premiumdownloader.net
 premiumdownloader.net##.section
 
@@ -1714,18 +1519,10 @@ www.merlininkazani.com#@#.author-share
 www.bilgiportal.com##.d-md-block.d-none.col-md-3
 www.bilgiportal.com##.mb-5.col-12
 
-! 2024-01-17 https://www.vivatube.net
-www.vivatube.net##.drt-spot-visible.no-buttons.drt-spot-box
-
 ! 2024-01-22 https://www.cioupdate.com.tr
 www.cioupdate.com.tr##.stream-item-above-header.stream-item
 www.cioupdate.com.tr##.stream-item-top-wrapper.stream-item
 www.cioupdate.com.tr##.stream-item-below-header.stream-item
-
-! 2024-01-24 https://ariva.buzz
-ariva.buzz###dqqqqq
-ariva.buzz##[href="https://discord.com/invite/HvjCYsTvSX"]
-ariva.buzz##+js(set, config.adv, {})
 
 ! 2024-01-25 https://tarabettv*.shop
 /^tarabettv\d{3}\.shop/##[href="https://bit.ly/tarabettv"]
@@ -1735,16 +1532,6 @@ ariva.buzz##+js(set, config.adv, {})
 /^tarabettv\d{3}\.shop/##.modal-open:style(overflow: auto !important)
 /^tarabettv\d{3}\.shop/##div.vertical-gap.row:nth-of-type(2)
 /^tarabettv\d{3}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
-
-! 2024-01-28 https://ses01.buzz
-ses01.buzz##.vast-blocker
-ses01.buzz###dqqqqq
-||cdn.discordapp.com/attachments/1014235346785009684/1198761915212632255/bet2.mp4$media
-
-! 2024-01-28 https://justintv*.sbs
-/^justintv\d{1}\.sbs/##.sidebar
-/^justintv\d{1}\.sbs/##body > div:nth-of-type(2)
-/^justintv\d{1}\.sbs/##marquee
 
 ! 2024-01-28 https://pesktop.com
 pesktop.com##.uk-float-left.a728_90
@@ -1773,77 +1560,20 @@ pesktop.com##.uk-float-left.a728_90
 /^www.xyzsports\d{3}\.xyz/##+js(set, window.adsConfig.0, {})
 /^www.xyzsports\d{3}\.xyz/#$#iframe { height: 650px !important; }
 
-! 2024-02-05 https://xyzsprtsfrmr1.site
-xyzsprtsfrmr1.site##.clappr-watermark
-xyzsprtsfrmr1.site##.container > div:nth-of-type(1) > div
-
 ! 2024-02-03 https://jyayintv*.live
 /^jyayintv\d{3}\.live/##.right_bannner
 /^jyayintv\d{3}\.live/##.bannner
 /^jyayintv\d{3}\.live/##.bannnner
 /^jyayintv\d{3}\.live/##.right_bannnner
 
-! 14 Eyl 2024 https://jyayintv*.live
-jyayintv98.live##.right_bannnner
-jyayintv98.live##.bannnner
-jyayintv99.live##.bannnner
-jyayintv99.live##.right_bannnner
-
-! 2024-02-09 https://jetplayer.net
-||video.twimg.com/ext_tw_video/1696452661317353473/pu/vid/640x360/BCVt-31Ub3JL72yZ.mp4$media
-
-! 2024-02-10 https://trgoalsinat.pages.dev
-||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/betkanyonlogo.jpg$image
-
-! 2024-02-10 https://www.birfutbol.tv
-www.birfutbol.tv##.TVPXMW.MW5IWV
-www.birfutbol.tv###comp-lg6ctx55
-www.birfutbol.tv##.WB4GU7
-www.birfutbol.tv###comp-ln4r9wes
-www.birfutbol.tv##._57WYp.IjV6v.-ZADH.-Zro6
-www.birfutbol.tv###comp-lg5kr91b
-www.birfutbol.tv###comp-lg6d5b9b
-www.birfutbol.tv###comp-lg5kllo9
-
 ! 2024-02-10 https://8k.alkoora.live
 8k.alkoora.live###tme_message
 8k.alkoora.live###tme
 8k.alkoora.live##.albaplayer_videos_channel
 
-! 2024-02-10 https://golassiahub.com
-golassiahub.com##.clappr-watermark
-||golassiahub.com/css/banr-adstera.html$subdocument
-golassiahub.com###ifre23
-golassiahub.com##.ban468
-
-! 2024-02-11 https://channel1kanal54.blogspot.com
-channel1kanal54.blogspot.com###dqqqqq
-channel1kanal55.blogspot.com###dqqqqq
+! 2024-02-11 https://channel5kanal9.blogspot.com
 /^channel1kanal\d{2}\.blogspot.com/##+js(set, config.adv, {})
-ch12kanal2.blogspot.com###dqqqqq
-ch12kanal2.blogspot.com##marquee
-channel1kanal59.blogspot.com###dqqqqq
-channel5kanal3.blogspot.com##marquee
-ch12kanal4.blogspot.com###dqqqqq
-ch12kanal4.blogspot.com##marquee
-channel3kanal7.blogspot.com##marquee
-channel1kanal63.blogspot.com###dqqqqq
-channel1kanal64.blogspot.com###dqqqqq
-channel4kanal6.blogspot.com##marquee
-channel3kanal8.blogspot.com##marquee
-channel1kanal65.blogspot.com###dqqqqq
-channel2kanal12.blogspot.com##marquee
-channel3kanal9.blogspot.com##marquee
-channel4kanal7.blogspot.com##marquee
-channel5kanal7.blogspot.com##marquee
-channel9kanal7.blogspot.com##marquee
-ch12kanal7.blogspot.com###dqqqqq
-ch12kanal7.blogspot.com##marquee
-channel1kanal67.blogspot.com###dqqqqq
-channel1kanal68.blogspot.com###dqqqqq
-channel2kanal14.blogspot.com##marquee
 channel9kanal9.blogspot.com##marquee
-channel2kanal18.blogspot.com##marquee
 /^channel1kanal\d{2}\.blogspot.com/##+js(nowoif)
 channel5kanal9.blogspot.com##marquee
 channel2kanal19.blogspot.com##marquee
@@ -1864,22 +1594,12 @@ channel4kanal11.blogspot.com##marquee
 /^varsports\d{2}\.cfd/##.ad-banner
 /^varsports\d{2}\.cfd/##.i-banner
 
-! 2024-02-16 https://hdyayinlartvtrgoals4.blogspot.com
-hdyayinlartvtrgoals4.blogspot.com##marquee
-hdyayinlartvtrgoals6.blogspot.com###dqqqqq
-hdyayinlartvtrgoals7.blogspot.com##marquee
-hdyayinlartvtrgoals8.blogspot.com##marquee
-hdyayinlartvtrgoals8.blogspot.com###dqqqqq
-
 ! 2024-02-16 https://webmaster.livetv.club
 webmaster.livetv.club##.fkwrap
 
 ! 2024-02-16 https://totalsportek.pro
 ||totalsportek.pro/images/longhosting.gif$image
 totalsportek.pro##.addclass
-
-! 2024-02-16 https://live.batstream.cc
-live.batstream.cc##.fkwrap
 
 ! 2024-02-23 https://widget.streamthunder.org
 widget.streamthunder.org##.fkwrap
@@ -1900,6 +1620,10 @@ www.sportnews.to##.mb-3.bg-light.card1
 www.sportnews.to###custom_html-3
 www.sportnews.to###custom_html-6
 www.sportnews.to###custom_html-5
+sportnews.to###custom_html-3
+sportnews.to###custom_html-6
+sportnews.to###custom_html-5
+sportnews.to##.td_block_template_9.td-a-rec-id-custom_ad_1.td-a-rec
 www.sportnews.to#@#.powerkit_social_links_widget
 !sportnews.to,topsporter.net#%#//scriptlet('abort-current-inline-script', '$', 'keepChecking')
 ||www.sportnews.to/fox/plugins/block/js/$script
