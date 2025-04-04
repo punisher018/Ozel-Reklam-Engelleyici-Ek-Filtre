@@ -2379,14 +2379,6 @@ asyabox.com##+js(nowoif)
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##[href="https://cutt.ly/kw2gftap"]
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
-/^\d{2}bayspintv\.live/##body > div:nth-of-type(2)
-||51bayspintv.live/Uploads/c3ea5e2fd6884f1fa8022293ffdffa91_ade.jpg$image
-
-! 2024-04-30 https://romabettv*.com
-/^romabettv\d{2}\.com/##[href="https://gosite.org/Roma"]
-/^romabettv\d{2}\.com/##[href="https://cutt.ly/RomaGirs"]
-||romabettv*.com/Uploads/d990dd3750d046418d75695ca89c372e_romatvbg.png$image
-||romabettv*.com/Uploads/362d957aa0074b4689b2215973c3c2b4_RomaTVBackground.png$image
 
 ! 2024-04-28 https://*kalebettv.xyz
 /^\d{2}kalebettv\.xyz/##.video-before
@@ -2417,11 +2409,6 @@ betbigotv1.club##ul
 /^sporplushd\d{2}\.live/##.pageskin
 /^sporplushd\d{2}\.live/##a[href="https://bit.ly/3ge3zQU"]
 
-! 2024-05-02 https://lionbet*.tv
-/^lionbet\d{1}\.tv/##.video-before
-/^lionbet\d{1}\.tv/##+js(set-attr, .video-skip[data-time], data-time, 0 )
-/^lionbet\d{1}\.tv/##.show.sagAlt.watermark
-
 ! 2024-05-02 https://polobettv*.site
 /^polobettv\d{3}\.site/##.show.sagAlt.watermark
 /^polobettv\d{3}\.site/##.odds-container
@@ -2440,12 +2427,9 @@ betbigotv1.club##ul
 /^maksibetmactv\d{2}\.com/##ul
 /^maksibetmactv\d{2}\.com/##.footer-links
 
-! 2024-05-02 https://www.hdtvlertv.com
-www.hdtvlertv.com##div.container > center
-
-! 2024-05-04 https://englishtorrent.co
-englishtorrent.co##.overlay
-englishtorrent.co##+js(nowoif)
+! 4 Nis 2025 https://www.hdtvlertv.net
+www.hdtvlertv.net##center
+www.hdtvlertv.net##.text-center
 
 ! 2024-05-04 https://www.hdfilmizleamk.net
 www.hdfilmizleamk.net###xrkpt
@@ -2552,11 +2536,6 @@ partmentent.com##noindex
 tifihug.com#%#//scriptlet('set-constant', 'Notification.requestPermission', 'noopFunc')
 tifihug.com##noindex
 ||tifihug.com/sw.js$script,domain=tifihug.com
-
-! 8 Haz 2024 https://ssporttv*.com
-/^ssporttv\d{2}\.com/##.footer-links
-/^ssporttv\d{2}\.com/##ul
-/^ssporttv\d{2}\.com/##.container > div:nth-of-type(2)
 
 ! 8 Haz 2024 https://betsnewtv*.live
 /^betsnewtv\d{3}\.live/##.pageskin
