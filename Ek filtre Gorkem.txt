@@ -2377,7 +2377,8 @@ asyabox.com##+js(nowoif)
 /^vegabettv\d{2}\.shop/##[href^="https://vegabetortaklik.com/links/"]
 
 ! 2024-04-29 https://*bayspintv.live
-/^\d{2}bayspintv\.live/##[href="https://cutt.ly/kw2gftap"]
+/^\d{2}bayspintv\.live/##.footer-links
+/^\d{2}bayspintv\.live/##ul
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
 
 ! 2024-04-28 https://*kalebettv.xyz
