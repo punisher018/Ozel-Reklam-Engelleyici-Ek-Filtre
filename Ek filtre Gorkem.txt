@@ -726,24 +726,11 @@ trupornolabs.org#$#body { padding: 0 !important; }
 ||streamporn.org/wp-content/cache/min/1/ad-provider.js$script
 ||streamporn.org/wp-content/cache/min/1/advert/$script
 
-! 2023-11-11 https://ecology.my.id
-||ecology.my.id/ad/top/popunder.js$script,1p
-||ecology.my.id/js/segment.7.js$script,1p
-||ecology.my.id/js/script_33.10.js$script,1p
-
 ! 2023-12-08 https://stbnetu.xyz
 ||stbnetu.xyz/js/segment.7.js$script,1p
 ||stbnetu.xyz/ad/top/popunder.js$script,1p
 ||stbnetu.xyz/js/script_33.10.js$script,1p
 stbnetu.xyz##[href^="mailto:support@netu.tv"]
-
-! 28 Tem 2024 https://stbpnetu.xyz
-stbpnetu.xyz##[href^="mailto:support@netu.tv"]
-||stbpnetu.xyz/js/segment.7.js$script
-
-! 15 Ağu 2024 https://hqq.tv
-hqq.tv##[href^="mailto:support@netu.tv"]
-||hqq.tv/images/adblock.jpg$image
 
 ! 2023-10-01 https://jokerguide.com
 jokerguide.com##.fixed.bottom-0.border-t.border-violet.backdrop-blur.bg-darkBlueOpacity.w-full.ease.duration-200.z-\[50\].lg\:block.py-2.hidden
@@ -810,20 +797,6 @@ jokersportshd.net##.absolute.top-0.z-\[2\].h-full.w-full
 v2.nizarstream.com##[href="https://newerastreams.com/homePage"]
 ||v2.nizarstream.com/NewEraStreams.png$image
 
-! 2023-07-09 https://netspor*.site
-||stfilestatic.b-cdn.net/cdn/ns/lmn/lmnbg.jpg$image
-||stfilestatic.b-cdn.net/cdn/ns/blgbg/blgbg.jpg$image
-||pmnew.b-cdn.net/cdn/ns/lm/bgliman2.jpg$image
-||pmnew.b-cdn.net/cdn/ns/hylbg/hayalbgson.jpg$image
-/^(www\.)?netspor\d{2}\.site/###fancybox-container-1
-/^(www\.)?netspor\d{2}\.site/##div.banner_area:nth-of-type(2)
-/^(www\.)?netspor\d{2}\.site/##+js(set, config.adv, {})
-@@||cdnx.assetstmedia.net/cdn/ns/nosprite.png$image,domain=/^(www\.)?netspor\d{2}\.site/
-/^(www\.)?netspor\d{2}\.site/###RightSide
-/^(www\.)?netspor\d{2}\.site/###leftSide
-/^(www\.)?netspor\d{2}\.site/##div.banner_area
-/^(www\.)?netspor\d{2}\.site/##.clappr-watermark
-
 ! 2023-07-08 https://fileforums.com
 fileforums.com##.page > div > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
 fileforums.com##.page > div > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3)
@@ -831,7 +804,7 @@ fileforums.com##div:nth-of-type(2) > .tborder
 
 ! 2023-07-09 https://www.yasdl.com
 www.yasdl.com##.row.fixed-post.post
-www.yasdl.com##center
+www.yasdl.com##.wrapper.top-ads-wrap
 
 ! 2023-07-09 https://www.rf-cheats.ru
 www.rf-cheats.ru##center:nth-of-type(2)
@@ -854,6 +827,7 @@ www.mynet.com##.masthead-adv-type-sticky.adv-item-box.mb-3.text-center.col-12
 www.mynet.com##.taboola-ads-in-article
 www.mynet.com##.adv-taboola-in-article-full.adv-in-content.adv-box
 www.mynet.com##div.justify-content-between.d-flex.body-banner-block
+www.mynet.com##.mb-3.membrana-video.card
 
 ! 2023-07-14 https://www.dtunnel.net
 www.dtunnel.net###text-2
