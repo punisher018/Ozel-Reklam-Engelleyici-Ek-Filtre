@@ -8,8 +8,6 @@
 !canlimacizlemax17.com##+js(aost, console.clear)
 !canlimacizlemax17.com##+js(nostif, ||null)
 
-!icelz.newsrade.com##+js(acis, ConsoleBan)
-
 ! 2023-07-20 https://dizipal609.com/ - Gömülü reklam yazılarını (Burada video içindeydi) engelleme komutu
 ! ##pjsdiv[style*="position: absolute; top: -21px; left: -176px;"][style*="font-size: 15px;"]
 
