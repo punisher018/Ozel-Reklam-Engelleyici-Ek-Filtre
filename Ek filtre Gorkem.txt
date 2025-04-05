@@ -2387,7 +2387,6 @@ yandex.com##.main-home-banner__content
 ! 25 Eyl 2024 https://taraftarium-24.pro
 ||sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://taraftarium-24.pro/iptvold.jpg$image
 taraftarium-24.pro##[href="https://sites.google.com/view/iptvold\""]
-taraftarium-24.pro##[href^="https://bit.ly/iptvoldhd\"]
 taraftarium-24.pro##[href="https://bit.ly/iptvoldhd"]
 taraftarium-24.pro##center
 taraftarium-24.pro##[href^="https://cutt.ly/"]
