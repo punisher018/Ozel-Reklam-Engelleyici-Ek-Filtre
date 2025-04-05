@@ -38,21 +38,16 @@ cloud.mail.ru##.ReactViewer__bottominfoWrapper_new--1M1t3.ReactViewer__bottominf
 mail.ru##.qdfpnma__1pidajk.tgb-wrapper
 
 ! 2022-08-05 https://cq.ru
-||cq.ru/storage/cq67er/d7mRR09CPYak1ZXZXzXWSifZnPn1NrWk18zU2qi8.jpg$image
-||cq.ru/storage/cq67er/fU4V7deHfkiRnXZyWIqjkXN8WzSBorySAmUFrHdX.jpg$image
-cq.ru##.cq-icon-close.close-button
-cq.ru##.fddaaa.aeadfbc.defebtpc
+cq.ru##.desktop-only.--header-desktop.m
+cq.ru##div.desktop-only.--content.m
 cq.ru##.bottom-area
 cq.ru#$?#.cq-content { margin-top: unset !important; }
 
-https://www.redly.vip/kmUnhX1$document
-https://bit.ly/3AVO8Hg$document
-https://bit.ly/cent50tl$document
 https://1.bp.blogspot.com/-QepErU9V7Rw/XuKhY0kmIYI/AAAAAAAAA8Y/hG07Sr2uM000rB-GDl-jsQoOLHgKiiaEACLcBGAsYHQ/s1600/650x50--stb-yeni-yil-compressor.gif$subdocument
 adainstaller.com/$document
 
-https://cdn.jsdelivr.net/npm/devtools-detector@2.0.14/lib/devtools-detector.min.js
-https://dbx.molystream.org/assets/s.js
+||cdn.jsdelivr.net/npm/devtools-detector@2.0.14/lib/devtools-detector.min.js
+||dbx.molystream.org/assets/s.js
 
 analytics.pinterest.com
 widgets.pinterest.com
@@ -89,30 +84,8 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 /^www.papazsports\d{3}\.pro/##.header-banner
 /^www.papazsports\d{3}\.pro/##+js(nowoif)
 
-! 2023-04-23 https://www.canlitribun*.live
-||canlitribun-57e1.kxcdn.com/images/social_popup_logo.png$image
-||www.canlitribun*.live/r/megapari300_04042023.html$subdocument
-||www.canlitribun*.live/r/betdoksan300_01032023.html$subdocument
-/^www.canlitribun\d{3}\.live/##.header_r.clearfix
-/^www.canlitribun\d{3}\.live/##.iframe_pops.iframe_pops_400_kare
-/^www.canlitribun\d{3}\.live/##.r_300_600
-/^www.canlitribun\d{3}\.live/##.takip_layer
-/^www.canlitribun\d{3}\.live/##[src="/r/redwin728_27112022.html"]
-||www.canlitribun*.live/cdn/images/logo.png$image
-||www.canlitribun*.live/r/video_reklam.html$subdocument
-/^www.canlitribun\d{3}\.live/##.guncel_tahminler
-/^www.canlitribun\d{3}\.live/##.footer_970
-/^www.canlitribun\d{3}\.live/##.full_bg
-/^www.canlitribun\d{3}\.live/###xbetpu
-/^www.canlitribun\d{3}\.live/##.chat_over_reklam
-||proxy.sy-static.workers.dev/https://1xbet.com//LiveFeed/Get1x2_VZip?count=1000&lng=tr&mode=4&country=190$xhr
-@@||canlitribun*.live/cdn/advert.js$domain=/^(www\.)?canlitribun\d{3}\.live/
-/^www.canlitribun\d{3}\.live/#@#.w100p
-/^www.canlitribun\d{3}\.live/##.r_300_300
-/^www.canlitribun\d{3}\.live/##.iframe_728
-
 ! 2023-04-23 https://bahisnowtv*.com
-/^bahisnowtv\d{3}\.com/##body > div > [href="https://bit.ly/3DULl11"]
+/^bahisnowtv\d{3}\.com/##body > div > [href^="https://bit.ly/"]
 /^bahisnowtv\d{3}\.com/##[href="https://tinyurl.com/tvbnow"]
 /^bahisnowtv\d{3}\.com/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||bahisnowtv*.com/Uploads/22078e5176f0407c89cf3b7bb9abd804_P.png$image
@@ -125,17 +98,14 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 ||video.twimg.com/ext_tw_video/1697730993543610368/pu/vid/$xhr
 
 ! 2023-04-23 https://macvar*.live
-||macvar*.live/wp-content/uploads/2023/04/macvarpageskin-macvar100freespin.png$image
-||macvar*.live/wp-content/uploads/2021/09/macvartv-logo.png$image
-||macvar*.live/wp-content/uploads/2023/04/1000x50gif1804.gif$image
 /^macvar\d{5}\.live/###_a3ef7f4389da256223c1183a6ee9e331 > [href="javascript:void(0)"]
 /^macvar\d{5}\.live/##.pfixedd.hidden-xs
-/^macvar\d{5}\.live/##a[href="https://mrafflink.com/97f2lvjx"]
+/^macvar\d{5}\.live/##a[href^="https://mrafflink.com/"]
 /^macvar\d{5}\.live/##.pageskin
 
 /^macvar\d{4}\.live/###_a3ef7f4389da256223c1183a6ee9e331 > [href="javascript:void(0)"]
 /^macvar\d{4}\.live/##.pfixedd.hidden-xs
-/^macvar\d{4}\.live/##a[href="https://mrafflink.com/97f2lvjx"]
+/^macvar\d{4}\.live/##a[href^="https://mrafflink.com/"]
 /^macvar\d{4}\.live/##.pageskin
 /^macvar\d{4}\.live/##ul
 /^macvar\d{4}\.live/##.only-desktop.footer-links
@@ -143,14 +113,16 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 /^macvar\d{3}\.live/##.only-desktop.footer-links
 /^macvar\d{3}\.live/##ul
 /^macvar\d{3}\.live/##.pageskin
-/^macvar\d{3}\.live/##a[href="https://go.aff.mrbahis*.com/97f2lvjx"]
+/^macvar\d{3}\.live/##a[href^="https://go.aff.mrbahis*.com/"]
 
 ! 2023-04-23 https://www.selcuksportshd*.xyz
 /^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
+/^www.selcuksportshd\d{4}\.xyz/##.sidebar
+/^www.selcuksportshd\d{4}\.xyz/##.banners.container
+/^www.selcuksportshd\d{4}\.xyz/##.mb-15.banner
+||video.twimg.com/ext_tw_video/*/*.m3u8$domain=/^main.uxsyplayer[a-zA-Z0-9]{12}\.click$/
 
 ! 2023-04-23 https://www.softexia.com
-www.softexia.com##div.a1g2022w:nth-of-type(1)
-www.softexia.com##div.a1g2022w:nth-of-type(2)
 www.softexia.com##.item
 www.softexia.com###top-line
 
@@ -158,6 +130,7 @@ www.softexia.com###top-line
 /^(www\.)?trgoals\d{4}\.xyz/##+js(set, config.adv, {})
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
 /^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://cutt.ly/"]
+/^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://lotobetyon.xyz/"]
 /^(www\.)?trgoals\d{4}\.xyz/##marquee
 /^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
 /^(www\.)?trgoals\d{4}\.xyz/###duyuru1
@@ -175,13 +148,6 @@ www.softexia.com###top-line
 /^kingbettingtv\d{2}\.com/##ul
 /^kingbettingtv\d{2}\.com/##.show.sagUst.watermark
 
-! 2023-04-23 https://betexpertv*.live
-||betexpertv*.live/wp-content/uploads/2023/03/asdasd.jpg$image
-/^betexpertv\d{3}\.live/##.pfixedd.hidden-xs
-||betexpertv*.live/wp-content/uploads/2023/03/exbin.gif$image
-/^betexpertv\d{3}\.live/##.pageskin
-/^betexpertv\d{3}\.live/##.show.sagAlt.watermark
-
 ! 2023-04-23 https://onedio.com
 onedio.com##.mb-2\.5.u-center
 onedio.com##.focus\:outline-none.duration-200.ease-out.transition-colors.cursor-pointer.rounded-full.sm\:w-12.sm\:h-12.w-10.h-10.hover\:bg-o-blue.bg-black.top-4.right-4.u-center.z-1.absolute
@@ -197,10 +163,6 @@ onedio.com##.my-4.gap-5.items-center.justify-start.flex.rounded-xl.to-\[\#332393
 onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
 
 ! 2023-04-23 https://vegoltv*.com
-||vegoltv*.com/wp-content/uploads/2022/09/vgl.jpg$image
-||vegoltv*.com//wp-content/uploads/2022/03/mono-banner-caddelogo.gif$image
-||vegoltv*.com/wp-content/uploads/2022/03/mono-banner-monologo.gif$image
-||vegoltv*.com/wp-content/uploads/2021/06/vgvdeo.jpg$image
 ||vegoltv*.com/1000x50.gif$image
 /^(www\.)?vegoltv\d{3}\.com/##.pfixedd.hidden-xs
 /^(www\.)?vegoltv\d{3}\.com/##.ads-img
@@ -211,12 +173,6 @@ onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].f
 /^(www\.)?vegoltv\d{3}\.com/##.footer-links
 /^(www\.)?vegoltv\d{3}\.com/##.container > div:nth-of-type(2)
 /^(www\.)?vegoltv\d{3}\.com/##+js(set, config.adv, {})
-
-! 2023-04-25 https://betsmove*.tv
-/^betsmove\d{3}\.tv/##.sidebar-right.sidebar
-/^betsmove\d{3}\.tv/##div.sidebar:nth-of-type(1)
-/^betsmove\d{3}\.tv/##.only-desktop.section
-||betsmove*.tv/Uploads/23377306c721403181f2b5534fdc96b1_logooo.png$image
 
 ! 2023-04-25 https://*dumantv.com
 /^\d{3}dumantv\.com/##.pageskin
@@ -232,15 +188,11 @@ onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].f
 /^sporligtv\d{3}\.live/###superderbi
 /^sporligtv\d{3}\.live/##.clappr-watermark
 /^sporligtv\d{3}\.live/##[src="https://i.ibb.co/zb291mw/sporlig-logo.png"]
-www.livemedia.services##[src^="data:image/png;base64,"]
 ||sporligtv*.live/close.png$image
 ||sporligtv*.live/superderbi.php$subdocument
 ||i.ibb.co/zb291mw/sporlig-logo.png$image
 ||https://sporligtv*.live/assets2/js/main.js
 ||https://l.getsitecontrol.com/5wv1e5mw.js
-
-||paigna.com^$popup
-||casinogirismobil.com^$popup
 
 ! 2023-04-29 https://diakov.net
 diakov.net##.my.col-lg-8.col-md-12 > center
@@ -262,41 +214,12 @@ dosya.tc##+js(nano-sib)
 ! 2023-06-16 https://snowfl.com
 snowfl.com##.container > div:nth-of-type(2)
 
-! 2023-06-29 https://tahminle*.xyz
-||tahminle*.xyz/view/theme/ultimate/img/1000x50-jokerbettv.gif$image
-||tahminle*.xyz/1000x50.gif$image
-||tahminle*.xyz/onwin.gif$image
-||tahminle*.xyz/pin.gif$image
-||tahminle*.xyz/betropol728x90.gif$image
-||tahminle*.xyz/tiktik.mp4$media,1p
-/^(www\.)?tahminle\d{3}\.xyz/##.ads-img
-/^(www\.)?tahminle\d{3}\.xyz/##.pageskin
-/^(www\.)?tahminle\d{3}\.xyz/##div.reklam-10
-/^(www\.)?tahminle\d{3}\.xyz/##.banneralanipc
-/^(www\.)?tahminle\d{3}\.xyz/##.reklam-6
-/^(www\.)?tahminle\d{3}\.xyz/##.banneralanii2
-/^(www\.)?tahminle\d{3}\.xyz/##.reklam-12
-/^(www\.)?tahminle\d{3}\.xyz/##.reklam-11
-/^(www\.)?tahminle\d{3}\.xyz/##.banneralanipcc2
-/^(www\.)?tahminle\d{3}\.xyz/##.banneralanipcc
-/^(www\.)?tahminle\d{3}\.xyz/##.banneralanii
-/^(www\.)?tahminle\d{3}\.xyz/##.show.sagUst.watermark
-/^(www\.)?tahminle\d{3}\.xyz/##div.reklam-3
-
-! 2023-07-04 https://*betnis.live
-/^\d{2}betnis\.live/##.hidden-sm.pageskin
-||*betnis.live/1000x50.gif$image
-||*betnis.live/view/theme/safir/img/betnis-tv-pageskin.png$image
-/^\d{2}betnis\.live/##.popup-overlay
-/^\d{2}betnis\.live/##.top-right.logo
-||*betnis.live/nis1.mp4$media,1p
-
 ! 2023-06-29 https://www.fanatik.com.tr
 www.fanatik.com.tr##.pageskin__inner
 www.fanatik.com.tr##.pageskin__holder--left.pageskin__holder
 www.fanatik.com.tr##.pageskin__holder--right.pageskin__holder
-||i.fanatik.com.tr/i/fanatik/75/770x0/64b1f79080a0323b289c2734$image
-||image.fanatik.com.tr/i/fanatik/75/770x0/65fc121d1b7a5e8e6d03bb40.jpg$image
+||fanatik.com.tr/i/fanatik/75/770x0/64b1f79080a0323b289c2734$image
+||fanatik.com.tr/i/fanatik/75/770x0/65fc121d1b7a5e8e6d03bb40.jpg$image
 
 ! 2023-07-04 https://widget.streamsthunder.tv
 ||cdn.spo-play.live/sports/vplayer/sf3/$subdocument
@@ -319,6 +242,7 @@ xhofficial.com##.yld-pcno-ts-init.yld-pc.yld-pcplayer
 xhofficial.com##.bfc40-centered > .bfc40-close
 xhofficial.com##.yld-pc.yld-pcbottom-widget-section
 xhofficial.com##.yld-pcpremium-n-overlay
+xhofficial.com##._77df323d
 
 ! 2023-07-10 https://fap18.net
 fap18.net##.player-container > .banner-container
@@ -2605,6 +2529,13 @@ tcnobul.com##.page-header-ads
 /^www.canlitribun\d{3}\.top/##.header_r.clearfix
 /^www.canlitribun\d{3}\.top/##.adsense_yatay.mt10.clearfix
 /^www.canlitribun\d{3}\.top/##div#stream_holder > iframe#video_reklam
+
+! 6 Nis 2025 https://bosssports15.com
+bosssports15.com##.helpers > div.item
+bosssports15.com##.logo
+bosssports15.com##body > div:nth-of-type(2)
+bosssports15.com##+js(set, window.config.adv, {})
+
 
 
 
