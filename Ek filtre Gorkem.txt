@@ -833,11 +833,7 @@ fileforums.com##div:nth-of-type(2) > .tborder
 www.yasdl.com##.row.fixed-post.post
 www.yasdl.com##center
 
-! 2023-07-09 https://emb.apl254.me
-emb.apl254.me###ads
-emb.apl254.me###adbtm
-
-! 2023-07-09 https://www.rf-cheats.ru:81
+! 2023-07-09 https://www.rf-cheats.ru
 www.rf-cheats.ru##center:nth-of-type(2)
 www.rf-cheats.ru##.page > div > center
 www.rf-cheats.ru###posts > center
@@ -853,80 +849,21 @@ bloomberg.com###fortress-verification-container-root
 ! 2023-07-11 https://webextension.org
 webextension.org###adb
 
-! 2024-03-11 https://add0n.com
-add0n.com###adb
-
-! 2023-07-13 https://cracked.io
-cracked.io##.sidebars > .scaleimages
-cracked.io##.inner_stuff
-cracked.io###posts > div:nth-of-type(2)
-cracked.io###pjax-container > div:nth-of-type(4)
-
-! 2023-07-13 https://cloudpaste.net
-cloudpaste.net##main > .container
-cloudpaste.net##section#features.features > .container > .row > div.col-md-6.col-12
-
-! 2023-07-14 https://siberkalem.com
-siberkalem.com##.ai-viewport-1
-
 ! 2023-07-14 https://www.mynet.com
 www.mynet.com##.masthead-adv-type-sticky.adv-item-box.mb-3.text-center.col-12
 www.mynet.com##.taboola-ads-in-article
 www.mynet.com##.adv-taboola-in-article-full.adv-in-content.adv-box
 www.mynet.com##div.justify-content-between.d-flex.body-banner-block
-www.mynet.com##.notification-icon-box
-finans.mynet.com##.notification-icon-box
-www.mynet.com##.timeline-sticky-div
-finans.mynet.com##.timeline-sticky-div
-www.mynet.com##.tbl_reel.item.col-3.col
 
 ! 2023-07-14 https://www.dtunnel.net
 www.dtunnel.net###text-2
-www.dtunnel.net##p:nth-of-type(7)
-www.dtunnel.net##p:nth-of-type(5)
-www.dtunnel.net###post-1 > .entry-content > p:nth-of-type(2)
-
-! 2023-07-14 https://www.checkfresh.com
-www.checkfresh.com##.center.adsCLS.adsbygoogle
-
-! 2023-07-15 https://freevpn4you.net
-freevpn4you.net##.adsbygoogle
-freevpn4you.net##center:nth-of-type(1)
-freevpn4you.net##div:nth-of-type(7) > div > div:nth-of-type(4)
-freevpn4you.net##div:nth-of-type(7) > div > div:nth-of-type(1)
-freevpn4you.net##center:nth-of-type(2) > div
-freevpn4you.net##center:nth-of-type(3)
-
-! 2023-07-15 https://ipspeed.info
-ipspeed.info###bottom
-ipspeed.info##body > center > div:nth-of-type(4)
-ipspeed.info##div:nth-of-type(2) > div:nth-of-type(2)
-ipspeed.info##div:nth-of-type(2) > div:nth-of-type(3)
-ipspeed.info##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1)
-ipspeed.info##div:nth-of-type(302) > .adsbygoogle
-ipspeed.info##div:nth-of-type(303) > .adsbygoogle
-ipspeed.info##div:nth-of-type(301) > .adsbygoogle
-ipspeed.info##div:nth-of-type(300) > .adsbygoogle
-ipspeed.info##div:nth-of-type(81) > .adsbygoogle
-ipspeed.info##div:nth-of-type(80) > .adsbygoogle
-ipspeed.info##div:nth-of-type(79) > .adsbygoogle
-ipspeed.info##div:nth-of-type(253) > .adsbygoogle
-ipspeed.info##div:nth-of-type(255) > .adsbygoogle
-ipspeed.info##div:nth-of-type(254) > .adsbygoogle
-ipspeed.info##div:nth-of-type(87) > .adsbygoogle
-ipspeed.info##div:nth-of-type(86) > .adsbygoogle
-ipspeed.info##div:nth-of-type(85) > .adsbygoogle
+www.dtunnel.net##.adsbygoogle
+||www.gstatic.com/firebasejs/9.10.0/firebase-messaging.js$script,domain=www.dtunnel.net
 
 ! 2023-07-14 https://www.freeopenvpn.org
-www.freeopenvpn.org##center:nth-of-type(3) > div > div:nth-of-type(3)
-www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(1)
-www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(3)
 www.freeopenvpn.org##center:nth-of-type(3) > div > div:nth-of-type(2)
-www.freeopenvpn.org##body > center:nth-of-type(1)
-www.freeopenvpn.org##center:nth-of-type(6) > div
-www.freeopenvpn.org##center > div > .adsbygoogle
-www.freeopenvpn.org##div:nth-of-type(4) > .adsbygoogle
-www.freeopenvpn.org##div:nth-of-type(2) > .adsbygoogle
+www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(3)
+www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(1)
 
 ! 2023-07-15 https://giveaway.su
 giveaway.su##.definetelynotanad
@@ -993,9 +930,9 @@ disk.yandex.com.tr#@#.content_ads
 /^amarabettv\d{1}\.com/##.footer-links
 
 ! 2023-12-15 https://izlemac*.sbs
-/^izlemac\d{4}\.sbs/##.x-embed-link
+/^izlemac\d{4}\.sbs/##.x-ed-link
 /^izlemac\d{4}\.sbs/##.lazy-loaded.mw100
-/^izlemac\d{3}\.sbs/##.x-embed-link
+/^izlemac\d{3}\.sbs/##.x-ed-link
 /^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
 
 ! 2023-09-12 https://dlfox.com
