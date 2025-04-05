@@ -902,7 +902,7 @@ ipspeed.info###bottom
 ipspeed.info##body > center > div:nth-of-type(4)
 ipspeed.info##div:nth-of-type(2) > div:nth-of-type(2)
 ipspeed.info##div:nth-of-type(2) > div:nth-of-type(3)
-ipspeed.info##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1)
+ipspeed.info##div:nth-of-type(6) > div:nth-of-type(2)
 ipspeed.info##div:nth-of-type(302) > .adsbygoogle
 ipspeed.info##div:nth-of-type(303) > .adsbygoogle
 ipspeed.info##div:nth-of-type(301) > .adsbygoogle
@@ -919,6 +919,9 @@ ipspeed.info##div:nth-of-type(85) > .adsbygoogle
 
 ! 2023-07-14 https://www.freeopenvpn.org
 www.freeopenvpn.org##center:nth-of-type(3) > div > div:nth-of-type(3)
+www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(1)
+www.freeopenvpn.org##center:nth-of-type(4) > div > div:nth-of-type(3)
+www.freeopenvpn.org##center:nth-of-type(3) > div > div:nth-of-type(2)
 www.freeopenvpn.org##body > center:nth-of-type(1)
 www.freeopenvpn.org##center:nth-of-type(6) > div
 www.freeopenvpn.org##center > div > .adsbygoogle
@@ -929,19 +932,19 @@ www.freeopenvpn.org##div:nth-of-type(2) > .adsbygoogle
 giveaway.su##.definetelynotanad
 
 ! 2023-07-20 https://box.hitplayer.ru
-box.hitplayer.ru###billboard
+box.hitplayer.ru###billboard_mob
 box.hitplayer.ru###DesktopInread
-||gsimvqfghc.com/v2/185505/1ced0ffa1b944efc052eb6a2b32cf77b89503aac.js$script,domain=box.hitplayer.ru
+||gsimvqfghc.com/v2/185505/1ced0ffa1b944efc052eb6a2b32cf77b89503aac.js$script
 
 ! 2023-07-20 https://z3.fm
-||covivado.club/vast/*$popup,domain=z3.fm
+||z3.fm/cnPlay.js$script
 
 ! 2023-07-20 https://mp3.big.az
 ||code.ainsyndication.com/v2/show.php$subdocument
 ||unvan.az/reklamexport_global.php$subdocument
 mp3.big.az###header
 mp3.big.az##.blockreklam
-mp3.big.az##img.banner5
+mp3.big.az##.banner5
 
 ! 2023-07-26 https://frankfurt1.cfd
 ||frankfurt1.cfd/discordkatil.png$image
@@ -966,22 +969,22 @@ disk.yandex.com.tr#@#.content_ads
 /^\d{3}betnis\.online/##.nomobile.hidden-md.pageskin
 /^\d{3}betnis\.online/##[href="https://shrt.vip/betnis"]
 /^\d{3}betnis\.online/##[href="http://shrt.vip/32"]
-*betnis.online/nis1.mp4$media,1p
-||*betnis.online/1000x50.gif$image
 /^\d{3}betnis\.online/##.top-right.logo
 /^\d{3}betnis\.online/##.mt-3
 /^\d{3}betnis\.online/##.hidden-sm.pageskin
 /^\d{3}betnis\.online/###wrapper > div:nth-of-type(1)
 /^\d{3}betnis\.online/##.main > div:nth-of-type(2)
+*betnis.online/nis1.mp4$media,1p
+||*betnis.online/1000x50.gif$image
 
 ! 2023-09-08 https://www.canlimacizlemax*.top
 /^www.canlimacizlemax\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
-@@||www.canlimacizlemax*.top/cdn/advert.js$xhr
-||www.canlimacizlemax*.top/cdn/r/video_reklam.html$subdocument
 /^www.canlimacizlemax\d{3}\.top/##.jw-reset.jw-logo-top-right.jw-logo
 /^www.canlimacizlemax\d{3}\.top/##.mt10
 /^www.canlimacizlemax\d{3}\.top/##.header_r
 /^www.canlimacizlemax\d{3}\.top/##.iframe_728
+@@||www.canlimacizlemax*.top/cdn/advert.js$xhr
+||www.canlimacizlemax*.top/cdn/r/video_reklam.html$subdocument
 
 ! 2023-09-10 https://amarabettv*.com
 /^amarabettv\d{1}\.com/##.show.sagAlt.watermark
@@ -995,7 +998,7 @@ disk.yandex.com.tr#@#.content_ads
 /^izlemac\d{3}\.sbs/##.x-embed-link
 /^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
 
-! 2023-09-12 https://www.dlfox.com
+! 2023-09-12 https://dlfox.com
 /^(www\.)?dlfox.com/##[href^="https://srzmfile.ir/cheats/"]
 /^(www\.)?dlfox.com/##.WK_ads.c-sections
 /^(www\.)?dlfox.com/##.ads_area_small_banner.container
@@ -1003,6 +1006,7 @@ disk.yandex.com.tr#@#.content_ads
 /^(www\.)?dlfox.com/##.single_post_banner
 /^(www\.)?dlfox.com/##.widget_block.widget
 /^(www\.)?dlfox.com/###custom_html-2
+/^(www\.)?dlfox.com/###custom_html-1
 /^(www\.)?dlfox.com/##[href] > .litespeed-loaded.entered.aligncenter
 /^(www\.)?dlfox.com/##.single_post_small_banner
 /^(www\.)?dlfox.com/##div.ADS_wrapper.widget_wrapper
