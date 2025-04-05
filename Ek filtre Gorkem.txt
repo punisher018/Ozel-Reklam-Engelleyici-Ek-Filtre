@@ -996,17 +996,17 @@ disk.yandex.com.tr#@#.content_ads
 /^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
 
 ! 2023-09-12 https://www.dlfox.com
-www.dlfox.com##[href^="https://srzmfile.ir/cheats/"]
-www.dlfox.com##.WK_ads.c-sections
-www.dlfox.com##.ads_area_small_banner.container
-www.dlfox.com##.home_mid_ads
-www.dlfox.com##.single_post_banner
-||popupdl.ir/po/pup.php$script,domain=www.dlfox.com
-www.dlfox.com##.widget_block.widget
-www.dlfox.com###custom_html-2
-www.dlfox.com##[href] > .litespeed-loaded.entered.aligncenter
-www.dlfox.com##.single_post_small_banner
-www.dlfox.com##div.ADS_wrapper.widget_wrapper
+/^(www\.)?dlfox.com/##[href^="https://srzmfile.ir/cheats/"]
+/^(www\.)?dlfox.com/##.WK_ads.c-sections
+/^(www\.)?dlfox.com/##.ads_area_small_banner.container
+/^(www\.)?dlfox.com/##.home_mid_ads
+/^(www\.)?dlfox.com/##.single_post_banner
+/^(www\.)?dlfox.com/##.widget_block.widget
+/^(www\.)?dlfox.com/###custom_html-2
+/^(www\.)?dlfox.com/##[href] > .litespeed-loaded.entered.aligncenter
+/^(www\.)?dlfox.com/##.single_post_small_banner
+/^(www\.)?dlfox.com/##div.ADS_wrapper.widget_wrapper
+||popupdl.ir/po/pup.php$script,domain=/^(www\.)?dlfox.com/
 
 ! 2023-09-16 https://istanbulcasinotv*.com
 /^(www\.)?istanbulcasinotv\d{2}\.com/##.pageskin
@@ -1018,7 +1018,7 @@ www.dlfox.com##div.ADS_wrapper.widget_wrapper
 ! 2023-09-21 https://levabettv*.com
 /^levabettv\d{2}\.com/##.show.sagAlt.watermark
 /^levabettv\d{2}\.com/##.footer-links
-/^levabettv\d{2}\.com/##div.odds-container.Hokeyi.Buz
+/^levabettv\d{2}\.com/##div.odds-container
 /^levabettv\d{2}\.com/##.player_logo
 /^levabettv\d{2}\.com/##[href="http://leva.fun/tv"]
 
@@ -1040,9 +1040,9 @@ www.dinamotv103.com##.player_logo
 /^(www\.)?jestyayin\d{3}\.com/###vm_push
 /^(www\.)?jestyayin\d{3}\.com/##+js(set, config.adv, {})
 /^(www\.)?jestyayin\d{3}\.com/##.container > div:nth-of-type(2)
-||jestyayin*.com/1000x50.gif$image
 /^(www\.)?jestyayin\d{3}\.com/##.footer-links
 /^(www\.)?jestyayin\d{3}\.com/##ul
+||jestyayin*.com/1000x50.gif$image
 ||cdsnnt.pages.dev/t244.png$image
 
 ! 2023-10-01 https://rotabettv*.com
@@ -1056,11 +1056,6 @@ www.dinamotv103.com##.player_logo
 /^forvettv\d{3}\.site/##.only-desktop.footer-links
 /^forvettv\d{3}\.site/##ul
 ||forvettv*.site/wp-content/uploads/2023/09/1*$image
-
-! 2023-10-02 https://www.topsporter.net
-www.topsporter.net##.aoa_overlay
-www.topsporter.net##.widget-body
-www.topsporter.net##div.mb-3.bg-light.card
 
 ! 2023-10-04 https://tulipbettv*.com
 /^tulipbettv\d{3}\.com/##.show.sagUst.watermark
@@ -1115,59 +1110,7 @@ bestreamsports.org###dismiss-btn
 /^www.justintvizle\d{3}\.top/##+js(nowoif)
 /^www.justintvizle\d{3}\.top/###video_reklam
 
-! 2023-10-13 https://freehdgames.xyz
-||uvpjmtajkkx.com^$script
-||mvqlsrakwp.com^$script
-||pvtypsgueyqey.com^$script
-||rhswppluamrd.com^$script
-||lkuidhxruvg.com^$script
-||sxujfrzjmnb.com^$script
-||gxikmksjuz.com^$script
-||vmsmshzwgc.com^$script
-||eryalnpdfhg.com^$script
-||amqfjkhzn.com^$script
-||lhcarjkf.com^$script
-||zxrcaetqipylb.com^$script
-||ezonlwiyhv.com^$script
-||zejhnptr.com^$script
-||pavbnjrpr.com^$script
-||lowdrilicvoq.com^$script
-||ipoxqyvspfdkhl.com^$script
-||rwghkbagglg.com^$script
-||pncazpaga.com^$script
-||jyriqjbsyfwze.com^$script
-||fqyeusvsdwf.com^$script
-||aofppecbmordq.com^$script
-||rldfgcehgh.com^$script
-||kktxgytr.com^$script
-||jfjlfah.com^$script
-||1484001647.rsc.cdn77.org^$script
-||edkgdruoreys.com^$script
-||ospfwvhc.com^$script
-||vdkfccicfehdrz.com^$script
-||brdhbgcp.com^$script
-||xtvrgxbiteit.xyz^$xhr
-||jsukefgwjvbsue.com^$xhr
-||vzqbvzlknwld.com^$script
-||ixvnltcupm.com^$script
-||rgjlpgkzagf.com^$script
-||jggvkisg.com^$script
-||ozihechzlcsgs.com^$script
-||rwwoqcjefc.com^$script
-||jzbvpyvhus.com^$script
-||fgkoxeqjpal.com^$script
-||mgdbtjwc.com^$script
-||zfxtodsxtmw.com^$script
-||rqctubqtcbgeug.com^$script
-||rxatodtvt.com^$script
-||ujnpavwewdvcttn.com^$xhr
-||apytbfdzy.com^$script
-||pcdgninekvch.com^$script
-||omgrdrodobidu.com^$script
-||pqulqqpmx.com^$script
-||www.fpiljsxrchc.com^$script
-||qa.usninicsooey.com^$script
-||mndlaifijmlkw.com^$xhr
+||apytbfdzy.com^$all
 
 ! 2023-10-13 https://dizimia4.com
 dizimia4.com###psContainer
@@ -1216,7 +1159,6 @@ filerweb.com##+js(nano-sib)
 ! 2023-11-09 https://www.yourlifeupdated.net
 www.yourlifeupdated.net##div[class^=eadv-]
 
-! 2023-11-10 https://en.skubonet.com
 ||cdn.madservs.com/storage/uploads/1_1662620290642.png$image
 
 ! 2023-11-12 https://joybet*.cam
@@ -1297,13 +1239,6 @@ b5yucast.com##img
 
 ! 2023-12-02 https://ggsport.tv
 ggsport.tv##.z-50.bottom-15.right-1.absolute.flex-row-center.contain-upgrade.h-5.px-1.lg\:visible.invisible.w-max
-
-! 2023-12-02 https://www.atomsportv*.site
-/^www.atomsportv\d{3}\.site/##.desktop.playerbottom.volestream-gorsel
-/^www.atomsportv\d{3}\.site/##.desktop.playertop.volestream-gorsel
-/^www.atomsportv\d{3}\.site/##.show.sagAlt.watermark
-/^www.atomsportv\d{3}\.site/##.footer-sticky
-/^www.atomsportv\d{3}\.site/##.odds-container
 
 ! 2023-12-02 https://mgviagrtoomuch.com
 mgviagrtoomuch.com##marquee
@@ -1500,9 +1435,6 @@ fatihaltayli.com.tr###tdi_21
 ! 2024-01-13 https://sandalca.club
 sandalca.club##.button-red
 
-! 2024-01-13 https://hdtaraftartvplayer20.blogspot.com
-hdtaraftartvplayer20.blogspot.com##[href="https://twitter.com/hdtaraftartv4k2"]
-
 ! 2024-01-14 https://hackforums.net
 hackforums.net##.mam-header
 hackforums.net##.mam-footer
@@ -1510,8 +1442,6 @@ hackforums.net##.scaleimages.mam-inline
 
 ! 2024-01-15 https://premiumdownloader.net
 premiumdownloader.net##.section
-
-www.merlininkazani.com#@#.author-share
 
 ! 2024-01-16 https://www.bilgiportal.com
 www.bilgiportal.com##.d-md-block.d-none.col-md-3
@@ -1602,6 +1532,11 @@ totalsportek.pro##.addclass
 ! 2024-02-23 https://widget.streamthunder.org
 widget.streamthunder.org##.fkwrap
 
+! 2023-10-02 https://www.topsporter.net
+www.topsporter.net##.aoa_overlay
+www.topsporter.net##.widget-body
+www.topsporter.net##div.mb-3.bg-light.card
+
 ! 2024-02-17 https://www.sportshub.to
 www.sportshub.to##.clappr-watermark
 www.sportshub.to##div.mb-3.bg-light.card
@@ -1658,10 +1593,6 @@ bitmovin.com##.bmpui-ui-watermark
 /^macizlevip\d{2}\.shop/##.lazy-loaded.mw100
 /^macizlevip\d{2}\.shop/##.lazy-hidden.mw100
 /^macizlevip\d{2}\.shop/##.x-embed-link
-
-! 2024-02-23 https://hd.*limitsizmac.com
-/^hd.\d{2}\limitsizmac.com/##.pageskin
-/^hd.\d{2}\limitsizmac.com/##.show.solAlt.watermark
 
 ! 2024-02-23 https://canlibeinizle*.com
 /^canlibeinizle\d{3}\.com/##[href="https://bit.ly/BeinDiyarbet"]
