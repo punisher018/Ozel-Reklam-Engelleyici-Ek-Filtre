@@ -902,7 +902,7 @@ ipspeed.info###bottom
 ipspeed.info##body > center > div:nth-of-type(4)
 ipspeed.info##div:nth-of-type(2) > div:nth-of-type(2)
 ipspeed.info##div:nth-of-type(2) > div:nth-of-type(3)
-ipspeed.info##div:nth-of-type(6) > div:nth-of-type(2)
+ipspeed.info##div:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1)
 ipspeed.info##div:nth-of-type(302) > .adsbygoogle
 ipspeed.info##div:nth-of-type(303) > .adsbygoogle
 ipspeed.info##div:nth-of-type(301) > .adsbygoogle
