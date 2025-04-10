@@ -752,6 +752,8 @@ www.mynet.com##.taboola-ads-in-article
 www.mynet.com##.adv-taboola-in-article-full.adv-in-content.adv-box
 www.mynet.com##div.justify-content-between.d-flex.body-banner-block
 www.mynet.com##.mb-3.membrana-video.card
+mynet.com##.mb-20px.membrana-video
+mynet.com##.item-box.podcast-item
 
 ! 2023-07-14 https://www.dtunnel.net
 www.dtunnel.net###text-2
@@ -830,6 +832,8 @@ disk.yandex.com.tr#@#.content_ads
 ! 2023-12-15 https://izlemac*.sbs
 /^izlemac\d{4}\.sbs/##.x-ed-link
 /^izlemac\d{4}\.sbs/##.lazy-loaded.mw100
+/^izlemac\d{4}\.sbs/##+js(set, window.config.advertisement, {})
+/^izlemac\d{4}\.sbs/##.clappr-watermark
 /^izlemac\d{3}\.sbs/##.x-ed-link
 /^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
 
@@ -1063,6 +1067,7 @@ b5yucast.com##img
 /^golvar\d{4}\.sbs/##ul
 /^golvar\d{4}\.sbs/##.only-desktop.footer-links
 /^golvar\d{4}\.sbs/##.smallscreen.stream-ads
+/^golvar\d{4}\.sbs/##.fullscreen.stream-ads
 /^golvar\d{3}\.sbs/##.vdldl
 /^golvar\d{3}\.sbs/##.show.sagUst.watermark
 /^golvar\d{3}\.sbs/##.pageskin
