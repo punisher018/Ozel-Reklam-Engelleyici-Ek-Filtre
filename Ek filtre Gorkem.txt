@@ -2535,11 +2535,11 @@ tcnobul.com##.page-header-ads
 /^www.canlitribun\d{3}\.top/##.adsense_yatay.mt10.clearfix
 /^www.canlitribun\d{3}\.top/##div#stream_holder > iframe#video_reklam
 
-! 6 Nis 2025 https://bosssports15.com
-bosssports15.com##.helpers > div.item
-bosssports15.com##.logo
-bosssports15.com##body > div:nth-of-type(2)
-bosssports15.com##+js(set, window.config.adv, {})
+! 6 Nis 2025 https://bosssports*.com
+/^bosssports\d{2}\.com/##.helpers > div.item
+/^bosssports\d{2}\.com/##.logo
+/^bosssports\d{2}\.com/##body > div:nth-of-type(2)
+/^bosssports\d{2}\.com/##+js(set, window.config.adv, {})
 
 
 
