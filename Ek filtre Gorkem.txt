@@ -830,11 +830,10 @@ disk.yandex.com.tr#@#.content_ads
 /^amarabettv\d{1}\.com/##.footer-links
 
 ! 2023-12-15 https://izlemac*.sbs
-/^izlemac\d{4}\.sbs/##.x-ed-link
 /^izlemac\d{4}\.sbs/##.lazy-loaded.mw100
 /^izlemac\d{4}\.sbs/##+js(set, window.config.advertisement, {})
 /^izlemac\d{4}\.sbs/##.clappr-watermark
-/^izlemac\d{3}\.sbs/##.x-ed-link
+/^izlemac\d{4}\.sbs/##.x-embed-link
 /^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
 
 ! 2023-09-12 https://dlfox.com
@@ -1159,9 +1158,12 @@ francoischarron.com###cookie-popup
 /^goblintvizle\d{3}\.live/##.img-responsive
 
 ! 2023-12-14 https://www.canlimaclar*.sbs
-/^www.canlimaclar\d{4}\.sbs/##.x-embed-link
-/^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
 /^www.canlimaclar\d{3}\.sbs/##.lazy-loaded.mw100
+/^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
+/^www.canlimaclar\d{4}\.sbs/##.x-embed-link
+/^www.canlimaclar\d{4}\.sbs/##.clappr-watermark
+/^www.canlimaclar\d{4}\.sbs/##+js(set, config.advertisement, {})
+||video.twimg.com/ext_tw_video/1787534785050513408/pu/$xhr
 
 ! 2023-12-14 https://matadorbettv*.com
 /^matadorbettv\d{2}\.com/##[href="https://cutt.ly/V7egAT5"]
@@ -1262,6 +1264,8 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{3}\.xyz/##a[href^="https://cutt.ly/"]
 /^(www\.)?inattv\d{3}\.xyz/##a[href^="https://lotobetyon.xyz/tr"]
 /^(www\.)?inattv\d{3}\.xyz/##.container > div:nth-of-type(2)
+/^(www\.)?inattv\d{3}\.xyz/##.hellobar
+/^(www\.)?inattv\d{3}\.xyz/##.rnd-qwert
 ||blogger.googleusercontent.com/img/*/bahsegel.png$image
 
 ! 23 Eki 2024 https://inattvgiris.pro
