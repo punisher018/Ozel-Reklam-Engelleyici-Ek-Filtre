@@ -1630,14 +1630,13 @@ www.colaker.net##.code-block-4.code-block
 ! 2024-04-18 https://shiftdelete.net
 shiftdelete.net##.widget_custom_html.widget.widget_text
 
-! 2024-04-22 https://lorabettv*.shop
-/^lorabettv\d{3}\.shop/##.clappr-watermark
-/^lorabettv\d{3}\.shop/##[href="https://bit.ly/3Z5yVhU"]
-/^lorabettv\d{3}\.shop/###modalPop
-/^lorabettv\d{3}\.shop/##.show.fade.modal-backdrop
-/^lorabettv\d{3}\.shop/##body > div:nth-of-type(2)
-/^lorabettv\d{3}\.shop/##+js(nowoif)
-||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^lorabettv\d{3}\.shop/
+! 7 Mar 2025 https://lorabettvhd*.shop
+/^lorabettvhd\d{3}\.shop/###modalPop
+/^lorabettvhd\d{3}\.shop/##body > div:nth-of-type(2)
+/^lorabettvhd\d{3}\.shop/##.clappr-watermark
+/^lorabettvhd\d{3}\.shop/##.show.fade.modal-backdrop
+/^lorabettvhd\d{3}\.shop/##.modal-open:style(overflow: auto !important)
+/^lorabettvhd\d{3}\.shop/##+js(nowoif)
 
 ! 2024-04-23 https://muzyet.com
 ||m.killtarget.biz/$script
