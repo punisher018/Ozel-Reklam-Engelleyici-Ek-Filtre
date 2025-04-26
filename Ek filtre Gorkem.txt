@@ -31,8 +31,8 @@ cloud.mail.ru##.js-public-height.Public-desktop__rightCol--vLyHP
 cloud.mail.ru##.DataListItemThumb__pinLeftTooltip--3xX2b.Tip__tipPopup--2O2Bw.visible.transition.popup.flowing.large.center.top.ui
 cloud.mail.ru##.FloatingTooltip__content--2mnl2
 cloud.mail.ru##.FloatingTooltip__arrow--2on1s
-cloud.mail.ru##.FloatingTooltip__arrow--2on1s > svg > path
 cloud.mail.ru##.ReactViewer__bottominfoWrapper_new--1M1t3.ReactViewer__bottominfoWrapper--1DNwD
+cloud.mail.ru##.Folder__wormWrapper--25Lgs
 
 ! 2024-03-01 https://mail.ru
 mail.ru##.qdfpnma__1pidajk.tgb-wrapper
@@ -134,6 +134,10 @@ www.softexia.com###top-line
 /^(www\.)?trgoals\d{4}\.xyz/##marquee
 /^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
 /^(www\.)?trgoals\d{4}\.xyz/###duyuru1
+/^(www\.)?trgoals\d{4}\.xyz/##.ads-container
+/^(www\.)?trgoals\d{4}\.xyz/##.hellobar
+/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(6)
+/^(www\.)?trgoals\d{4}\.xyz/##.rnd-qwert
 ||theonecdn.com/script/suv4.js
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/restbetlogo.png$image
@@ -923,8 +927,8 @@ www.dinamotv103.com##.player_logo
 /^tipobettv\d{3}\.com/##.reklam-3
 
 ! 2023-10-05 https://dizipal*.com
-/^dizipal\d{3}\.com/##.ads_single_font
-/^dizipal\d{3}\.com/##.mb-2.mt-4.gap-4.flex-col.flex.px-5
+/^dizipal\d{4}\.com/##.fixed-footer
+/^dizipal\d{4}\.com/##.ads_single_font
 
 ! 2023-10-05 https://www.nerotv*.com
 /^(www\.)?nerotv\d{2}\.com/##.test
@@ -1266,6 +1270,7 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{4}\.xyz/##.container > div:nth-of-type(2)
 /^(www\.)?inattv\d{4}\.xyz/##.hellobar
 /^(www\.)?inattv\d{4}\.xyz/##.rnd-qwert
+/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(6)
 ||blogger.googleusercontent.com/img/*/bahsegel.png$image
 
 ! 23 Eki 2024 https://inattvgiris.pro
