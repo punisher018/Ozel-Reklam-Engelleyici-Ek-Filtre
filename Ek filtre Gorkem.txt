@@ -816,8 +816,7 @@ disk.yandex.com.tr#@#.content_ads
 /^\d{3}betnis\.online/##.hidden-sm.pageskin
 /^\d{3}betnis\.online/###wrapper > div:nth-of-type(1)
 /^\d{3}betnis\.online/##.main > div:nth-of-type(2)
-*betnis.online/nis1.mp4$media,1p
-||*betnis.online/1000x50.gif$image
+/^\d{3}betnis\.online/##.reklam-2
 
 ! 2023-09-08 https://www.canlimacizlemax*.top
 /^www.canlimacizlemax\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
@@ -1065,19 +1064,14 @@ b5yucast.com##img
 
 ! 2023-11-30 https://golvar*.sbs
 ||golvar*.sbs/wp-content/uploads/2023/09/*$image
-/^golvar\d{4}\.sbs/##.pageskin
-/^golvar\d{4}\.sbs/##.vdldl
-/^golvar\d{4}\.sbs/##.show.sagUst.watermark
-/^golvar\d{4}\.sbs/##ul
-/^golvar\d{4}\.sbs/##.only-desktop.footer-links
-/^golvar\d{4}\.sbs/##.smallscreen.stream-ads
-/^golvar\d{4}\.sbs/##.fullscreen.stream-ads
-/^golvar\d{3}\.sbs/##.vdldl
-/^golvar\d{3}\.sbs/##.show.sagUst.watermark
-/^golvar\d{3}\.sbs/##.pageskin
-/^golvar\d{3}\.sbs/##ul
-/^golvar\d{3}\.sbs/##.only-desktop.footer-links
-||video.twimg.com/ext_tw_video/1779899489639120896/pu/$xhr,domain=/^golvar\d{3}\.sbs/|/^golvar\d{4}\.sbs/
+/^golvar\d{3,4}\.sbs/##.pageskin
+/^golvar\d{3,4}\.sbs/##.vdldl
+/^golvar\d{3,4}\.sbs/##.show.sagUst.watermark
+/^golvar\d{3,4}\.sbs/##ul
+/^golvar\d{3,4}\.sbs/##.only-desktop.footer-links
+/^golvar\d{3,4}\.sbs/##.smallscreen.stream-ads
+/^golvar\d{3,4}\.sbs/##.fullscreen.stream-ads
+||video.twimg.com/ext_tw_video/1779899489639120896/pu/$xhr,domain=/^golvar\d{3,4}\.sbs/
 
 ! 2023-12-02 https://hiltonbettv*.com
 /^hiltonbettv\d{3}\.com/##.show.sagUst.watermark
@@ -1363,9 +1357,8 @@ channel4kanal11.blogspot.com##marquee
 ||www.blogger.com/static/v1/jsbin/671481879-analytics_autotrack.js$script
 
 ! 2024-02-15 https://mactanmaca*.shop
-/^mactanmaca\d{4}\.shop/##.lazy-loaded.mw100
+/^mactanmaca\d{3,4}\.shop/##.lazy-loaded.mw100
 /^mactanmaca\d{4}\.shop/##.x-embed-link
-/^mactanmaca\d{3}\.shop/##.lazy-loaded.mw100
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
@@ -1443,9 +1436,6 @@ bitmovin.com##.bmpui-ui-watermark
 /^macizlevip\d{4}\.shop/##.x-embed-link
 /^macizlevip\d{4}\.shop/##.siteAnnouncer.alert-success.alert
 /^macizlevip\d{4}\.shop/##.lazy-loaded.mw100
-/^macizlevip\d{2}\.shop/##.lazy-loaded.mw100
-/^macizlevip\d{2}\.shop/##.lazy-hidden.mw100
-/^macizlevip\d{2}\.shop/##.x-embed-link
 
 ! 2024-02-23 https://canlibeinizle*.com
 /^canlibeinizle\d{3}\.com/##[href="https://bit.ly/BeinDiyarbet"]
@@ -1494,10 +1484,11 @@ matbettv.com##.zqk-type-custom_code.zqk-container
 /^avrupabettv\d{4}\.com/##ul
 
 ! 2024-03-05 https://rekortv*.com
-/^rekortv\d{3}\.com/##.show.sagAlt.watermark
-/^rekortv\d{3}\.com/##.pageskin
-/^rekortv\d{3}\.com/##.only-desktop.footer-links
-/^rekortv\d{3}\.com/##ul
+/^rekortv\d{2,3}\.com/##.show.sagAlt.watermark
+/^rekortv\d{2,3}\.com/##.pageskin
+/^rekortv\d{2,3}\.com/##.only-desktop.footer-links
+/^rekortv\d{2,3}\.com/##ul
+@@||rekortv*.com/wp-content/uploads/2024/11/yeni-logo-web.png$image
 
 ! 2024-03-08 https://www.playmods.net
 playmods.net##.recommend
@@ -1698,6 +1689,7 @@ asyabox.com##+js(nowoif)
 /^\d{2}bayspintv\.live/##.footer-links
 /^\d{2}bayspintv\.live/##ul
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
+/^\d{2}bayspintv\.live/##.container > div:nth-of-type(2)
 
 ! 2024-04-28 https://*kalebettv.xyz
 /^\d{2}kalebettv\.xyz/##.video-before
@@ -1867,6 +1859,10 @@ tifihug.com##noindex
 ! 9 Haz 2024 https://milanobettv*.shop
 /^milanobettv\d{2}\.shop/##[href="http://rebrand.ly/MilanobetResmi"]
 /^milanobettv\d{2}\.shop/##+js(nowoif)
+/^milanobettv\d{2}\.shop/##body > div:nth-of-type(2)
+/^milanobettv\d{2}\.shop/##.clappr-watermark
+/^milanobettv\d{2}\.shop/##.img-responsive
+||milanobettv*.shop/Uploads/be64ae1cbfeb470c93cb5a968ee60754_e55b4ac0ce2c415d97a91fb4053497dd_bckg.jpg$image
 
 ! 9 Haz 2024 https://pulitv*.live
 /^pulitv\d{2}\.live/##.show.sagAlt.watermark
@@ -1884,6 +1880,7 @@ tifihug.com##noindex
 ||betist*tv.live/Uploads/8082005b997a420395aead93f4504e87_pageskin.jpg$image
 /^betist\d{3}tv\.live/##.footer-links
 /^betist\d{3}tv\.live/##ul
+/^betist\d{3}tv\.live/##.container > div:nth-of-type(2)
 
 ! 9 Haz 2024 https://rekatv*.com
 /^rekatv\d{2}\.com/##.popup-overlay
@@ -1895,11 +1892,11 @@ tifihug.com##noindex
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
 
-! 9 Haz 2024 https://zibilyontv*.com
-||zibilyontv*.com/1000x50-1.gif$image
-/^zibilyontv\d{2}\.com/##.top-right.logo
-/^zibilyontv\d{2}\.com/##.mt-3
-/^zibilyontv\d{2}\.com/##.nomobile
+! 4 May 2025 https://zibilyontv.live
+zibilyontv.live##.hidden-sm.pageskin
+zibilyontv.live##.mt-3
+zibilyontv.live##.top-right.logo
+||zibilyontv.live/view/theme/safir/img/zibilyongif.gif$image
 
 ! 9 Haz 2024 https://gizatv*.live
 /^gizatv\d{2}\.live/##.show.sagAlt.watermark
@@ -2472,6 +2469,7 @@ watchsportnow.com##.popup-player.view-match-media-wrapper
 
 ! 2 Kas 2024 https://yakatv*.live
 ||yakatv*.live/view/theme/safir/img/yakabito.jpg$image
+||yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
 ||yakatv*.live/view/theme/safir/img/yakabito.jpg$xhr
 ||yakatv*.live/view/theme/safir/img/1679913050_1000x50.gif
 /^yakatv\d{1}\.live/##.nomobile
