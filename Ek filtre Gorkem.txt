@@ -137,6 +137,7 @@ www.softexia.com###top-line
 /^(www\.)?trgoals\d{4}\.xyz/##.ads-container
 /^(www\.)?trgoals\d{4}\.xyz/##.hellobar
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(6)
+/^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(7)
 /^(www\.)?trgoals\d{4}\.xyz/##.rnd-qwert
 ||theonecdn.com/script/suv4.js
 ||cdn-dfj.pages.dev/ligobetlogo.png$image
@@ -1162,11 +1163,10 @@ francoischarron.com###cookie-popup
 /^goblintvizle\d{3}\.live/##.img-responsive
 
 ! 2023-12-14 https://www.canlimaclar*.sbs
-/^www.canlimaclar\d{3}\.sbs/##.lazy-loaded.mw100
-/^www.canlimaclar\d{4}\.sbs/##.lazy-loaded.mw100
-/^www.canlimaclar\d{4}\.sbs/##.x-embed-link
-/^www.canlimaclar\d{4}\.sbs/##.clappr-watermark
-/^www.canlimaclar\d{4}\.sbs/##+js(set, config.advertisement, {})
+/^www.canlimaclar\d{3,4}\.sbs/##.lazy-loaded.mw100
+/^www.canlimaclar\d{3,4}\.sbs/##.x-embed-link
+/^www.canlimaclar\d{3,4}\.sbs/##.clappr-watermark
+/^www.canlimaclar\d{3,4}\.sbs/##+js(set, config.advertisement, {})
 ||video.twimg.com/ext_tw_video/1787534785050513408/pu/$xhr
 
 ! 2023-12-14 https://matadorbettv*.com
@@ -1190,9 +1190,9 @@ uploady.io##.adsbypubpower
 tazz.tv##.w-\[15vw\].min-w-max.p-3.rounded-lg.to-violetOpacity2.via-violetOpacity1.from-violetOpacity2.bg-gradient-to-r.items-center.flex.bottom-20.right-0.absolute.ease.duration-200
 
 ! 2023-12-23 https://www.mackeyfi*.sbs
-/^www.mackeyfi\d{4}\.sbs/##.x-embed-link
-/^www.mackeyfi\d{4}\.sbs/##.lazy-loaded.mw100
-/^www.mackeyfi\d{4}\.sbs/##+js(set, config.advertisement, {})
+/^www.mackeyfi\d{3,4}\.sbs/##.x-embed-link
+/^www.mackeyfi\d{3,4}\.sbs/##.lazy-loaded.mw100
+/^www.mackeyfi\d{3,4}\.sbs/##+js(set, config.advertisement, {})
 
 ! 2023-12-28 https://elithdyayin*.com
 /^(www\.)?elithdyayin\d{2}\.com/##.pageskin
@@ -1305,14 +1305,14 @@ www.cioupdate.com.tr##.stream-item-above-header.stream-item
 www.cioupdate.com.tr##.stream-item-top-wrapper.stream-item
 www.cioupdate.com.tr##.stream-item-below-header.stream-item
 
-! 2024-01-25 https://tarabettv*.shop
-/^tarabettv\d{3}\.shop/##[href="https://bit.ly/tarabettv"]
-/^tarabettv\d{3}\.shop/##+js(rmnt, script, doOpen)
-/^tarabettv\d{3}\.shop/###modalPop
-/^tarabettv\d{3}\.shop/##.show.fade.modal-backdrop
-/^tarabettv\d{3}\.shop/##.modal-open:style(overflow: auto !important)
-/^tarabettv\d{3}\.shop/##div.vertical-gap.row:nth-of-type(2)
-/^tarabettv\d{3}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+! 2024-01-25 https://tarahdtv*.shop
+/^tarahdtv\d{2}\.shop/##[href="https://bit.ly/tarabettv"]
+/^tarahdtv\d{2}\.shop/##+js(rmnt, script, doOpen)
+/^tarahdtv\d{2}\.shop/###modalPop
+/^tarahdtv\d{2}\.shop/##.show.fade.modal-backdrop
+/^tarahdtv\d{2}\.shop/##.modal-open:style(overflow: auto !important)
+/^tarahdtv\d{2}\.shop/##div.vertical-gap.row:nth-of-type(2)
+/^tarahdtv\d{2}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2024-01-28 https://pesktop.com
 pesktop.com##.uk-float-left.a728_90
@@ -1636,12 +1636,12 @@ www.colaker.net##.code-block-4.code-block
 shiftdelete.net##.widget_custom_html.widget.widget_text
 
 ! 7 Mar 2025 https://lorabettvhd*.shop
-/^lorabettvhd\d{3}\.shop/###modalPop
-/^lorabettvhd\d{3}\.shop/##body > div:nth-of-type(2)
-/^lorabettvhd\d{3}\.shop/##.clappr-watermark
-/^lorabettvhd\d{3}\.shop/##.show.fade.modal-backdrop
-/^lorabettvhd\d{3}\.shop/##.modal-open:style(overflow: auto !important)
-/^lorabettvhd\d{3}\.shop/##+js(nowoif)
+/^lorabettvhd\d{2,3}\.shop/###modalPop
+/^lorabettvhd\d{2,3}\.shop/##body > div:nth-of-type(2)
+/^lorabettvhd\d{2,3}\.shop/##.clappr-watermark
+/^lorabettvhd\d{2,3}\.shop/##.show.fade.modal-backdrop
+/^lorabettvhd\d{2,3}\.shop/##.modal-open:style(overflow: auto !important)
+/^lorabettvhd\d{2,3}\.shop/##+js(nowoif)
 
 ! 2024-04-23 https://muzyet.com
 ||m.killtarget.biz/$script
