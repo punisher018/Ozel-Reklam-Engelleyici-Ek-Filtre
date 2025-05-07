@@ -1881,13 +1881,6 @@ tifihug.com##noindex
 /^betist\d{3}tv\.live/##ul
 /^betist\d{3}tv\.live/##.container > div:nth-of-type(2)
 
-! 9 Haz 2024 https://rekatv*.com
-/^rekatv\d{2}\.com/##.popup-overlay
-||rekatv*.com/view/theme/safir/img/pageskin-rev-17.04.jpg$image
-||rekatv*.com/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
-||rekatv*.com/rekatv-gif-1.gif$image
-||rekatv*.com/rekagifff1b.gif$image
-
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
 
@@ -2107,9 +2100,11 @@ pichive.online###videoText
 ! 4 Ağu 2024 https://rekatv*.live
 /^rekatv\d{3}\.live/##.popup-overlay
 /^rekatv\d{3}\.live/##.mt-3
-||rekatv*.live/view/theme/safir/img/image_2024_06_14T17_02_50_916Z.png$image
-||rekatv*.live/rekagifff1b.gif$image
-||rekatv*.live/rekatv-gif-1.gif$image
+/^rekatv\d{3}\.live/#$#body { background-image: none !important; }
+/^rekatv\d{3}\.live/###wrapper > div:nth-of-type(1)
+/^rekatv\d{3}\.live/##.main > div:nth-of-type(2)
+/^rekatv\d{3}\.live/##.hm-row-bc
+/^rekatv\d{3}\.live/##.nav-content-bc
 
 ! 7 Ağu 2024 https://en12.sportplus.live
 en12.sportplus.live##.page__aside-banner
@@ -2461,10 +2456,10 @@ scobor.net###content_area
 watchsportnow.com##.popup-player.view-match-media-wrapper
 
 ! 10 Kas 2024 https://gizabettv*.xyz
-/^gizabettv\d{1}\.xyz/##ul
-/^gizabettv\d{1}\.xyz/##.odds-container
-/^gizabettv\d{1}\.xyz/##.footer-links
-/^gizabettv\d{1}\.xyz/##.show.sagAlt.watermark
+/^gizabettv\d{2}\.xyz/##ul
+/^gizabettv\d{2}\.xyz/##.odds-container
+/^gizabettv\d{2}\.xyz/##.footer-links
+/^gizabettv\d{2}\.xyz/##.show.sagAlt.watermark
 
 ! 2 Kas 2024 https://yakatv*.live
 ||yakatv*.live/view/theme/safir/img/yakabito.jpg$image
