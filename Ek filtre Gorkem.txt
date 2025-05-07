@@ -1357,7 +1357,7 @@ channel4kanal11.blogspot.com##marquee
 
 ! 2024-02-15 https://mactanmaca*.shop
 /^mactanmaca\d{3,4}\.shop/##.lazy-loaded.mw100
-/^mactanmaca\d{4}\.shop/##.x-embed-link
+/^mactanmaca\d{3,4}\.shop/##.x-embed-link
 
 ||i.ibb.co/s5YjMmG/photo-2022-03-22-20-51-36.jpg
 
@@ -1432,9 +1432,9 @@ www.evaki.fun###adblock-overlay
 bitmovin.com##.bmpui-ui-watermark
 
 ! 2024-02-22 https://macizlevip*.shop
-/^macizlevip\d{4}\.shop/##.x-embed-link
-/^macizlevip\d{4}\.shop/##.siteAnnouncer.alert-success.alert
-/^macizlevip\d{4}\.shop/##.lazy-loaded.mw100
+/^macizlevip\d{3,4}\.shop/##.x-embed-link
+/^macizlevip\d{3,4}\.shop/##.siteAnnouncer.alert-success.alert
+/^macizlevip\d{3,4}\.shop/##.lazy-loaded.mw100
 
 ! 2024-02-23 https://canlibeinizle*.com
 /^canlibeinizle\d{3}\.com/##[href="https://bit.ly/BeinDiyarbet"]
