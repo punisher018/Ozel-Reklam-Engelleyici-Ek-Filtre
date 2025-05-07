@@ -834,11 +834,10 @@ disk.yandex.com.tr#@#.content_ads
 /^amarabettv\d{1}\.com/##.footer-links
 
 ! 2023-12-15 https://izlemac*.sbs
-/^izlemac\d{4}\.sbs/##.lazy-loaded.mw100
-/^izlemac\d{4}\.sbs/##+js(set, window.config.advertisement, {})
-/^izlemac\d{4}\.sbs/##.clappr-watermark
-/^izlemac\d{4}\.sbs/##.x-embed-link
-/^izlemac\d{3}\.sbs/##.lazy-loaded.mw100
+/^izlemac\d{3,4}\.sbs/##.lazy-loaded.mw100
+/^izlemac\d{3,4}\.sbs/##+js(set, window.config.advertisement, {})
+/^izlemac\d{3,4}\.sbs/##.clappr-watermark
+/^izlemac\d{3,4}\.sbs/##.x-embed-link
 
 ! 2023-09-12 https://dlfox.com
 /^(www\.)?dlfox.com/##[href^="https://srzmfile.ir/cheats/"]
