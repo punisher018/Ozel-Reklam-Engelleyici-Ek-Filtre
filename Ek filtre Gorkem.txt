@@ -1903,10 +1903,10 @@ zibilyontv.live##.top-right.logo
 /^gizatv\d{2}\.live/##ul
 
 ! 9 Haz 2024 https://sultansportv*.com
-/^sultansportv\d{3}\.com/##.pageskin
-/^sultansportv\d{3}\.com/##.show.solAlt.watermark
-/^sultansportv\d{3}\.com/##.only-desktop.footer-links
-/^sultansportv\d{3}\.com/##ul
+/^sultansportv\d{3,4}\.com/##.pageskin
+/^sultansportv\d{3,4}\.com/##.show.solAlt.watermark
+/^sultansportv\d{3,4}\.com/##.only-desktop.footer-links
+/^sultansportv\d{3,4}\.com/##ul
 ||sultansportv*.com/wp-content/uploads/2024/05/*.jpg$image
 
 ! 9 Haz 2024 https://betpuantv*.com
