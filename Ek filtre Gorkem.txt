@@ -1017,11 +1017,11 @@ colonist.io##.in_game_ab_left
 colonist.io##.in_game_ab_right
 
 ! 2023-11-25 https://*setrabettv.com
-/^(www\.)?\d{2}setrabettv\.com/##.pageskin
-/^(www\.)?\d{2}setrabettv\.com/##[href="https://rebrand.ly/k4ywa4y"]
-/^(www\.)?\d{2}setrabettv\.com/##.show.sagUst.watermark
-/^(www\.)?\d{2}setrabettv\.com/##.playerbottom.ads
-/^(www\.)?\d{2}setrabettv\.com/##body:style(background-color: #000000 !important;)
+/^(www\.)?\d{3}setrabettv\.com/##.pageskin
+/^(www\.)?\d{3}setrabettv\.com/##[href="https://rebrand.ly/k4ywa4y"]
+/^(www\.)?\d{3}setrabettv\.com/##.show.sagUst.watermark
+/^(www\.)?\d{3}setrabettv\.com/##.playerbottom.ads
+/^(www\.)?\d{3}setrabettv\.com/##body:style(background-color: #000000 !important;)
 
 ! 2023-11-25 https://meritslottv*.com
 /^meritslottv\d{2}\.com/##.odds-container
