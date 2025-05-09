@@ -1680,9 +1680,9 @@ asyabox.com##+js(nowoif)
 /^oslobettv\d{3}\.com/##.odds-container
 
 ! 2024-04-28 https://vegabettv*.shop
-/^vegatv\d{1}\.shop/##[href^="https://vegabetortaklik.com/links/"]
-/^vegatv\d{1}\.shop/##.clappr-watermark
-/^vegatv\d{1}\.shop/##+js(nowoif)
+/^vegatv\d{2}\.shop/##[href^="https://vegabetortaklik.com/links/"]
+/^vegatv\d{2}\.shop/##.clappr-watermark
+/^vegatv\d{2}\.shop/##+js(nowoif)
 
 ! 2024-04-29 https://*bayspintv.live
 /^\d{2}bayspintv\.live/##.footer-links
