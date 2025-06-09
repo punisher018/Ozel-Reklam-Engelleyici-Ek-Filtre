@@ -987,8 +987,10 @@ my.mail.ru##.b-fourth-pseudo-column_inner.b-fourth-pseudo-column
 ! 2023-11-06 https://palacebettv*.com
 /^palacebettv\d{2}\.com/##.ads-img
 /^palacebettv\d{2}\.com/##.footer-links
-/^palacebettv\d{2}\.com/##ul
 /^palacebettv\d{2}\.com/##.odds-container
+/^palacebettv\d{2}\.com/##.header-top
+/^palacebettv\d{2}\.com/##.nav-menu
+/^palacebettv\d{2}\.com/###popup
 
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
