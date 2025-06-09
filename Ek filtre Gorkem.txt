@@ -1612,6 +1612,7 @@ filemoon.sx##.jw-reset.jw-logo-top-right.jw-logo
 /^\d{3}limitsizmac\.com/##.odds-container
 /^\d{3}limitsizmac\.com/##ul
 /^\d{3}limitsizmac\.com/##.footer-links
+/^\d{3}limitsizmac\.com/##.reklam-3
 
 ! 2024-04-18 https://www.colaker.net
 www.colaker.net##.code-block-1.code-block
