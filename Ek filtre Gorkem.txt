@@ -1265,6 +1265,8 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{4}\.xyz/##.rnd-qwert
 /^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(6)
 ||blogger.googleusercontent.com/img/*/bahsegel.png$image
+/^(www\.)?inattv\d{4}\.xyz/##a[href^="https://betboxaffi.com/"]
+/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(7)
 
 ! 23 Eki 2024 https://inattvgiris.pro
 inattvgiris.pro##a[href="https://cutt.ly/HeDtv9P7"]
