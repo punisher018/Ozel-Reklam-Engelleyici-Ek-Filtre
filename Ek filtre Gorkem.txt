@@ -2150,7 +2150,9 @@ gameavenue.co###custom_html-12
 
 ! 10 Ağu 2024 https://www.betofficetv*.com
 /^www.betofficetv\d{3}\.com/##.odds-container
-/^www.betofficetv\d{3}\.com/##ul
+/^www.betofficetv\d{3}\.com/##.player_logo
+/^www.betofficetv\d{3}\.com/##.footer-links
+/^www.betofficetv\d{3}\.com/##header [href="https://bo.t2m.io/bo-iptv"]
 
 ! 11 Ağu 2024 https://receive-sms-online.info
 ||receive-sms-online.info/smsplaza/img/banner.png$image
