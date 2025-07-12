@@ -991,6 +991,8 @@ my.mail.ru##.b-fourth-pseudo-column_inner.b-fourth-pseudo-column
 /^palacebettv\d{2}\.com/##.header-top
 /^palacebettv\d{2}\.com/##.nav-menu
 /^palacebettv\d{2}\.com/###popup
+/^palacebettv\d{2}\.com/#$#body { background: black !important; }
+||palacebettv*.com/images/arkaplan.png$image
 
 ! 2023-11-09 https://restizle*.com
 /^restizle\d{3}\.com/##.img-responsive
@@ -1144,12 +1146,17 @@ francoischarron.com###cookie-popup
 /^www.hdselcuksports\d{3}\.top/#%#//scriptlet('set-constant', 'puShown', 'true')
 
 ! 23 Kas 2024 https://www.selcuksports*.top
-/^www.selcuksports\d{3}\.top/##ul
-/^www.selcuksports\d{3}\.top/##div.desktop.playertop.volestream-gorsel
-/^www.selcuksports\d{3}\.top/##.footer-sticky
-/^www.selcuksports\d{3}\.top/##.footer-links
-/^www.selcuksports\d{3}\.top/##div.desktop.playerbottom.volestream-gorsel
-/^www.selcuksports\d{3}\.top/##.odds-container
+/^(www\.)?selcuksports\d{3}\.top/##ul
+/^(www\.)?selcuksports\d{3}\.top/##div.desktop.playertop.volestream-gorsel
+/^(www\.)?selcuksports\d{3}\.top/##.footer-sticky
+/^(www\.)?selcuksports\d{3}\.top/##.footer-links
+/^(www\.)?selcuksports\d{3}\.top/##div.desktop.playerbottom.volestream-gorsel
+/^(www\.)?selcuksports\d{3}\.top/##.odds-container
+/^(www\.)?selcuksports\d{3}\.top/##.ads-img
+/^(www\.)?selcuksports\d{3}\.top/##.reklam-5
+/^(www\.)?selcuksports\d{3}\.top/##body > div:nth-of-type(7)
+/^(www\.)?selcuksports\d{3}\.top/##.reklam-3
+/^(www\.)?selcuksports\d{3}\.top/##.pointer-enabled.container > div:nth-of-type(2)
 
 ! 2023-12-09 https://goblintvizle*.live
 /^goblintvizle\d{3}\.live/##[href="https://truelink.to/goblintv"]
@@ -2277,12 +2284,17 @@ scloud.ws##center
 /^www.webspor\d{3}\.xyz/##+js(set-constant, window.config.advertisement.0.enabled, 0)
 
 ! 25 Eyl 2024 https://www.taraftarium24-*.top
-/^www.taraftarium24-\d{3}\.top/##.footer-sticky
-/^www.taraftarium24-\d{3}\.top/##.footer-links
-/^www.taraftarium24-\d{3}\.top/##div.desktop.playerbottom.volestream-gorsel
-/^www.taraftarium24-\d{3}\.top/##div.desktop.playertop.volestream-gorsel
-/^www.taraftarium24-\d{3}\.top/##ul
-/^www.taraftarium24-\d{3}\.top/##.odds-container
+/^(www\.)?taraftarium24-\d{3}\.top/##.footer-sticky
+/^(www\.)?taraftarium24-\d{3}\.top/##.footer-links
+/^(www\.)?taraftarium24-\d{3}\.top/##div.desktop.playerbottom.volestream-gorsel
+/^(www\.)?taraftarium24-\d{3}\.top/##div.desktop.playertop.volestream-gorsel
+/^(www\.)?taraftarium24-\d{3}\.top/##ul
+/^(www\.)?taraftarium24-\d{3}\.top/##.odds-container
+/^(www\.)?taraftarium24-\d{3}\.top/##.ads-img
+/^(www\.)?taraftarium24-\d{3}\.top/##li.blink
+/^(www\.)?taraftarium24-\d{3}\.top/##body > div:nth-of-type(6)
+/^(www\.)?taraftarium24-\d{3}\.top/##.reklam-3
+/^(www\.)?taraftarium24-\d{3}\.top/##.container > div:nth-of-type(2)
 
 ! 21 Eki 2024 https://justin-tv.org
 justin-tv.org##center
@@ -2548,7 +2560,11 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{2}\.com/##.logo
 /^bosssports\d{2}\.com/##body > div:nth-of-type(2)
 /^bosssports\d{2}\.com/##+js(set, window.config.adv, {})
-
+/^bosssports\d{2}\.com/##.align-items-center.row.bottom-header
+/^bosssports\d{2}\.com/##.iframe-buttons
+/^bosssports\d{2}\.com/##[href^="https://t.ly/"]
+/^bosssports\d{2}\.com/##[href="#"]
+/^bosssports\d{2}\.com/##.brands
 
 
 
