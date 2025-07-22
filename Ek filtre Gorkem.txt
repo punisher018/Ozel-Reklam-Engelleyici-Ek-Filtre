@@ -2367,6 +2367,13 @@ netsporgiriss.com##.container > div:nth-of-type(2)
 /^(www\.)?netsportv\d{3}\.top/##.footer-sticky
 /^(www\.)?netsportv\d{3}\.top/##.odds-container
 /^(www\.)?netsportv\d{3}\.top/##.show.sagAlt.watermark
+/^(www\.)?netsportv\d{3}\.top/##.reklam-5
+/^(www\.)?netsportv\d{3}\.top/##.reklam-3
+/^(www\.)?netsportv\d{3}\.top/##.ads-img
+/^(www\.)?netsportv\d{3}\.top/##body > div:nth-of-type(7)
+/^(www\.)?netsportv\d{3}\.top/##ul
+/^(www\.)?netsportv\d{3}\.top/##.footer-links
+/^(www\.)?netsportv\d{3}\.top/##.container > div:nth-of-type(2)
 
 ! 30 Eyl 2024 https://vidsrc.net
 ||vidsrc.net/f59d610a61063c7ef3ccdc1fd40d2ae6.js$script
