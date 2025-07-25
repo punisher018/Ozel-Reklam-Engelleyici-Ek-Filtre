@@ -1885,14 +1885,15 @@ tifihug.com##noindex
 ! 9 Haz 2024 https://betist*tv.live
 /^betist\d{3}tv\.live/###modalPop
 /^betist\d{3}tv\.live/##.show.fade.modal-backdrop
-/^betist\d{3}tv\.live/##[href="https://cutt.ly/hw2gflnJ"]
+/^betist\d{3}tv\.live/##[href^="https://cutt.ly/"]
 /^betist\d{3}tv\.live/##.clappr-watermark
 /^betist\d{3}tv\.live/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 ||cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js$script,domain=/^betist\d{3}tv\.live/
-||betist*tv.live/Uploads/8082005b997a420395aead93f4504e87_pageskin.jpg$image
+||betist*tv.live/view/theme/safir/img/betistoback.jpg$image
 /^betist\d{3}tv\.live/##.footer-links
 /^betist\d{3}tv\.live/##ul
 /^betist\d{3}tv\.live/##.container > div:nth-of-type(2)
+/^betist\d{3}tv\.live/##.bottom-right.logo
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
