@@ -1471,6 +1471,7 @@ drakulastream.org##[href^="https://bacugo.xyz/"]
 /^belestepe\d{3,4}\.shop/##div.hidden-xs
 /^belestepe\d{3,4}\.shop/##.clappr-watermark
 /^belestepe\d{3,4}\.shop/##.lazy-loaded
+/^belestepe\d{3,4}\.shop/##+js(set, config.advertisement, {})
 
 ! 2024-02-28 https://www.justintv*.pro
 /^www.justintv\d{3}\.pro/###playerAdv2
