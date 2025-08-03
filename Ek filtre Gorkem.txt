@@ -1641,12 +1641,12 @@ www.colaker.net##.code-block-4.code-block
 shiftdelete.net##.widget_custom_html.widget.widget_text
 
 ! 7 Mar 2025 https://lorabettvhd*.shop
-/^lorabettvhd\d{1,2,3}\.shop/###modalPop
-/^lorabettvhd\d{1,2,3}\.shop/##body > div:nth-of-type(2)
-/^lorabettvhd\d{1,2,3}\.shop/##.clappr-watermark
-/^lorabettvhd\d{1,2,3}\.shop/##.show.fade.modal-backdrop
-/^lorabettvhd\d{1,2,3}\.shop/##.modal-open:style(overflow: auto !important)
-/^lorabettvhd\d{1,2,3}\.shop/##+js(nowoif)
+/^lorabettvhd\d{1,3}\.shop/###modalPop
+/^lorabettvhd\d{1,3}\.shop/##body > div:nth-of-type(2)
+/^lorabettvhd\d{1,3}\.shop/##.clappr-watermark
+/^lorabettvhd\d{1,3}\.shop/##.show.fade.modal-backdrop
+/^lorabettvhd\d{1,3}\.shop/##.modal-open:style(overflow: auto !important)
+/^lorabettvhd\d{1,3}\.shop/##+js(nowoif)
 
 ! 2024-04-23 https://muzyet.com
 ||m.killtarget.biz/$script
@@ -2574,6 +2574,7 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{2}\.com/##[href^="https://t.ly/"]
 /^bosssports\d{2}\.com/##[href="#"]
 /^bosssports\d{2}\.com/##.brands
+
 
 
 
