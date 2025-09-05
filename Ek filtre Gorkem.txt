@@ -1496,10 +1496,10 @@ matbettv.com##.zqk-type-custom_code.zqk-container
 /^avrupabettv\d{3,4}\.com/##ul
 
 ! 2024-03-05 https://rekortv*.com
-/^rekortv\d{2,3}\.com/##.show.sagAlt.watermark
-/^rekortv\d{2,3}\.com/##.pageskin
-/^rekortv\d{2,3}\.com/##.only-desktop.footer-links
-/^rekortv\d{2,3}\.com/##ul
+/^rekortv\d{2,4}\.com/##.show.sagAlt.watermark
+/^rekortv\d{2,4}\.com/##.pageskin
+/^rekortv\d{2,4}\.com/##.only-desktop.footer-links
+/^rekortv\d{2,4}\.com/##ul
 @@||rekortv*.com/wp-content/uploads/2024/11/yeni-logo-web.png$image
 
 ! 2024-03-08 https://www.playmods.net
@@ -2573,6 +2573,7 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{2}\.com/##[href^="https://t.ly/"]
 /^bosssports\d{2}\.com/##[href="#"]
 /^bosssports\d{2}\.com/##.brands
+
 
 
 
