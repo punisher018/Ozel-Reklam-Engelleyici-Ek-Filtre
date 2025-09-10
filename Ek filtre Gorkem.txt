@@ -1310,13 +1310,13 @@ www.cioupdate.com.tr##.stream-item-top-wrapper.stream-item
 www.cioupdate.com.tr##.stream-item-below-header.stream-item
 
 ! 2024-01-25 https://tarahdtv*.shop
-/^tarahdtv\d{2,3}\.shop/##[href="https://bit.ly/tarabettv"]
-/^tarahdtv\d{2,3}\.shop/##+js(rmnt, script, doOpen)
-/^tarahdtv\d{2,3}\.shop/###modalPop
-/^tarahdtv\d{2,3}\.shop/##.show.fade.modal-backdrop
-/^tarahdtv\d{2,3}\.shop/##.modal-open:style(overflow: auto !important)
-/^tarahdtv\d{2,3}\.shop/##div.vertical-gap.row:nth-of-type(2)
-/^tarahdtv\d{2,3}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+/^tarahdtv\d{1,3}\.shop/##[href="https://bit.ly/tarabettv"]
+/^tarahdtv\d{1,3}\.shop/##+js(rmnt, script, doOpen)
+/^tarahdtv\d{1,3}\.shop/###modalPop
+/^tarahdtv\d{1,3}\.shop/##.show.fade.modal-backdrop
+/^tarahdtv\d{1,3}\.shop/##.modal-open:style(overflow: auto !important)
+/^tarahdtv\d{1,3}\.shop/##div.vertical-gap.row:nth-of-type(2)
+/^tarahdtv\d{1,3}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
 
 ! 2024-01-28 https://pesktop.com
 pesktop.com##.uk-float-left.a728_90
@@ -2573,6 +2573,7 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{2}\.com/##[href^="https://t.ly/"]
 /^bosssports\d{2}\.com/##[href="#"]
 /^bosssports\d{2}\.com/##.brands
+
 
 
 
