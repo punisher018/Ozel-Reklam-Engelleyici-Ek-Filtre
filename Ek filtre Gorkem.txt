@@ -4,9 +4,9 @@
 ! Expires: 240 hours
 
 ! KONSOL AÇILIŞI ENGELLEMELERİNİ KALDIRMAK İÇİN
-!canlimacizlemax17.com##+js(nostif, 0x)
-!canlimacizlemax17.com##+js(aost, console.clear)
-!canlimacizlemax17.com##+js(nostif, ||null)
+!canlimacizlemax.com##+js(nostif, 0x)
+!canlimacizlemax.com##+js(aost, console.clear)
+!canlimacizlemax.com##+js(nostif, ||null)
 
 ! 2023-07-20 https://dizipal609.com/ - Gömülü reklam yazılarını (Burada video içindeydi) engelleme komutu
 ! ##pjsdiv[style*="position: absolute; top: -21px; left: -176px;"][style*="font-size: 15px;"]
@@ -19,9 +19,6 @@
 ##[href="https://rebrand.ly/JTVSetra"]
 ##[href="https://rebrand.ly/betkolikJTV"]
 ##.headerreklam.amp-bannerlar
-
-! 2021-04-03 https://uploadgig.com
-uploadgig.com###freevid
 
 ! 2022-03-03 https://cloud.mail.ru
 cloud.mail.ru##.b-layout__col_2_2.b-layout__col
@@ -1704,6 +1701,9 @@ asyabox.com##+js(nowoif)
 /^\d{2}bayspintv\.live/##ul
 /^\d{2}bayspintv\.live/##+js(set, config.adv, {})
 /^\d{2}bayspintv\.live/##.container > div:nth-of-type(2)
+/^\d{2}bayspintv\.live/##.nomobile
+/^\d{2}bayspintv\.live/##.bottom-right.logo
+*bayspintv.live/view/theme/safir/img/byspinyeni.png$image
 
 ! 2024-04-28 https://*kalebettv.xyz
 /^\d{2}kalebettv\.xyz/##.video-before
@@ -2574,6 +2574,11 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{2}\.com/##[href="#"]
 /^bosssports\d{2}\.com/##.brands
 
+! 12 Eyl 2025 https://*baywintv.live
+*baywintv.live/view/theme/safir/img/backgroundbaywin.jpg$image
+*baywintv.live/bannerbaywin.gif$image
+/^\d{2}baywintv\.live/##.bottom-right.logo
+/^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
 
 
 
