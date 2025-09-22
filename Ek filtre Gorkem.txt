@@ -2166,9 +2166,6 @@ gameavenue.co###custom_html-12
 ! 11 Ağu 2024 https://receive-sms-online.info
 ||receive-sms-online.info/smsplaza/img/banner.png$image
 
-! 11 Ağu 2024 https://mislink3.com
-mislink3.com##+js(rpnt, script, = 10)
-
 ! 12 Ağu 2024 https://justintv.cc
 justintv.cc##[href^="https://cutt.ly/"]
 justintv.cc##[href^="https://bit.ly/"]
@@ -2576,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
