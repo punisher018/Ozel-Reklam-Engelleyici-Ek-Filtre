@@ -2210,9 +2210,6 @@ armorgames.com##.ad-leaderboard
 giphy.com##.ads_top_leaderboard_container__P_SR7
 giphy.com##.device-desktop.brOqxe.sc-6f6dd835-0
 
-! 11 Eyl 2024 https://florence.com.tr
-florence.com.tr#%#//scriptlet('trusted-set-local-storage-item', 'cookieConsent', '{"requiredCookies":true,"functionality":false,"advertisingAndRetargeting":false,"analytics":false}')
-
 ! 15 Eyl 2024 https://www.limontv.xyz
 www.limontv.xyz#@#.header-ad-wrap
 www.limontv.xyz#@#.header-ad
@@ -2579,6 +2576,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
