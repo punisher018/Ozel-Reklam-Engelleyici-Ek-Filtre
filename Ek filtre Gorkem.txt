@@ -156,7 +156,7 @@ www.softexia.com###top-line
 
 ! 2023-04-23 https://onedio.com
 onedio.com##.mb-2\.5.u-center
-onedio.com##.focus\:outline-none.duration-200.ease-out.transition-colors.cursor-pointer.rounded-full.sm\:w-12.sm\:h-12.w-10.h-10.hover\:bg-o-blue.bg-black.top-4.right-4.u-center.z-1.absolute
+onedio.com##.focus\:outline-none.duration-200.ease-out.transition-colors.cursor-pointer.rounded-full.sm\:w-7.sm\:h-7.w-7.h-7.hover\:bg-o-blue.border-white-50.border.opacity-40.bg-black.top-1.right-1.u-center.z-1.absolute
 onedio.com##.pt-6.px-9.mx-auto.w-full.max-w-\[1100px\].rounded-\[10px\].background-widget.flex-col.flex
 onedio.com#@#.share-article
 onedio.com#@#.share-test-result
@@ -922,6 +922,8 @@ www.dinamotv103.com##.player_logo
 ! 2023-10-04 https://tipobettv*.com
 /^tipobettv\d{3}\.com/##.clappr-watermark
 ||tipobettv*.com/Uploads/15667f60bb374e59923533bc3c87093a_pageskin.jpg$image
+||tipobettv*.com/Uploads/f2113640022845a78478cd31a9968339_pageskin-tipobet.jpg$image
+/^tipobettv\d{3}\.com/##+js(set, window.config.adv, {})
 /^tipobettv\d{3}\.com/##[href="https://cutt.ly/69vmAsz"]
 /^tipobettv\d{3}\.com/##.odds-container
 /^tipobettv\d{3}\.com/##.reklam-3
@@ -1196,6 +1198,7 @@ tazz.tv##.w-\[15vw\].min-w-max.p-3.rounded-lg.to-violetOpacity2.via-violetOpacit
 /^www.mackeyfi\d{3,4}\.sbs/##.x-embed-link
 /^www.mackeyfi\d{3,4}\.sbs/##.lazy-loaded.mw100
 /^www.mackeyfi\d{3,4}\.sbs/##+js(set, config.advertisement, {})
+/^www.mackeyfi\d{3,4}\.sbs/##.clappr-watermark
 
 ! 2023-12-28 https://elithdyayin*.com
 /^(www\.)?elithdyayin\d{2}\.com/##.pageskin
@@ -1879,6 +1882,10 @@ tifihug.com##noindex
 ! 30 Tem 2025 https://milanotv*.shop
 /^milanotv\d{1,2}\.shop/##body > div:nth-of-type(2)
 /^milanotv\d{1,2}\.shop/##.clappr-watermark
+/^milanotv\d{1,2}\.shop/##.img-responsive
+/^milanotv\d{1,2}\.shop/##+js(nowoif)
+/^milanotv\d{1,2}\.shop/##.d-lg-table-cell.d-none.nk-nav-right.nk-nav
+||milanotv*.shop/Uploads/*_bckg.jpg$image
 
 ! 9 Haz 2024 https://pulitv*.live
 /^pulitv\d{2}\.live/##.show.sagAlt.watermark
@@ -1900,12 +1907,6 @@ tifihug.com##noindex
 
 ! 9 Haz 2024 https://geo.dailymotion.com
 geo.dailymotion.com##.partner_watermark
-
-! 4 May 2025 https://zibilyontv.live
-zibilyontv.live##.hidden-sm.pageskin
-zibilyontv.live##.mt-3
-zibilyontv.live##.top-right.logo
-||zibilyontv.live/view/theme/safir/img/zibilyongif.gif$image
 
 ! 9 Haz 2024 https://gizatv*.live
 /^gizatv\d{2}\.live/##.show.sagAlt.watermark
@@ -2576,6 +2577,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
