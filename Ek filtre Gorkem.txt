@@ -96,23 +96,15 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 ||video.twimg.com/ext_tw_video/1588618659517300736/pu/*
 ||video.twimg.com/ext_tw_video/1697730993543610368/pu/vid/$xhr
 
-! 2023-04-23 https://macvar*.live
-/^macvar\d{5}\.live/###_a3ef7f4389da256223c1183a6ee9e331 > [href="javascript:void(0)"]
-/^macvar\d{5}\.live/##.pfixedd.hidden-xs
-/^macvar\d{5}\.live/##a[href^="https://mrafflink.com/"]
-/^macvar\d{5}\.live/##.pageskin
-
-/^macvar\d{4}\.live/###_a3ef7f4389da256223c1183a6ee9e331 > [href="javascript:void(0)"]
-/^macvar\d{4}\.live/##.pfixedd.hidden-xs
-/^macvar\d{4}\.live/##a[href^="https://mrafflink.com/"]
-/^macvar\d{4}\.live/##.pageskin
-/^macvar\d{4}\.live/##ul
-/^macvar\d{4}\.live/##.only-desktop.footer-links
-
-/^macvar\d{3}\.live/##.only-desktop.footer-links
-/^macvar\d{3}\.live/##ul
-/^macvar\d{3}\.live/##.pageskin
-/^macvar\d{3}\.live/##a[href^="https://go.aff.mrbahis*.com/"]
+! 12 Tem 2025 https://*macvartv.live
+/^\d{2}macvartv\.live/##.pageskin
+/^\d{2}macvartv\.live/##.only-desktop.footer-links
+/^\d{2}macvartv\.live/##a[href^="https://go.aff.mrbahis539.com/"]
+/^\d{2}macvartv\.live/##ul
+/^\d{2}macvartv\.live/##.show.sagAlt.watermark
+/^\d{2}macvartv\.live/##.footer-links
+/^\d{2}macvartv\.live/##.container > div:nth-of-type(2)
+/^\d{2}macvartv\.live/##.header-top
 
 ! 2023-04-23 https://www.selcuksportshd*.xyz
 /^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
@@ -2577,6 +2569,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
