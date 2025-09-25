@@ -133,6 +133,7 @@ www.softexia.com###top-line
 /^(www\.)?trgoals\d{4}\.xyz/###duyuru1
 /^(www\.)?trgoals\d{4}\.xyz/##.ads-container
 /^(www\.)?trgoals\d{4}\.xyz/##.hellobar
+/^(www\.)?trgoals\d{4}\.xyz/##strong > div:nth-of-type(4)
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(6)
 /^(www\.)?trgoals\d{4}\.xyz/##body > div:nth-of-type(7)
 /^(www\.)?trgoals\d{4}\.xyz/##.rnd-qwert
@@ -2574,6 +2575,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
