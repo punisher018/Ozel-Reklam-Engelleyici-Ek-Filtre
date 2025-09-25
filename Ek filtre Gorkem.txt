@@ -2488,12 +2488,13 @@ watchsportnow.com##.popup-player.view-match-media-wrapper
 ||yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
 ||yakatv*.live/view/theme/safir/img/yakabito.jpg$xhr
 ||yakatv*.live/view/theme/safir/img/1679913050_1000x50.gif
-/^yakatv\d{1}\.live/##.nomobile
-/^yakatv\d{1}\.live/##.mt-3
-/^yakatv\d{1}\.live/##.top-right.logo
-/^yakatv\d{1}\.live/##+js(nosiif, devtool)
-/^yakatv\d{1}\.live/##.main > div:nth-of-type(2)
-/^yakatv\d{1}\.live/###wrapper > div
+/^yakatv\d{2}\.live/##.nomobile
+/^yakatv\d{2}\.live/##.mt-3
+/^yakatv\d{2}\.live/##.top-right.logo
+/^yakatv\d{2}\.live/##+js(nosiif, devtool)
+/^yakatv\d{2}\.live/##.main > div:nth-of-type(2)
+/^yakatv\d{2}\.live/###wrapper > div
+/^yakatv\d{2}\.live/###navbar
 
 ! 23 Eki 2024 https://betcool*tv.com
 /^betcool\d{2}tv\.com/##ul
@@ -2573,6 +2574,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
