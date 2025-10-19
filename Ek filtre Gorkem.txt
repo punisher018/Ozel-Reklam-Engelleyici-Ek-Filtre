@@ -1447,6 +1447,7 @@ bitmovin.com##.bmpui-ui-watermark
 /^macizlevip\d{3,4}\.shop/##.x-embed-link
 /^macizlevip\d{3,4}\.shop/##.siteAnnouncer.alert-success.alert
 /^macizlevip\d{3,4}\.shop/##.lazy-loaded.mw100
+/^macizlevip\d{3,4}\.shop/##.clappr-watermark
 
 ! 2024-02-23 https://canlibeinizle*.com
 /^canlibeinizle\d{3}\.com/##[href="https://bit.ly/BeinDiyarbet"]
@@ -2571,6 +2572,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
