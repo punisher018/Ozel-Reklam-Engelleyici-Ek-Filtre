@@ -752,6 +752,7 @@ www.mynet.com##div.justify-content-between.d-flex.body-banner-block
 www.mynet.com##.mb-3.membrana-video.card
 mynet.com##.mb-20px.membrana-video
 mynet.com##.item-box.podcast-item
+www.mynet.com##.mb-20px.voice-of-mynet-widget
 
 ! 2023-07-14 https://www.dtunnel.net
 www.dtunnel.net###text-2
@@ -1119,6 +1120,7 @@ fakazahouse.com##[href="https://dukingdraon.com/4/6010734"]
 
 ! 2023-12-07 https://tvmarkaj*.com
 ||tvmarkaj*.com/Uploads/*_970x100_markaj.gif$image
+||tvmarkaj*.com/wp-content/uploads/*.gif$image
 /^tvmarkaj\d{2}\.com/##.clappr-watermark
 /^tvmarkaj\d{2}\.com/##.show.sagAlt.watermark
 /^tvmarkaj\d{2}\.com/##.odds-container
@@ -1152,6 +1154,7 @@ francoischarron.com###cookie-popup
 /^(www\.)?selcuksports\d{3}\.top/##body > div:nth-of-type(7)
 /^(www\.)?selcuksports\d{3}\.top/##.reklam-3
 /^(www\.)?selcuksports\d{3}\.top/##.pointer-enabled.container > div:nth-of-type(2)
+/^(www\.)?selcuksports\d{3}\.top/##.container > div:nth-of-type(2)
 
 ! 2023-12-09 https://goblintvizle*.live
 /^goblintvizle\d{3}\.live/##[href="https://truelink.to/goblintv"]
@@ -2285,6 +2288,7 @@ scloud.ws##center
 /^(www\.)?taraftarium24-\d{3}\.top/##body > div:nth-of-type(6)
 /^(www\.)?taraftarium24-\d{3}\.top/##.reklam-3
 /^(www\.)?taraftarium24-\d{3}\.top/##.container > div:nth-of-type(2)
+/^(www\.)?taraftarium24-\d{3}\.top/##body > p
 
 ! 21 Eki 2024 https://justin-tv.org
 justin-tv.org##center
@@ -2364,6 +2368,7 @@ netsporgiriss.com##.container > div:nth-of-type(2)
 /^(www\.)?netsportv\d{3}\.top/##ul
 /^(www\.)?netsportv\d{3}\.top/##.footer-links
 /^(www\.)?netsportv\d{3}\.top/##.container > div:nth-of-type(2)
+/^(www\.)?netsportv\d{3}\.top/##.clappr-watermark
 
 ! 30 Eyl 2024 https://vidsrc.net
 ||vidsrc.net/f59d610a61063c7ef3ccdc1fd40d2ae6.js$script
@@ -2478,18 +2483,13 @@ watchsportnow.com##.popup-player.view-match-media-wrapper
 /^gizabettv\d{2}\.xyz/##.footer-links
 /^gizabettv\d{2}\.xyz/##.show.sagAlt.watermark
 
-! 2 Kas 2024 https://yakatv*.live
-||yakatv*.live/view/theme/safir/img/yakabito.jpg$image
-||yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
-||yakatv*.live/view/theme/safir/img/yakabito.jpg$xhr
-||yakatv*.live/view/theme/safir/img/1679913050_1000x50.gif
-/^yakatv\d{2}\.live/##.nomobile
-/^yakatv\d{2}\.live/##.mt-3
-/^yakatv\d{2}\.live/##.top-right.logo
-/^yakatv\d{2}\.live/##+js(nosiif, devtool)
-/^yakatv\d{2}\.live/##.main > div:nth-of-type(2)
-/^yakatv\d{2}\.live/###wrapper > div
-/^yakatv\d{2}\.live/###navbar
+! 12 Eki 2025 https://*yakatv.live
+*yakatv.live/view/theme/safir/img/yakapageskin.jpg$image
+/^\d{2}yakatv\.live/##.reklam-2
+/^\d{2}yakatv\.live/###wrapper > div:nth-of-type(1)
+/^\d{2}yakatv\.live/##.mt-3
+/^\d{2}yakatv\.live/##.top-right.logo
+/^\d{2}yakatv\.live/###navbar
 
 ! 23 Eki 2024 https://betcool*tv.com
 /^betcool\d{2}tv\.com/##ul
@@ -2563,12 +2563,14 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{3}\.com/##[href^="https://t.ly/"]
 /^bosssports\d{3}\.com/##[href="#"]
 /^bosssports\d{3}\.com/##.brands
+/^bosssports\d{3}\.com/##.clappr-watermark
 
 ! 12 Eyl 2025 https://*baywintv.live
 *baywintv.live/view/theme/safir/img/backgroundbaywin.jpg$image
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
