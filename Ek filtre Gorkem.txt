@@ -2562,6 +2562,7 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{3}\.com/##.iframe-buttons
 /^bosssports\d{3}\.com/##[href^="https://t.ly/"]
 /^bosssports\d{3}\.com/##[href="#"]
+/^bosssports\d{3}\.com/##nav.header-menu:nth-of-type(2)
 /^bosssports\d{3}\.com/##.brands
 /^bosssports\d{3}\.com/##.clappr-watermark
 
@@ -2570,6 +2571,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
