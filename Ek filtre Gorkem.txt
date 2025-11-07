@@ -122,6 +122,7 @@ www.softexia.com###top-line
 /^(www\.)?trgoals\d{4}\.xyz/##[href="//bit.ly/trgoalshd"]
 /^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://cutt.ly/"]
 /^(www\.)?trgoals\d{4}\.xyz/##a[href^="https://lotobetyon.xyz/"]
+/^(www\.)?trgoals\d{4}\.xyz/##a[href="https://t.ly/trgoals"]
 /^(www\.)?trgoals\d{4}\.xyz/##marquee
 /^(www\.)?trgoals\d{4}\.xyz/##.contentReklam
 /^(www\.)?trgoals\d{4}\.xyz/###duyuru1
@@ -866,9 +867,11 @@ disk.yandex.com.tr#@#.content_ads
 /^supertotobettv\d{3}\.com/##.pageskin
 /^supertotobettv\d{3}\.com/##.footer-links
 /^supertotobettv\d{3}\.com/##.reklam-3
-/^supertotobettv\d{3}\.com/##.odds-container.Tenis
+/^supertotobettv\d{3}\.com/##.odds-container
 /^supertotobettv\d{3}\.com/##ul
 /^supertotobettv\d{3}\.com/##.show.solAlt.watermark
+/^supertotobettv\d{3}\.com/##.ads-img
+/^supertotobettv\d{3}\.com/##.container > div:nth-of-type(2)
 
 ! 2023-09-26 https://www.dinamotv103.com
 www.dinamotv103.com##[href="http://bit.ly/3C7V4B8"]
@@ -1258,7 +1261,6 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{4}\.xyz/##center
 /^(www\.)?inattv\d{4}\.xyz/##.contentReklam
 /^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(3)
-/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(4)
 ||cdn-dfj.pages.dev/betkanyonlogo.jpg$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/caddebet468x60.gif$image
 /^(www\.)?inattv\d{4}\.xyz/##marquee
@@ -2572,6 +2574,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
