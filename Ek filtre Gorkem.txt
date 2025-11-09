@@ -1260,7 +1260,6 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 ! 2024-01-08 https://inattv*.xyz
 /^(www\.)?inattv\d{4}\.xyz/##center
 /^(www\.)?inattv\d{4}\.xyz/##.contentReklam
-/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(3)
 ||cdn-dfj.pages.dev/betkanyonlogo.jpg$image
 ||cdn--dfj-pages-dev.cdn.ampproject.org/i/s/cdn-dfj.pages.dev/caddebet468x60.gif$image
 /^(www\.)?inattv\d{4}\.xyz/##marquee
@@ -2574,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
