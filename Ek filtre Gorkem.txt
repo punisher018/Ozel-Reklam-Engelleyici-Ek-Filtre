@@ -2069,10 +2069,10 @@ lavivabettv3.fun##.show.solAlt.watermark
 ||admerkez.com/files/uploads/laviva.mp4$xhr
 
 ! 7 Tem 2024 https://www.betmatiktv*.com
-/^www.betmatiktv\d{2}\.com/##div.odds-container.Hokeyi.Buz
-/^www.betmatiktv\d{2}\.com/##.player_logo
-/^www.betmatiktv\d{2}\.com/##.footer-links
-/^www.betmatiktv\d{2}\.com/##[href="http://cutt.ly/hwYVA5CE"]
+/^(www\.)?betmatiktv\d{2}\.com/##div.odds-container
+/^(www\.)?betmatiktv\d{2}\.com/##.player_logo
+/^(www\.)?betmatiktv\d{2}\.com/##.footer-links
+/^(www\.)?betmatiktv\d{2}\.com/##[href="http://cutt.ly/hwYVA5CE"]
 
 ! 28 Tem 2024 https://justsporthd*.xyz
 /^justsporthd\d{2}\.xyz/##.duyuru
@@ -2573,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
