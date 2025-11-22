@@ -2559,7 +2559,6 @@ tcnobul.com##.page-header-ads
 /^bosssports\d{3}\.com/##.helpers > div.item
 /^bosssports\d{3}\.com/##.logo
 /^bosssports\d{3}\.com/##body > div:nth-of-type(2)
-/^bosssports\d{3}\.com/##+js(set, window.config.adv, {})
 /^bosssports\d{3}\.com/##.align-items-center.row.bottom-header
 /^bosssports\d{3}\.com/##.iframe-buttons
 /^bosssports\d{3}\.com/##[href^="https://t.ly/"]
@@ -2573,6 +2572,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
