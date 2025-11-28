@@ -2489,7 +2489,7 @@ watchsportnow.com##.popup-player.view-match-media-wrapper
 yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
 /^yakatv\d{2}\.live/##.reklam-2
 /^yakatv\d{2}\.live/###wrapper > div:nth-of-type(1)
-/^yakatv\d{2}\.live//##.mt-3
+/^yakatv\d{2}\.live/##.mt-3
 /^yakatv\d{2}\.live/##.top-right.logo
 /^yakatv\d{2}\.live/###navbar
 /^yakatv\d{2}\.live/##.hidden-sm.pageskin
@@ -2573,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
