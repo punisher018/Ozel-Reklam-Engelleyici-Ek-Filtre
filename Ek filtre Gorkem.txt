@@ -2485,13 +2485,13 @@ watchsportnow.com##.popup-player.view-match-media-wrapper
 /^gizabettv\d{2}\.xyz/##.footer-links
 /^gizabettv\d{2}\.xyz/##.show.sagAlt.watermark
 
-! 12 Eki 2025 https://*yakatv.live
-*yakatv.live/view/theme/safir/img/yakapageskin.jpg$image
-/^\d{2}yakatv\.live/##.reklam-2
-/^\d{2}yakatv\.live/###wrapper > div:nth-of-type(1)
-/^\d{2}yakatv\.live/##.mt-3
-/^\d{2}yakatv\.live/##.top-right.logo
-/^\d{2}yakatv\.live/###navbar
+! 12 Eki 2025 https://yakatv*.live
+yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
+/^yakatv\d{2}\.live/##.reklam-2
+/^yakatv\d{2}\.live/###wrapper > div:nth-of-type(1)
+/^yakatv\d{2}\.live//##.mt-3
+/^yakatv\d{2}\.live/##.top-right.logo
+/^yakatv\d{2}\.live/###navbar
 
 ! 23 Eki 2024 https://betcool*tv.com
 /^betcool\d{2}tv\.com/##ul
@@ -2572,6 +2572,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
