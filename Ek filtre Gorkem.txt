@@ -2492,6 +2492,7 @@ yakatv*.live/view/theme/safir/img/yakapageskin.jpg$image
 /^yakatv\d{2}\.live//##.mt-3
 /^yakatv\d{2}\.live/##.top-right.logo
 /^yakatv\d{2}\.live/###navbar
+/^yakatv\d{2}\.live/##.hidden-sm.pageskin
 
 ! 23 Eki 2024 https://betcool*tv.com
 /^betcool\d{2}tv\.com/##ul
@@ -2572,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
