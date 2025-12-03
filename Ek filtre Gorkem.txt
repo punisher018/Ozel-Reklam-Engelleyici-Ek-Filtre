@@ -107,7 +107,7 @@ st.chatango.com##.sdlg-main-cbdr-cpbg
 /^\d{2}macvartv\.live/##.header-top
 
 ! 2023-04-23 https://www.selcuksportshd*.xyz
-/^www.selcuksportshd\d{4}\.xyz/#$#div.player { width: 969px !important; height: 800px !important; }
+/^www.selcuksportshd[A-Za-z0-9]{10}\.xyz$/#$#div.player { width: 969px !important; height: 800px !important; }
 /^www.selcuksportshd\d{4}\.xyz/##.sidebar
 /^www.selcuksportshd\d{4}\.xyz/##.banners.container
 /^www.selcuksportshd\d{4}\.xyz/##.mb-15.banner
@@ -160,6 +160,7 @@ onedio.com###taboola-video-reel-right-rail
 onedio.com##.h-full.mr-2\.5.top-0.right-full.absolute
 onedio.com##.my-4.gap-5.items-center.justify-start.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
 onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
+onedio.com##.article__oads
 
 ! 2023-04-23 https://vegoltv*.com
 ||vegoltv*.com/1000x50.gif$image
@@ -891,6 +892,7 @@ www.dinamotv103.com##.player_logo
 /^rotabettv\d{3}\.com/##.pageskin
 /^rotabettv\d{3}\.com/##ul
 /^rotabettv\d{3}\.com/##.only-desktop.footer-links
+/^rotabettv\d{3}\.com/##.clappr-watermark
 
 ! 2023-10-01 https://forvettv*.site
 /^forvettv\d{3}\.site/##.pageskin
@@ -1709,7 +1711,8 @@ asyabox.com##+js(nowoif)
 /^\d{2}bayspintv\.live/##.container > div:nth-of-type(2)
 /^\d{2}bayspintv\.live/##.nomobile
 /^\d{2}bayspintv\.live/##.bottom-right.logo
-*bayspintv.live/view/theme/safir/img/byspinyeni.png$image
+/^\d{2}bayspintv\.live/##.hidden-sm.pageskin
+/^\d{2}bayspintv\.live/##.top-right.logo
 
 ! 2024-04-28 https://*kalebettv.xyz
 /^\d{2}kalebettv\.xyz/##.video-before
@@ -2573,6 +2576,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
