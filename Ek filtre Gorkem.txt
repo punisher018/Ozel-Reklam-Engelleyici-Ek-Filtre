@@ -1272,10 +1272,8 @@ t24.com.tr##.tbl-logo-right-position.tbl-feed-header
 /^(www\.)?inattv\d{4}\.xyz/##.container > div:nth-of-type(2)
 /^(www\.)?inattv\d{4}\.xyz/##.hellobar
 /^(www\.)?inattv\d{4}\.xyz/##.rnd-qwert
-/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(6)
 ||blogger.googleusercontent.com/img/*/bahsegel.png$image
 /^(www\.)?inattv\d{4}\.xyz/##a[href^="https://betboxaffi.com/"]
-/^(www\.)?inattv\d{4}\.xyz/##body > div:nth-of-type(7)
 /^(www\.)?inattv\d{4}\.xyz/##.ads_single_font
 
 ! 23 Eki 2024 https://inattvgiris.pro
@@ -2575,6 +2573,7 @@ tcnobul.com##.page-header-ads
 *baywintv.live/bannerbaywin.gif$image
 /^\d{2}baywintv\.live/##.bottom-right.logo
 /^\d{2}baywintv\.live/##[href^="https://cutt.ly/"]
+
 
 
 
