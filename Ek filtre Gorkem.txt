@@ -160,6 +160,8 @@ onedio.com###taboola-video-reel-right-rail
 onedio.com##.h-full.mr-2\.5.top-0.right-full.absolute
 onedio.com##.my-4.gap-5.items-center.justify-start.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
 onedio.com##.my-4.items-center.justify-between.flex.rounded-xl.to-\[\#332393\].from-\[\#9456e4\].bg-gradient-to-r.py-2\.5.pl-3.h-\[53px\].kesfet_promotion
+onedio.com###__layout > div.font-sans > div > div.layout.layout--full.min-h-screen.flex.flex-col > div.layout__header-wrapper:first-child > div.header__wrapper-new.fixed.top-0.left-0.right-0.w-full.bg-body-primary.z-header.block > nav.w-full.bg-white.h-10.border-b.border-t.border-\[\#E2E2E2\].shadow-sm:last-child
+onedio.com#$#.pt-\[140px\] { padding-top: 85px !important; }
 
 ! 2023-04-23 https://vegoltv*.com
 ||vegoltv*.com/1000x50.gif$image
